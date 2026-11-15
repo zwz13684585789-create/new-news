@@ -1,0 +1,5 @@
+{
+  "status": "failed",
+  "provider": "resend",
+  "error": "UnicodeEncodeError: 'latin-1' codec can't encode characters in position 7-9: ordinal not in range(256)"
+}
