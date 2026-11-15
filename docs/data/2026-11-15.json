@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-15T03:42:53+00:00",
+  "generated_at": "2026-11-15T03:55:22+00:00",
   "stories": [
     {
       "id": "P1",
@@ -66,7 +66,7 @@
           "url": "https://www.channelnewsasia.com/world/spacex-starship-returns-landing-pad-orbit-acing-test-reusable-rockets-6552211"
         }
       ],
-      "_score": 63.61
+      "_score": 63.57
     },
     {
       "id": "P2",
@@ -132,7 +132,7 @@
           "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins"
         }
       ],
-      "_score": 59.87
+      "_score": 59.83
     },
     {
       "id": "P3",
@@ -185,7 +185,7 @@
           "url": "https://www.jpost.com/health-and-wellness/article-914672"
         }
       ],
-      "_score": 59.8
+      "_score": 59.76
     },
     {
       "id": "P4",
@@ -238,7 +238,7 @@
           "url": "https://www.jpost.com/israel-election-2026/article-914868"
         }
       ],
-      "_score": 59.64
+      "_score": 59.6
     },
     {
       "id": "E1",
@@ -278,7 +278,7 @@
           "url": "https://www.scmp.com/business/banking-finance/article/3374294/nvidias-plunge-life-policy-record-5-figures-investors-are-watching"
         }
       ],
-      "_score": 38.61
+      "_score": 38.57
     },
     {
       "id": "E2",
@@ -305,7 +305,7 @@
           "url": "https://www.scmp.com/property/international/article/3374432/strong-office-rental-growth-keeps-us-investors-japan-despite-rate-increases"
         }
       ],
-      "_score": 27.38
+      "_score": 27.35
     },
     {
       "id": "E3",
@@ -332,7 +332,7 @@
           "url": "WP-MKTW-0005339924"
         }
       ],
-      "_score": 26.35
+      "_score": 26.32
     },
     {
       "id": "E4",
@@ -359,7 +359,7 @@
           "url": "https://www.scmp.com/opinion/china-opinion/article/3374104/china-should-share-its-renewable-energy-expertise"
         }
       ],
-      "_score": 24.8
+      "_score": 24.76
     },
     {
       "id": "F1",
@@ -399,7 +399,7 @@
           "url": "https://www.skysports.com/f1/news/12433/13611077/las-vegas-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-in-united-states-live-on-sky-sports"
         }
       ],
-      "_score": 38.07
+      "_score": 38.04
     },
     {
       "id": "F2",
@@ -439,7 +439,7 @@
           "url": "https://www.formula1.com/en/latest/article/mercedes-incredible-success-through-formula-1-history.7yLliKc36ZI9pd7xzNYFwq"
         }
       ],
-      "_score": 37.42
+      "_score": 37.39
     },
     {
       "id": "F3",
@@ -479,7 +479,7 @@
           "url": "https://www.formula1.com/en/latest/article/toto-wolffs-journey-from-williams-to-nine-time-champion-with-mercedes.2l85DG3mfUyL5icscw0Gbn"
         }
       ],
-      "_score": 33.48
+      "_score": 33.45
     },
     {
       "id": "F4",
@@ -519,7 +519,7 @@
           "url": "https://www.the-race.com/formula-1/ferrari-leclerc-hamilton-f1-problem-far-from-solved/"
         }
       ],
-      "_score": 28.12
+      "_score": 28.08
     },
     {
       "id": "A1",
@@ -585,7 +585,7 @@
           "url": "https://www.scmp.com/news/china/article/3374278/jensen-huang-quits-nvidia-non-invasive-treatment-kidney-tumours-scmps-7-highlights"
         }
       ],
-      "_score": 63.0
+      "_score": 62.96
     },
     {
       "id": "A2",
@@ -651,7 +651,7 @@
           "url": "https://www.scmp.com/tech/big-tech/article/3374357/jensen-huangs-exit-tests-nvidias-supply-chain-clout-ability-bankroll-ai-buildout"
         }
       ],
-      "_score": 62.14
+      "_score": 62.11
     },
     {
       "id": "A3",
@@ -717,7 +717,7 @@
           "url": "https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html"
         }
       ],
-      "_score": 61.88
+      "_score": 61.85
     },
     {
       "id": "A4",
@@ -770,18 +770,18 @@
           "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "_score": 49.33
+      "_score": 49.3
     }
   ],
   "stats": {
     "feeds_ok": 42,
     "feeds_failed": 2,
     "items": 361,
-    "clusters": 266,
+    "clusters": 265,
     "stories": 16,
     "feeds_total": 44,
     "errors": 2,
-    "elapsed_sec": 3.1
+    "elapsed_sec": 5.0
   },
   "errors": [
     {
@@ -800,7 +800,7 @@
   ],
   "llm_used": false,
   "llm_provider": "",
-  "llm_error": "UnicodeEncodeError: 'latin-1' codec can't encode characters in position 7-15: ordinal not in range(256)",
+  "llm_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "lede": "今日由 RSS 多源自动聚合，共 16 条要闻、42 个来源；政治、经济、F1、AI 四条线各自独立成表。",
   "takeaways": [
     "政治：'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",

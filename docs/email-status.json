@@ -1,5 +1,6 @@
 {
-  "status": "failed",
-  "provider": "resend",
-  "error": "UnicodeEncodeError: 'latin-1' codec can't encode characters in position 7-9: ordinal not in range(256)"
+  "status": "sent",
+  "provider": "smtp",
+  "host": "smtp.163.com",
+  "port": 465
 }
