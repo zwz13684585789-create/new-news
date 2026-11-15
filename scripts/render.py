@@ -115,7 +115,10 @@ def render_html(data: dict, css: str, archive_link: bool = True) -> str:
     srcs = all_sources(data)
     issues = []
     if not data.get("llm_used"):
-        issues.append("未启用中文摘要（未配置模型 API 或调用失败），标题与摘要保留英文原文。")
+        if data.get("translation_used"):
+            issues.append("未启用模型摘要；标题、事实与来源角度为机器翻译，数字与人名请以原文链接为准。")
+        else:
+            issues.append("未启用中文摘要（未配置模型 API 或调用失败），标题与摘要保留英文原文。")
     failed = data.get("stats", {}).get("feeds_failed", 0)
     if failed:
         issues.append(f"{failed} 个 RSS 源抓取失败，已跳过；这会影响当天的来源覆盖。")

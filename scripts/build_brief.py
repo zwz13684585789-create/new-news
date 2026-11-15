@@ -25,7 +25,7 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
-from scripts import llm, mailer, render  # noqa: E402
+from scripts import llm, mailer, render, translate  # noqa: E402
 from scripts.pipeline import build_dataset  # noqa: E402
 
 
@@ -35,6 +35,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--out", default="docs", help="output directory (default: docs)")
     p.add_argument("--no-google", action="store_true", help="skip Google News fallback")
     p.add_argument("--no-llm", action="store_true", help="skip Chinese rewriting")
+    p.add_argument("--no-translate", action="store_true", help="skip the machine-translation fallback")
     p.add_argument("--no-email", action="store_true", help="skip email delivery")
     p.add_argument("--email-dry-run", action="store_true", help="write .eml preview instead of sending")
     p.add_argument("--sample", action="store_true", help="use sample/sample.json (offline smoke test)")
@@ -80,6 +81,14 @@ def main() -> int:
             print(f"[llm] ok provider={data.get('llm_provider')}", flush=True)
         else:
             print(f"[llm] fallback: {data.get('llm_error')}", flush=True)
+
+    if not data.get("llm_used") and not args.no_translate:
+        print("[translate] model unavailable; translating headlines/facts...", flush=True)
+        data = translate.translate_dataset(data)
+        if data.get("translation_used"):
+            print("[translate] ok", flush=True)
+        else:
+            print(f"[translate] skipped/failed: {data.get('translation_error', 'no change')}", flush=True)
 
     data = render.fallback_fields(data)
 
