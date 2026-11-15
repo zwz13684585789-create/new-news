@@ -47,7 +47,7 @@ CATEGORY_TERMS = {
            "data center", "datacenter", "llm", "ai model", "ai "],
     "F1": ["formula 1", "f1", "grand prix", "gp", "antonelli", "verstappen", "hamilton",
            "leclerc", "norris", "russell", "mercedes", "ferrari", "red bull", "mclaren",
-           "pirelli", "las vegas", "qatar", "abu dhabi", "driver"],
+           "pirelli", "las vegas", "qatar", "abu dhabi"],
     "经济": ["stock", "market", "economy", "inflation", "fed", "rate", "oil", "trade",
            "tariff", "gdp", "jobs", "earnings", "bond", "dollar", "yuan", "bank", "price"],
 }

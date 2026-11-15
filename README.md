@@ -11,6 +11,14 @@
 
 > 想先看效果：`demo/index.html` 是用内置样例生成的离线预览，直接双击打开即可。
 
+## 当前部署
+
+- 仓库：https://github.com/zwz13684585789-create/new-news
+- 网页：https://zwz13684585789-create.github.io/new-news/
+- 每天 08:00（Asia/Shanghai）自动更新；邮件发到 `MAIL_TO`。
+
+换仓库或首次部署时，按下面的 5 分钟步骤操作。
+
 ---
 
 ## 5 分钟部署
@@ -71,15 +79,17 @@
 
 ## 中文摘要怎么来
 
-脚本本身只用标准库抓 RSS，不做翻译。中文改写按以下优先级选择模型：
+脚本只用标准库抓 RSS，不做翻译。中文改写按以下优先级：
 
 1. `LLM_BASE_URL` + `LLM_API_KEY` + `LLM_MODEL`（任意 OpenAI 兼容端点）
 2. `DEEPSEEK_API_KEY`（默认 `deepseek-chat`）
-3. `GITHUB_TOKEN` + GitHub Models（默认 `openai/gpt-4o-mini`，工作流已给 `models: read` 权限）
+3. `GITHUB_TOKEN` + GitHub Models（默认 `openai/gpt-4o-mini`；端点偶尔返回非 JSON，失败会自动跳过）
+4. **机器翻译兜底**：Google Translate 公共端点，不需要 key；翻译标题、事实与来源角度
+5. 都失败才保留英文原文
 
-都没有时，页面仍会生成，但标题和摘要保留英文原文，并在顶部显示提示。**不会因为模型不可用而中断。**
+**不会因为模型或翻译不可用而中断发布。** 页面顶部会说明当前用的是“模型摘要”还是“机器翻译”。
 
-想固定用 DeepSeek：在 GitHub 加 `DEEPSEEK_API_KEY` 即可，代码会优先用它。
+想稳定拿到中文摘要：加有效的 `DEEPSEEK_API_KEY`，代码会优先用它。
 
 ---
 
@@ -138,6 +148,16 @@ Feed("bbc-world", "BBC", "中", "政治", "https://feeds.bbci.co.uk/news/world/r
 
 ---
 
+## 常见故障
+
+- **Startup failure / “actions ... are not allowed”**：仓库 Actions 权限被设为 `local_only`。到 **Settings → Actions → General → Actions permissions** 选 **Allow all actions and reusable workflows**，保存后重跑。等价 API：`PUT /repos/{owner}/{repo}/actions/permissions`，body `{"enabled":true,"allowed_actions":"all"}`。
+- **邮件 failed: UnicodeEncodeError**：某个 Secret 里填了中文占位符（如“你的 Key”），或复制时带了中文标点。删掉无效的 `RESEND_API_KEY` / `DEEPSEEK_API_KEY`，或换成真实值。
+- **邮件 failed: SMTPAuthenticationError**：163 没有开启 SMTP，或填的是登录密码而不是**客户端授权密码**。
+- **页面是英文**：模型与机器翻译都失败。看 Actions 日志里的 `[llm]` / `[translate]`，或加有效的 `DEEPSEEK_API_KEY`。
+- **网页 404**：Pages 的 Source 还没设为 **GitHub Actions**，或第一次部署还没完成；等 1–2 分钟再刷新。
+
+---
+
 ## 已知限制
 
 - **RSS 不是全量新闻**。付费墙媒体（WSJ、Bloomberg、FT）的 RSS 可能只有标题/摘要；没有 RSS 的媒体不会出现。
@@ -146,7 +166,7 @@ Feed("bbc-world", "BBC", "中", "政治", "https://feeds.bbci.co.uk/news/world/r
 - **仓库 60 天无活动会被暂停定时任务**；本工作流每天提交 `docs/`，通常能保持活跃。
 - **163 SMTP 对海外 IP 不友好**；优先用 Resend，或把 163 设为备用。
 - **模型可能改写过度**。Prompt 里已要求“只用输入事实”，但自动摘要仍需人工扫一眼；页面会保留原始来源链接。
-- **GitHub Models 有速率限制**；失败会自动回退到英文原文，不会卡住发布。
+- **GitHub Models 端点不稳定**；失败会先走机器翻译，再退英文原文，不会卡住发布。
 
 ---
 
