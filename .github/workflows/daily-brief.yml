@@ -1,0 +1,85 @@
+name: Daily Brief
+
+on:
+  schedule:
+    # 00:00 UTC = 08:00 Asia/Shanghai
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  models: read
+
+concurrency:
+  group: daily-brief
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build briefing
+        env:
+          TZ: Asia/Shanghai
+          PYTHONUNBUFFERED: "1"
+          GITHUB_TOKEN: ${{ github.token }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          MAIL_TO: ${{ vars.MAIL_TO }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          MAIL_FROM: ${{ vars.MAIL_FROM }}
+          PAGES_URL: ${{ vars.PAGES_URL }}
+        run: python scripts/build_brief.py
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "brief: $(date -u +%F)"
+            git pull --rebase origin "${GITHUB_REF_NAME}" || true
+            git push
+          fi
+
+      - name: Show email status
+        if: always()
+        run: |
+          if [ -f docs/email-status.json ]; then cat docs/email-status.json; else echo "no email-status.json"; fi
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

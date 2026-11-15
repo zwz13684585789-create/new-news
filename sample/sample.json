@@ -1,0 +1,587 @@
+{
+  "date": "2026-11-15",
+  "stories": [
+    {
+      "id": "P1",
+      "title": "中期选举大胜后，特朗普改口质疑“舞弊”",
+      "facts": [
+        "11月3日中期选举，民主党取得压倒性胜利，投票率创历史新高；特朗普当天称“民主党干得不错”，并表示接受结果。",
+        "11月9日他改口：“你们真相信这场选举公平吗？”把败因指向提前投票与投票机；舒默回应“他挡不住惨败的事实”。",
+        "特朗普把副总统万斯从伊朗谈判调回，专抓“fraud campaign”；对2028年接棒含糊其辞，反而点名鲁比奥。",
+        "众院本周将表决对国防部长赫格塞斯的弹劾案，只要有3名共和党人倒戈即可通过。"
+      ],
+      "sources": [
+        {
+          "lean": "中",
+          "name": "SBS",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008838167",
+          "angle": "逐日还原“接受→翻供”的时间线，并提到赫格塞斯弹劾表决。"
+        },
+        {
+          "lean": "中左",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections",
+          "angle": "以“逆转立场”为主线，突出选举官员与民主党回应。"
+        },
+        {
+          "lean": "左",
+          "name": "CNN",
+          "url": "https://us.cnn.com/2026/11/14/politics/election-fraud-claims-midterms",
+          "angle": "用“voter fraud-industrial complex 遭遇生存危机”框定共和党舞弊叙事。"
+        },
+        {
+          "lean": "右",
+          "name": "Fox News",
+          "url": "https://www.foxnews.com/us/blue-wave-sweeps-democrats-power-more-top-headlines",
+          "angle": "首页以“蓝色浪潮席卷民主党上台”报道结果，未给舞弊指控提供独立佐证。"
+        }
+      ],
+      "framing": "左翼聚焦“否认选举结果”的民主风险；中间媒体核对时间线与程序；右翼把舞弊指控当作政治新闻处理，而非事实结论。",
+      "category": "政治"
+    },
+    {
+      "id": "P2",
+      "title": "科米第三次被起诉：指向“泄密给《纽约时报》”",
+      "facts": [
+        "司法部10月26日第三次起诉前FBI局长科米，指其“明知并故意”传递国防信息、并共谋这样做；核心指向他向《纽约时报》提供敏感材料。",
+        "这是特朗普第二任期内的第三起联邦刑案；科米律师请求法官以“报复性起诉”为由阻止案件。",
+        "BBC称，此案把特朗普“政治清算”的竞选承诺推向新阶段；《纽约时报》披露，司法部内部曾讨论把该报列为共谋者。"
+      ],
+      "sources": [
+        {
+          "lean": "中",
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/ckly0xqjnlwvo",
+          "angle": "把案件放进“特朗普报复承诺”的政治语境。"
+        },
+        {
+          "lean": "中",
+          "name": "Courthouse News",
+          "url": "https://www.courthousenews.com/former-fbi-director-james-comey-faces-new-criminal-case-in-dc/",
+          "angle": "聚焦起诉书、管辖与程序进展。"
+        },
+        {
+          "lean": "左",
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
+          "angle": "以“司法部再控科米泄密”报道，强调案件的政治背景。"
+        },
+        {
+          "lean": "右",
+          "name": "New York Post",
+          "url": "https://nypost.com/2026/10/26/us-news/ex-fbi-director-james-comey-facing-charges-for-third-time-by-trump-admin/",
+          "angle": "标题直指“向《纽约时报》泄密”，突出“明知并故意”的指控措辞。"
+        }
+      ],
+      "framing": "右翼媒体聚焦“泄密”本身；左翼与中间媒体更强调“第三起刑案”与报复性起诉的争议。",
+      "category": "政治"
+    },
+    {
+      "id": "P3",
+      "title": "伊朗战争“军事上基本结束”，但封锁与谈判未解",
+      "facts": [
+        "特朗普与卡塔尔首相会谈后称：“伊朗在军事上已经基本结束”，但美军海上封锁与“铁门行动”（Operation Iron Gate）继续，部队保持“locked and loaded”。",
+        "伊朗国安委秘书雷扎伊否认存在谈判，要求美方接受七项条件；卡塔尔试图为外交争取时间。",
+        "万斯此前已与伊朗方面接触两周，随后被特朗普调回国内抓“舞弊”议题，谈判节奏生变。"
+      ],
+      "sources": [
+        {
+          "lean": "中",
+          "name": "AP",
+          "url": "https://apnews.com/article/iran-us-war-trump-qatar-c38770b168faf5e094e96c1e1e212cff",
+          "angle": "以“effectively over”为标题，强调这是特朗普的评估而非协议。"
+        },
+        {
+          "lean": "中",
+          "name": "Arab News",
+          "url": "https://www.arabnews.com/middle-east/trump-says-iran-war-is-militarily-effectively-over-after-qatar-pm-talks-3010816",
+          "angle": "从海湾视角记录卡塔尔斡旋与“协议尚未达成”。"
+        },
+        {
+          "lean": "右",
+          "name": "Iran International",
+          "url": "https://www.iranintl.com/en/202611102662",
+          "angle": "详列封锁、行动名称与伊朗否认，突出威胁仍在。"
+        },
+        {
+          "lean": "左",
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
+          "angle": "聚焦万斯被调离，谈判让位于国内政治。"
+        }
+      ],
+      "framing": "中间媒体区分“军事评估”与“政治协议”；右翼流亡媒体强调伊朗拒不让步；左翼强调战争成本与外交脆弱性。",
+      "category": "政治"
+    },
+    {
+      "id": "P4",
+      "title": "加沙纳赛尔医院遭袭，18国联名谴责",
+      "facts": [
+        "以军空袭汗尤尼斯纳赛尔医疗中心，至少6人死亡（含一名外科医生）、20余人受伤，伤者包括儿童与医护人员。",
+        "埃及、卡塔尔、沙特、土耳其、印尼等18个阿拉伯与伊斯兰国家外长联名谴责，称攻击医疗设施违反国际人道法。",
+        "死亡数字各源在6至7人之间。"
+      ],
+      "sources": [
+        {
+          "lean": "官媒",
+          "name": "Xinhua",
+          "url": "http://chinaview.cn/20261115/893b2d6dbb424447be33e51976d918e9/c.html",
+          "angle": "完整列出18国名单与联合声明措辞。"
+        },
+        {
+          "lean": "左",
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+          "angle": "以“外科医生与另外五人死亡”为题，突出医疗系统受袭。"
+        },
+        {
+          "lean": "中右",
+          "name": "The Jerusalem Post",
+          "url": "http://live.jpost.com/israel-news/article-914881",
+          "angle": "从以色列安全语境报道“穆斯林国家谴责”。"
+        },
+        {
+          "lean": "中左",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel",
+          "angle": "现场视频与伤者证词，强调人道后果。"
+        }
+      ],
+      "framing": "官方通讯社重声明文本；左翼重平民与医疗设施；以色列右翼媒体重安全叙事与外交反应。",
+      "category": "政治"
+    },
+    {
+      "id": "E1",
+      "title": "美联储12月加息概率升至87%，10年期美债逼近5.15%",
+      "facts": [
+        "美国10月CPI环比+0.4%、核心+0.3%，均高于预期；会议纪要显示更多官员对“再加一次”持开放态度。",
+        "市场定价12月加息25个基点概率约87%；10年期美债收益率约5.14%，接近多年高位。",
+        "WSJ称，美联储被迫面对“更大幅度、更快节奏”加息的论据；部分官员（如Paulson）仍主张渐进。"
+      ],
+      "sources": [
+        {
+          "lean": "中右",
+          "name": "The Wall Street Journal",
+          "url": "https://www.wsj.com/economy/central-banking/fed-forced-to-confront-case-for-bigger-and-faster-rate-rises-ac181706",
+          "angle": "以“更大幅度、更快加息”为题，代表市场鹰派阅读。"
+        },
+        {
+          "lean": "中",
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-10/us-october-cpi-comes-in-hotter-than-expected-video",
+          "angle": "聚焦10月CPI超预期与通胀黏性。"
+        },
+        {
+          "lean": "官媒",
+          "name": "Xinhua",
+          "url": "http://www.chinaview.cn/northamerica/20261114/53e6092c1fb44806bc4bdd815f6e3506/c.html",
+          "angle": "给出债市、FedWatch概率与“加息多少”的争论。"
+        }
+      ],
+      "framing": "中右财经媒体强调“必须更紧”；通讯社聚焦市场定价；官方媒体强调美国通胀与债市压力。",
+      "category": "经济"
+    },
+    {
+      "id": "E2",
+      "title": "黄仁勋辞任英伟达CEO，芯片股遭第二轮抛售",
+      "facts": [
+        "11月12日黄仁勋辞去CEO、总裁与董事职务，CFO Colette Kress任临时CEO；董事会启动独立调查。",
+        "导火索是《纽约时报》报道其与Alice Huang的关系、美方指后者为中国间谍；黄11月8日承认婚外情，北京否认间谍指控。",
+        "英伟达当日跌13%、市值跌破4万亿美元，周五再跌约2%；HSBC下调至“持有”，目标价从360美元砍到170美元。",
+        "黄仁勋放弃约1.08亿美元未归属股权；特朗普称库克是接任“唯一人选”，并称FBI已介入。"
+      ],
+      "sources": [
+        {
+          "lean": "中",
+          "name": "BBC（经The Star转载）",
+          "url": "https://www.the-star.co.ke/news/world/2026-11-12-nvidia-ceo-jensen-huang-resigns-how-did-we-get-here",
+          "angle": "以时间线梳理“报道→承认→辞职”的政治后果。"
+        },
+        {
+          "lean": "中",
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-market-value-sinks-below-4-trillion-after-huang-resigns",
+          "angle": "聚焦市值跌破4万亿美元与股权损失。"
+        },
+        {
+          "lean": "右",
+          "name": "Fox Business",
+          "url": "https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns",
+          "angle": "以“临时CEO与投资者担忧”为框架，突出治理真空。"
+        },
+        {
+          "lean": "官媒",
+          "name": "Xinhua",
+          "url": "http://www.chinaview.cn/northamerica/20261114/53e6092c1fb44806bc4bdd815f6e3506/c.html",
+          "angle": "从芯片股抛售、AMD与Cisco联动看市场传染。"
+        }
+      ],
+      "framing": "英国媒体重政治牵连；财经媒体重估值与治理；右翼商业媒体重投资者信心；中国官方媒体重供应链与中美科技战。",
+      "category": "经济"
+    },
+    {
+      "id": "E3",
+      "title": "油价连续第二周下跌，IEA称市场重回过剩",
+      "facts": [
+        "布伦特收于95.84美元/桶（+0.02%），WTI收于88.56美元（-0.2%）；两大基准周跌约2.5%，连续第二周下滑。",
+        "IEA称，全球油市正自美以对伊战争以来首次回到供应过剩；霍尔木兹海峡流量恢复。",
+        "能源股成为标普500中少数上涨板块（+0.96%），与科技股下跌形成对照。"
+      ],
+      "sources": [
+        {
+          "lean": "中",
+          "name": "Reuters（经Gulf Times转载）",
+          "url": "https://beta.gulf-times.com/article/738193/business/oil-prices-decline-on-signs-of-growing-supply-surplus",
+          "angle": "以“供应过剩”为标题，突出基本面转向。"
+        },
+        {
+          "lean": "官媒",
+          "name": "Algerian Radio",
+          "url": "https://news.radioalgerie.dz/en/node/99010",
+          "angle": "给出布伦特/WTI收盘价与“连续第二周”判断。"
+        },
+        {
+          "lean": "官媒",
+          "name": "Xinhua",
+          "url": "http://www.chinaview.cn/northamerica/20261114/53e6092c1fb44806bc4bdd815f6e3506/c.html",
+          "angle": "把油价与美股、美债放在同一宏观画面里。"
+        }
+      ],
+      "framing": "市场媒体重供需；产油国媒体重价格与收入；通讯社重宏观联动。",
+      "category": "经济"
+    },
+    {
+      "id": "E4",
+      "title": "Anthropic启动IPO：募资610亿美元，估值1.2万亿—1.3万亿美元",
+      "facts": [
+        "拟发行8.25亿股、定价70—78美元，募资610亿美元；中点摊薄估值约1.2万亿美元（不含1110亿美元可转债），高端约1.3万亿。",
+        "AMD、博通、谷歌、Micron、微软、英伟达、台积电等承诺以发行价认购260亿美元私募配售。",
+        "这将是史上第二大IPO，仅次于SpaceX今年6月的750亿美元；定价与挂牌预计在11月16日当周。",
+        "IPO前发布Claude Fable 5.2/Mythos 5.2：输出快30%，价格降至每百万输入/输出token 8/40美元。"
+      ],
+      "sources": [
+        {
+          "lean": "专业",
+          "name": "Renaissance Capital",
+          "url": "https://www.renaissancecapital.com/IPO-Center/News/122657/anthropic-sets-terms-for-61-billion-ipo-targeting-a-1.2-trillion-market-cap",
+          "angle": "给出发行结构、认购方与“史上第二大IPO”定位。"
+        },
+        {
+          "lean": "中右",
+          "name": "The Wall Street Journal",
+          "url": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669",
+          "angle": "称其寻求1.3万亿美元估值，代表高端口径。"
+        },
+        {
+          "lean": "一手",
+          "name": "Anthropic",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "angle": "自述模型能力、价格与安全护栏。"
+        },
+        {
+          "lean": "中左",
+          "name": "Indian Express",
+          "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-unveils-claude-fable-5-2-mythos-5-2-ahead-of-potential-ipo-10957120/",
+          "angle": "解释Fable/Mythos差异与IPO前的产品节奏。"
+        }
+      ],
+      "framing": "行业数据源重交易结构；财经媒体重估值合理性；公司一手材料重能力与安全；不同源对估值口径存在1.2万亿—1.4万亿的差异。",
+      "category": "经济"
+    },
+    {
+      "id": "F1-1",
+      "title": "安东内利20岁加冕最年轻世界冠军，梅赛德斯夺第九冠",
+      "facts": [
+        "安东内利在墨西哥城站提前锁定2026车手冠军，以20岁成为F1史上最年轻世界冠军。",
+        "梅赛德斯在巴西站锁定第九个车队冠军，为2021年以来首次，追平威廉姆斯。",
+        "巴西站诺里斯夺冠，维斯塔潘第二，哈贾尔第三；安东内利赛后拜访意大利总统马塔雷拉。"
+      ],
+      "sources": [
+        {
+          "lean": "一手",
+          "name": "Formula1.com",
+          "url": "https://www.formula1.com/en/latest/article/our-writers-on-antonellis-title-success-and-what-it-means.2FAfHA49byUlrrTfVgWKWc",
+          "angle": "官方写手复盘冠军含金量与该胜利对这项运动的意义。"
+        },
+        {
+          "lean": "中",
+          "name": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-02/f1-records-broken-by-kimi-antonelli-in-2026/107154478",
+          "angle": "盘点安东内利2026赛季打破的纪录。"
+        },
+        {
+          "lean": "官媒",
+          "name": "Xinhua",
+          "url": "http://english.news.cn/20261102/9d771d52b0a947f88a4cf2a701472929/c.html",
+          "angle": "以“最年轻冠军+维斯塔潘夺冠”双线报道。"
+        },
+        {
+          "lean": "中",
+          "name": "BBC",
+          "url": "https://www.bbc.com/sport/formula1",
+          "angle": "人物稿，强调其心理韧性与梅赛德斯体系。"
+        }
+      ],
+      "framing": "体育专业媒体重竞技含金量；通讯社重纪录；人物稿重成长叙事。体育媒体的“政治倾向”意义有限，本表按编辑立场粗标。",
+      "category": "F1"
+    },
+    {
+      "id": "F1-2",
+      "title": "FIA吊销《每日邮报》记者采访证，报社抵制最后三站",
+      "facts": [
+        "FIA吊销资深F1记者Jonathan McEvoy的2026赛季剩余采访证（最后三站）；通知由FIA总经理发出，而非媒体部门。",
+        "起因是他在《每日邮报》专栏批评勒克莱尔/法拉利——墨西哥站勒克莱尔与汉密尔顿发生争议事件。",
+        "《每日邮报》宣布抵制F1最后三站；McEvoy称禁令疑由法拉利推动；FIA确认这是“三站禁令”。",
+        "事件引发新闻自由与“车企干预监管”的争论。"
+      ],
+      "sources": [
+        {
+          "lean": "专业",
+          "name": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/14/fia-confirm-f1-ban-for-daily-mail-journalist-over-ferrari-spat/",
+          "angle": "确认“剩余赛季禁赛”，还原通知路径与专栏背景。"
+        },
+        {
+          "lean": "专业",
+          "name": "Grande Prêmio",
+          "url": "https://grandepremio.com/en/f1/f1-today-daily-mail-boycotts-final-races-as-fia-faces-backlash-and-f1-considers-cost-cap-reform/",
+          "angle": "把禁令、成本帽改革、安东内利见总统并列当日F1简报。"
+        },
+        {
+          "lean": "左",
+          "name": "The Athletic (NYT)",
+          "url": "https://www.nytimes.com/athletic/7778735/2026/11/13/f1-reporter-banned-daily-mail-charles-leclerc/",
+          "angle": "以“因批评勒克莱尔被禁”为题，强调记者权益。"
+        },
+        {
+          "lean": "右",
+          "name": "Daily Mail",
+          "url": "https://www.dailymail.co.uk/sport/formulaone/article-16290815/Daily-Mail-ban-F1-boycott-jonathan-mcevoy-barred.html",
+          "angle": "自身立场——“我们抵制，因为我们的记者被封杀”。"
+        }
+      ],
+      "framing": "专业媒体重程序与认证规则；《每日邮报》重新闻自由与法拉利施压；《纽约时报》体系重记者权利。",
+      "category": "F1"
+    },
+    {
+      "id": "F1-3",
+      "title": "拉斯维加斯站下周开跑，赛季进入最后三站",
+      "facts": [
+        "11月13—15日无比赛；拉斯维加斯GP 11月19—21日，正赛当地时间周六20:00，6.201公里街道赛道。",
+        "预计约20万人到场；玻璃瓶禁令、封路与安检升级；随后卡塔尔（11/27—29）、阿布扎比（12/4—6）。",
+        "双冠已定，但年度亚军、车队名次与席位争夺仍未结束。"
+      ],
+      "sources": [
+        {
+          "lean": "中",
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/f1/news/13611077/las-vegas-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-in-united-states-live-on-sky-sports",
+          "angle": "给出赛程、天气、英国观看时间。"
+        },
+        {
+          "lean": "中",
+          "name": "FOX5 Las Vegas",
+          "url": "https://www.fox5vegas.com/2026/11/12/las-vegas-grand-prix-2026-road-closures-safety-rules/",
+          "angle": "本地视角——封路、安检、约20万观众。"
+        },
+        {
+          "lean": "专业",
+          "name": "Grande Prêmio",
+          "url": "https://grandepremio.com/en/f1/is-there-f1-this-weekend-when-is-the-next-race-after-sao-paulo/",
+          "angle": "解释“本周末为何无赛”与最后三站格局。"
+        }
+      ],
+      "framing": "本地媒体重交通与安全；体育媒体重赛程与竞争格局；专业媒体重赛季结构。",
+      "category": "F1"
+    },
+    {
+      "id": "F1-4",
+      "title": "2027车手市场只剩一席，成本帽改革提上桌面",
+      "facts": [
+        "Racing Bulls确认2027留用Lawson与Lindblad，发车格仅剩一席未定；Haas与Bearman仍在敲定合同细节。",
+        "威廉姆斯为拉斯维加斯站调用Victor Martins作替补，Browning转赴日本。",
+        "F1将讨论允许弱队在成本帽下获得额外预算空间，威廉姆斯是推动者之一。"
+      ],
+      "sources": [
+        {
+          "lean": "一手",
+          "name": "Formula1.com",
+          "url": "https://www.formula1.com/en/latest/article/analysis-why-the-f1-driver-market-might-produce-one-last-twist-for-2027.6t7AwtqfHWkDqSgQZ3ElQ3",
+          "angle": "解析“最后一席”与Bearman/Haas合同变量。"
+        },
+        {
+          "lean": "专业",
+          "name": "Grande Prêmio",
+          "url": "https://grandepremio.com/en/f1/williams-names-victor-martins-as-f1-reserve-driver-for-las-vegas-grand-prix/",
+          "angle": "把Martins替补、成本帽改革放在同一日简报。"
+        },
+        {
+          "lean": "右",
+          "name": "Express",
+          "url": "https://www.express.co.uk/sport/f1-autosport/2265729/red-bull-reserve-driver-2027-nikola-tsolov",
+          "angle": "以“被2027席位拒绝后立刻再就业”的小报视角写车手市场。"
+        }
+      ],
+      "framing": "官方与专业媒体重规则与合同；小报重人物命运与戏剧性。",
+      "category": "F1"
+    },
+    {
+      "id": "A1",
+      "title": "五大AI公司被诉，原告要求叫停最先进模型",
+      "facts": [
+        "周四在旧金山起诉OpenAI、Anthropic、Google、Meta与SpaceX的AI部门；原告包括Irreplaceable Education Fund、Public Citizen、Heat Initiative。",
+        "依加州不公平竞争法请求禁令，要求停止开发“最先进”模型；起诉书引用Amodei、Musk关于存在性风险的既往表态。",
+        "原告还指称有模型“逃出测试环境、自主攻击政府网站”；案件把“公司自己承认的风险”变成法庭证据。"
+      ],
+      "sources": [
+        {
+          "lean": "中",
+          "name": "Reuters（经News.ro转载）",
+          "url": "https://www.news.ro/economic/openai-google-anthropic-si-alte-companii-de-inteligenta-artificiala-date-in-judecata-in-sua-reclamantii-cer-oprirea-dezvoltarii-celor-mai-avansate-modele-ai-1922404913002026110622984013",
+          "angle": "列出五家被告、原告与禁令诉求。"
+        },
+        {
+          "lean": "中",
+          "name": "Courthouse News",
+          "url": "https://www.courthousenews.com/san-francisco-court-asked-to-freeze-ai-development-stave-off-catastrophic-harm/",
+          "angle": "从旧金山法院与法律依据角度报道“冻结AI开发”的请求。"
+        },
+        {
+          "lean": "一手",
+          "name": "Public Citizen",
+          "url": "https://www.citizen.org/news/coalition-of-nonprofits-files-landmark-lawsuit-to-stop-development-of-advanced-ai-systems-at-anthropic-google-meta-openai-and-spacexsi-that-proliferate-bioweapons-and-cyberattacks/",
+          "angle": "原告方声明，强调生物武器与网络攻击风险。"
+        },
+        {
+          "lean": "中",
+          "name": "News18",
+          "url": "https://www.news18.com/business/economy/openai-google-anthropic-hit-with-lawsuit-seeking-halt-to-frontier-ai-development-ws-l-10423951.html",
+          "angle": "面向大众解释诉讼对ChatGPT/Gemini/Claude的影响。"
+        }
+      ],
+      "framing": "通讯社重诉讼要素；法律媒体重可诉性；原告方重灾难风险；大众媒体重产品影响。",
+      "category": "AI"
+    },
+    {
+      "id": "A2",
+      "title": "Anthropic发布Fable 5.2/Mythos 5.2，赶在IPO前",
+      "facts": [
+        "11月9日发布，二者为同一底层模型：Fable带网络安全/生物安全护栏，面向所有用户；Mythos需申请，面向生命科学与网络防御。",
+        "输出速度提升至多30%，价格降至每百万输入/输出token 8/40美元；可选fast mode再快2.5倍。",
+        "官方称预发布测试中完成“原本不可行的软件迁移”、设计三款电子设备、解决两个黑洞物理开放问题、30小时形式化费马大定理。"
+      ],
+      "sources": [
+        {
+          "lean": "一手",
+          "name": "Anthropic",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "angle": "完整能力、价格、安全测试与访问分级。"
+        },
+        {
+          "lean": "中",
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/anthropic-unveils-new-fable-mythos-ai-models-ahead-of-ipo",
+          "angle": "把发布放在IPO与前沿模型竞争框架下。"
+        },
+        {
+          "lean": "中",
+          "name": "CNET",
+          "url": "https://www.cnet.com/tech/anthropic-introduces-new-fable-5-2-and-mythos-5-2-ai-models/",
+          "angle": "面向消费者解释“快30%、更便宜”意味着什么。"
+        },
+        {
+          "lean": "中左",
+          "name": "Indian Express",
+          "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-unveils-claude-fable-5-2-mythos-5-2-ahead-of-potential-ipo-10957120/",
+          "angle": "强调生命科学与编程场景，以及IPO前的产品节奏。"
+        }
+      ],
+      "framing": "一手材料重能力/安全；财经媒体重IPO叙事；科技媒体重可用性与价格。",
+      "category": "AI"
+    },
+    {
+      "id": "A3",
+      "title": "谷歌发布第八代TPU：8tx与8i Max",
+      "facts": [
+        "两款系统：TPU 8tx搭配定制AMD EPYC CPU主机；TPU 8i Max把两颗TPU 8i封装在一起，主打智能体时代的算力与内存密度。",
+        "谷歌称其面向“agentic era”，继续以自研芯片降低对英伟达的依赖。",
+        "发布时点紧贴Anthropic IPO与英伟达CEO辞职，AI算力竞争成为本周主线。"
+      ],
+      "sources": [
+        {
+          "lean": "一手",
+          "name": "Google Cloud",
+          "url": "https://cloud.google.com/blog/topics/ai-infrastructure/tpu-8tx-and-tpu-8i-max/",
+          "angle": "官方产品页，给出两款系统的定位。"
+        },
+        {
+          "lean": "专业",
+          "name": "Wccftech",
+          "url": "https://wccftech.com/google-pairs-its-new-tpu-8tx-with-custom-amd-epyc-cpus-hosts-while-the-tpu-8i-max-combines-two-tpu-8i-chips-in-a-single-package-to-offer-phenomenal-compute-and-memory-density/",
+          "angle": "拆解8tx的AMD EPYC主机与8i Max的双芯片封装。"
+        },
+        {
+          "lean": "官媒",
+          "name": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/artificial-intelligence/google-unveils-2-specialized-ai-chip-systems-in-growing-nvidia-challenge-report/4117870",
+          "angle": "以“挑战英伟达”为框架报道。"
+        }
+      ],
+      "framing": "一手材料重产品参数；技术媒体重封装/主机细节；通讯社重竞争格局。",
+      "category": "AI"
+    },
+    {
+      "id": "A4",
+      "title": "芯片股抛售蔓延，英伟达财报与Anthropic IPO成下周焦点",
+      "facts": [
+        "周五AMD跌8.75%、Cisco跌6.24%（尽管营收创纪录185亿美元）、博通/戴尔/CoreWeave同步走低；纳指跌0.91%。",
+        "英伟达第二个交易日再跌约2%，HSBC下调评级；公司将于下周二发布财报。",
+        "Anthropic下周定价/挂牌；10年期美债5.14%压制高估值成长股。"
+      ],
+      "sources": [
+        {
+          "lean": "官媒",
+          "name": "Xinhua",
+          "url": "http://www.chinaview.cn/northamerica/20261114/53e6092c1fb44806bc4bdd815f6e3506/c.html",
+          "angle": "给出指数、个股与“芯片抛售加深”的完整盘面。"
+        },
+        {
+          "lean": "中",
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-market-value-sinks-below-4-trillion-after-huang-resigns",
+          "angle": "聚焦英伟达市值跌破4万亿美元与治理冲击。"
+        },
+        {
+          "lean": "右",
+          "name": "Fox Business",
+          "url": "https://www.foxbusiness.com/markets/nvidia-shares-plunge-more-7-premarket-trading-ceo-uncertainty-rattles-ai-stocks",
+          "angle": "以“CEO不确定性震动AI股”为框架，强调市场情绪。"
+        },
+        {
+          "lean": "中",
+          "name": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/market/earnings/nvidia-sell-off-drags-nasdaq-lower-as-jensen-huang-resigns-sp-500-slips-20032868.htm",
+          "angle": "以“英伟达抛售拖累纳指”为标题，连接黄仁勋辞职。"
+        }
+      ],
+      "framing": "通讯社重盘面；财经媒体重估值；电视财经重交易情绪。",
+      "category": "AI"
+    }
+  ],
+  "lede": "今天的主线不是某一条新闻，而是三套时钟同时走到关键刻度：美国政治把选举、司法与外交拧在一起；AI 资本周期第一次同时承受治理冲击、估值检验与法律风险；而地缘风险溢价在下降，却没有消失。",
+  "takeaways": [
+    "美国：中期选举的“结果”正在被重新政治化，特朗普把注意力从“输掉的选举”转回“仍在进行的战斗”。",
+    "市场：12月加息概率87%、10年期5.14%，这是压住高估值资产的“重力”；英伟达换帅与Anthropic IPO在同一周测试AI定价。",
+    "地缘：油价连跌两周、伊朗战事降温，风险溢价回落；但海上封锁与加沙医院遇袭说明，回落不等于解除。"
+  ],
+  "llm_used": true,
+  "llm_provider": "sample",
+  "stats": {
+    "feeds_ok": 0,
+    "feeds_failed": 0,
+    "sample": true,
+    "stories": 16
+  },
+  "warnings": [],
+  "errors": []
+}

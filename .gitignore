@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+docs/email-preview.eml
+docs-sample/
+docs-live/
