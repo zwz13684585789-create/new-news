@@ -35,6 +35,13 @@ CATEGORY_PREFIX = {"政治": "P", "经济": "E", "F1": "F", "AI": "A"}
 # Feed-level category filters. Tech and business feeds carry general news too;
 # these terms keep the four sections on-topic without an LLM.
 CATEGORY_TERMS = {
+    "政治": ["election", "president", "prime minister", "government", "parliament",
+           "congress", "senate", "diplomat", "foreign minister", "war", "military",
+           "sanction", "tariff", "policy", "vote", "campaign", "trump", "biden",
+           "iran", "israel", "gaza", "ukraine", "russia", "china", "nato",
+           "united nations", "court", "justice", "immigration", "budget",
+           "coalition", "opposition", "minister", "summit", "treaty", "ceasefire",
+           "protest", "legislation", "governor", "mayor", "refugee", "nuclear"],
     "AI": ["artificial intelligence", "openai", "anthropic", "nvidia", "chatgpt", "gemini",
            "claude", "machine learning", "neural", "robot", "semiconductor", "chip",
            "data center", "datacenter", "llm", "ai model", "ai "],
