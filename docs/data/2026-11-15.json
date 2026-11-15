@@ -1,41 +1,37 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-15T05:24:32+00:00",
+  "generated_at": "2026-11-15T06:04:33+00:00",
   "stories": [
     {
       "id": "P1",
       "category": "政治",
-      "title": "Israeli military says it struck senior member of Hamas military wing",
+      "title": "以军称在汗尤尼斯击毙哈马斯拉法旅指挥官",
       "facts": [
-        "Israeli military says it struck senior member of Hamas military wing"
+        "以色列军方称在加沙南部汗尤尼斯发动空袭，目标为哈马斯军事翼高级成员。",
+        "哈马斯确认拉法旅指挥官萨米尔·阿布·尤尼斯在周六的袭击中死亡。",
+        "以军与辛贝特确认死讯，国防部长卡茨在社交媒体上暗示目标已被击毙。"
       ],
       "sources": [
         {
           "name": "Channel NewsAsia",
           "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "以军单方面称打击哈马斯军事翼高级成员，未提死者姓名。",
           "url": "https://www.channelnewsasia.com/world/israeli-military-says-it-struck-senior-member-hamas-military-wing-6552271"
         },
         {
           "name": "Al Jazeera",
           "lean": "中左",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "突出空袭致哈马斯拉法旅指挥官死亡，并引哈马斯确认。",
           "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss"
         },
         {
           "name": "The Jerusalem Post",
           "lean": "中右",
-          "angle": "标题与摘要来自该媒体的 RSS。",
-          "url": "https://www.jpost.com/health-and-wellness/article-914672"
-        },
-        {
-          "name": "Arab News",
-          "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
-          "url": "https://www.arabnews.com/middle-east/israeli-military-says-it-struck-senior-armed-hamas-commander-3011955"
+          "angle": "强调以军与辛贝特联合确认，并引防长社交媒体表态。",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-914887"
         }
       ],
-      "framing": "4 家来源 · 中 / 中右 / 中左",
+      "framing": "三家来源角度接近，均聚焦以军确认与哈马斯证实；耶路撒冷邮报额外强调辛贝特与防长表态。",
       "items": [
         {
           "outlet": "Channel NewsAsia",
@@ -54,54 +50,43 @@
         {
           "outlet": "The Jerusalem Post",
           "lean": "中右",
-          "title": "Israeli study finds why humans suffer from joint pain while other great apes stay agile",
-          "summary": "The researchers proposed an answer based on hybrid human-chimpanzee cells and other advanced techniques. They reveal that painful joints may be a hidden price we pay for traits that make us human.",
-          "url": "https://www.jpost.com/health-and-wellness/article-914672"
-        },
-        {
-          "outlet": "Arab News",
-          "lean": "中",
-          "title": "Israeli military says it struck senior armed Hamas commander",
-          "summary": "The Israeli military said on Sunday it had struck a ​senior commander in Hamas’ armed wing, and Hamas sources told Reuters the strike killed senior armed Hamas commander Samir Abu Younis in Khan Younis. Hamas later confirmed his ‌death and ‌said his funeral ​would be ‌held ⁠on ​Sunday afternoon ⁠in Khan Younis in the southern Gaza Strip. Abu Younis, 53, commanded the Rafah brigade in Hamas’ armed wing. He had been a member ⁠of the Al-Qassam Brigades ‌since 1991 and ‌held several senior ​operatio",
-          "url": "https://www.arabnews.com/middle-east/israeli-military-says-it-struck-senior-armed-hamas-commander-3011955"
+          "title": "IDF, Shin Bet confirm death of Hamas' Rafah Brigade commander in targeted southern Gaza strike",
+          "summary": "Defense Minister Israel Katz indicated in a social media post shortly after the IDF announcement on Saturday night that the target had been killed.",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-914887"
         }
       ],
-      "_score": 69.52
+      "_score": 59.4
     },
     {
       "id": "P2",
       "category": "政治",
-      "title": "Netanyahu renews call for Israeli unity government as Eisenkot dismisses 'tricks'",
+      "title": "内塔尼亚胡再吁与艾森科特组团结政府遭拒",
       "facts": [
-        "Israeli caretaker Prime Minister Benjamin Netanyahu on Saturday renewed his call for a national unity government with Gadi Eisenkot, who dismissed the appeal as a political ploy. This comes as the incoming premier is in the midst of negotiations to form a new administration."
+        "内塔尼亚胡公开呼吁反对派领导人甘迪·艾森科特组建民族团结政府。",
+        "艾森科特将这一呼吁斥为政治伎俩，法国24称其“不屑一顾”。",
+        "耶路撒冷邮报分析称，内塔尼亚胡在拖延时间，尚未提出替代方案。"
       ],
       "sources": [
         {
           "name": "Al Jazeera",
           "lean": "中左",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "突出内塔尼亚胡向艾森科特发出公开组阁呼吁。",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss"
         },
         {
           "name": "France 24",
           "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "强调呼吁遭拒，艾森科特斥其为政治伎俩。",
           "url": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks"
         },
         {
           "name": "The Jerusalem Post",
           "lean": "中右",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "分析内塔尼亚胡借组阁谈判拖延，缺乏替代方案。",
           "url": "https://www.jpost.com/israel-election-2026/article-914868"
-        },
-        {
-          "name": "Arab News",
-          "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
-          "url": "https://www.arabnews.com/middle-east/netanyahu-calls-for-israeli-unity-government-eisenkot-dismisses-tricks-3011919"
         }
       ],
-      "framing": "4 家来源 · 中 / 中右 / 中左",
+      "framing": "左中来源聚焦呼吁与拒绝的互动，中右来源则从组阁博弈与拖延策略切入，角度差异明显。",
       "items": [
         {
           "outlet": "Al Jazeera",
@@ -123,98 +108,40 @@
           "title": "Netanyahu buys time as haredi parties weigh Eisenkot coalition, but lacks alternative - analysis",
           "summary": "Netanyahu is buying time as haredi parties weigh joining Eisenkot, but the prime minister has yet to offer a viable alternative to a change of government.",
           "url": "https://www.jpost.com/israel-election-2026/article-914868"
-        },
-        {
-          "outlet": "Arab News",
-          "lean": "中",
-          "title": "Netanyahu calls for Israeli unity government, Eisenkot dismisses ‘tricks’",
-          "summary": "Benjamin Netanyahu insists that a national unity government is crucial to ensure Israel’s security and tackle the threat from Iran. His recent meeting with opponent Gadi Eisenkot highlights this conviction.",
-          "url": "https://www.arabnews.com/middle-east/netanyahu-calls-for-israeli-unity-government-eisenkot-dismisses-tricks-3011919"
         }
       ],
-      "_score": 69.36
+      "_score": 59.25
     },
     {
       "id": "P3",
       "category": "政治",
-      "title": "28 days that might decide the future of Israel",
+      "title": "黄仁勋辞职后华盛顿围绕Nvidia案分歧加剧",
       "facts": [
-        "With the support of 67 of the 120 members of the Knesset, it was a no-brainer for Israeli President Isaac Herzog to task Gadi Eisenkot, the leader of the Yashar Party, with forming a government following the results of last month’s general election. On the face of it, with this level of backing, compared with the 46 members who supported Netanyahu, the task should be straightforward. But it is not. This is Israeli politics, where nothing is quite what it seems. While it is tempting to blame the"
-      ],
-      "sources": [
-        {
-          "name": "The Jerusalem Post",
-          "lean": "中右",
-          "angle": "标题与摘要来自该媒体的 RSS。",
-          "url": "https://www.jpost.com/opinion/article-914423"
-        },
-        {
-          "name": "Al Jazeera",
-          "lean": "中左",
-          "angle": "标题与摘要来自该媒体的 RSS。",
-          "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss"
-        },
-        {
-          "name": "Arab News",
-          "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
-          "url": "https://www.arabnews.com/opinion/28-days-that-might-decide-the-future-of-israel-3011594"
-        }
-      ],
-      "framing": "3 家来源 · 中 / 中右 / 中左",
-      "items": [
-        {
-          "outlet": "The Jerusalem Post",
-          "lean": "中右",
-          "title": "'Israel has always killed children': Albanese's claim echoes history of blood libels - opinion",
-          "summary": "What is an Israeli woman who survived the attack supposed to understand when she hears a UN rapporteur explain why the evidence failed to convince her?",
-          "url": "https://www.jpost.com/opinion/article-914423"
-        },
-        {
-          "outlet": "Al Jazeera",
-          "lean": "中左",
-          "title": "Netanyahu says only a unity government can guarantee Israel’s security",
-          "summary": "Eisenkot, in charge of forming a government, dismisses the appeal as ‘tricks’ as talks and a Knesset speaker vote loom.",
-          "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss"
-        },
-        {
-          "outlet": "Arab News",
-          "lean": "中",
-          "title": "28 days that might decide the future of Israel",
-          "summary": "With the support of 67 of the 120 members of the Knesset, it was a no-brainer for Israeli President Isaac Herzog to task Gadi Eisenkot, the leader of the Yashar Party, with forming a government following the results of last month’s general election. On the face of it, with this level of backing, compared with the 46 members who supported Netanyahu, the task should be straightforward. But it is not. This is Israeli politics, where nothing is quite what it seems. While it is tempting to blame the",
-          "url": "https://www.arabnews.com/opinion/28-days-that-might-decide-the-future-of-israel-3011594"
-        }
-      ],
-      "_score": 59.04
-    },
-    {
-      "id": "P4",
-      "category": "政治",
-      "title": "Washington divided over how to deal with fallout from the Nvidia case",
-      "facts": [
-        "After the fall, the fallout. US government agencies are squabbling after AI leader Jensen Huang stepped down from chips giant Nvidia in disgrace. The Treasury says it wanted to blacklist a Singapore company at the heart of the scandal, but the Commerce Department didn't act. Megaspeed was run by suspected Chinese spy Alice Huang, who reportedly had an affair with Jensen Huang. Details by Peter O'Brien."
+        "法国24称，黄仁勋从Nvidia辞职后，美国政府部门在如何处理后续问题上相互争执。",
+        "福克斯商业称，Nvidia股价下跌使黄仁勋持股价值五日内蒸发约200亿美元。",
+        "CNBC称，共和党主导的国会希望在民主党明年1月接管前让黄仁勋到华盛顿作证。"
       ],
       "sources": [
         {
           "name": "France 24",
           "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "聚焦美政府机构在Nvidia案后续处理上的分歧与相互指责。",
           "url": "https://www.france24.com/en/washington-divided-over-how-to-deal-with-fallout-from-the-nvidia-case"
         },
         {
           "name": "Fox Business",
           "lean": "右",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "以股价下跌量化黄仁勋个人持股五日损失超200亿美元。",
           "url": "https://www.foxbusiness.com/markets/nvidia-stock-slide-wipes-out-billions-value-jensen-huang-days"
         },
         {
           "name": "CNBC",
           "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "强调国会希望在民主党接管前传唤黄仁勋赴华盛顿。",
           "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html"
         }
       ],
-      "framing": "3 家来源 · 中 / 右",
+      "framing": "三家来源分别侧重政府内斗、个人财富损失与国会问责，叙事焦点差异较大。",
       "items": [
         {
           "outlet": "France 24",
@@ -238,30 +165,87 @@
           "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html"
         }
       ],
-      "_score": 51.99
+      "_score": 51.88
+    },
+    {
+      "id": "P4",
+      "category": "政治",
+      "title": "伊朗革命卫队称打击巴林美军雷达并触发警报",
+      "facts": [
+        "伊朗革命卫队称以无人机打击并摧毁巴林一处美军早期预警雷达，作为对美方空袭的报复。",
+        "巴林内政部呼吁民众保持冷静并前往最近安全地点，当地发布自9月以来首次威胁警报。",
+        "纽约邮报称伊朗以六架无人机针对Al-Rifaa基地的美军防空雷达。"
+      ],
+      "sources": [
+        {
+          "name": "The Jerusalem Post",
+          "lean": "中右",
+          "angle": "以“敌对升级”定调，突出伊朗无人机袭击美军基地。",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-914895"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "强调伊方称系对美空袭的报复，并指为数月来首次直接攻击。",
+          "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+        },
+        {
+          "name": "New York Post",
+          "lean": "右",
+          "angle": "聚焦巴林发布9月以来首次威胁警报及六架无人机细节。",
+          "url": "https://nypost.com/2026/11/15/world-news/iran-says-it-attacked-us-base-as-bahrain-issues-first-threat-alerts-since-september/"
+        }
+      ],
+      "framing": "三家来源均报道伊方说法，但耶路撒冷邮报强调“敌对升级”，卫报强调“报复”，纽约邮报突出警报细节。",
+      "items": [
+        {
+          "outlet": "The Jerusalem Post",
+          "lean": "中右",
+          "title": "Iran's IRGC launches drone attack on US base in Bahrain, triggering hostile escalation",
+          "summary": "Bahrain, home to the US Navy's Fifth Fleet, urged citizens and residents to remain calm and proceed to the nearest safe location, its interior ministry said.",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-914895"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+          "summary": "First direct attack on US military installations for months was in response to US airstrike on communications tower Iran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain in response to a US airstrike on a communications tower in Sirik overlooking the strait of Hormuz. It is Iran’s first direct attack on US military installations for months. “This is a serious warning to the aggressor enemy to end its aerial mischief and oil smuggling in the strait of Hormuz,",
+          "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+        },
+        {
+          "outlet": "New York Post",
+          "lean": "右",
+          "title": "Bahrain issues first threat alerts since September as Iran says it attacked US base",
+          "summary": "Bahrain issued its first threat alerts since September after Iran claimed to target a US air-defense radar with six drones at Al-Rifaa base.",
+          "url": "https://nypost.com/2026/11/15/world-news/iran-says-it-attacked-us-base-as-bahrain-issues-first-threat-alerts-since-september/"
+        }
+      ],
+      "_score": 50.0
     },
     {
       "id": "E1",
       "category": "经济",
-      "title": "From Nvidia’s plunge to a life policy record: 5 figures investors are watching",
+      "title": "Nvidia丑闻余波未平 投资者关注多重指标",
       "facts": [
-        "After US and Asian stocks across the artificial intelligence supply chain tumbled in the wake of last week’s US midterm elections, this week’s headlines zoomed in on US chip giant Nvidia and the eventual resignation of its CEO, Jensen Huang, amid media reports of his alleged extramarital affairs. Below are the key figures capturing market attention this week: Nvidia plummets as much as 14 per cent Nvidia shares fell 14 per cent on Nasdaq on Thursday morning after Jensen Huang stepped down as..."
+        "卫报称黄仁勋因被报道与Nvidia高管有染及一名女子被指为中国间谍而辞职，批评持续升温。",
+        "南华早报称美国中期选举后AI供应链股票下挫，本周焦点集中在Nvidia及黄仁勋最终辞职。",
+        "南华早报称投资者正关注从Nvidia股价暴跌到寿险保单纪录等五项数据。"
       ],
       "sources": [
         {
           "name": "The Guardian",
           "lean": "左",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "以“丑闻远未结束”定调，详述辞职缘由与批评升温。",
           "url": "https://www.theguardian.com/news/video/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest"
         },
         {
           "name": "South China Morning Post",
           "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "从投资者视角列举Nvidia暴跌等五项受关注数据。",
           "url": "https://www.scmp.com/business/banking-finance/article/3374294/nvidias-plunge-life-policy-record-5-figures-investors-are-watching"
         }
       ],
-      "framing": "2 家来源 · 中 / 左",
+      "framing": "卫报侧重丑闻与批评升级，南华早报侧重市场连锁反应与投资者关注指标，角度不同。",
       "items": [
         {
           "outlet": "The Guardian",
@@ -278,24 +262,26 @@
           "url": "https://www.scmp.com/business/banking-finance/article/3374294/nvidias-plunge-life-policy-record-5-figures-investors-are-watching"
         }
       ],
-      "_score": 38.32
+      "_score": 38.21
     },
     {
       "id": "E2",
       "category": "经济",
-      "title": "No actors, no crew, no ticket sales: ‘So obviously AI’ film flops at China’s box office",
+      "title": "中国首部全AI生成电影票房遇冷",
       "facts": [
-        "China has ushered artificial intelligence into its cinemas, but the country’s first fully AI-generated feature film has flopped at the box office. Made with no human actors or camera crew, Sanxingdui: Future Past brought in just around 1.8 million yuan (US$270,000) after three weeks in theatres, according to Chinese box office data tracker Beacon Pro. The figure was well below the film’s reported budget of tens of millions of yuan. The 100-minute sci-fi film is set in a world decades in the..."
+        "南华早报称中国首部完全由AI生成的剧情长片《三星堆：未来往事》票房失利。",
+        "该片无真人演员、无摄影团队，票房仅约180万元人民币（约27万美元）。",
+        "报道称中国已将人工智能引入影院，但该片市场表现不佳。"
       ],
       "sources": [
         {
           "name": "South China Morning Post",
           "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "突出“无演员无剧组无票房”的AI电影在华遇冷。",
           "url": "https://www.scmp.com/economy/china-economy/article/3374358/no-actors-no-crew-no-ticket-sales-so-obviously-ai-film-flops-chinas-box-office"
         }
       ],
-      "framing": "1 家来源 · 中",
+      "framing": "单一来源，南华早报从票房与制作方式切入，未提供其他媒体对照。",
       "items": [
         {
           "outlet": "South China Morning Post",
@@ -305,24 +291,26 @@
           "url": "https://www.scmp.com/economy/china-economy/article/3374358/no-actors-no-crew-no-ticket-sales-so-obviously-ai-film-flops-chinas-box-office"
         }
       ],
-      "_score": 27.93
+      "_score": 27.82
     },
     {
       "id": "E3",
       "category": "经济",
-      "title": "Strong office rental growth keeps US investors in Japan despite rate increases",
+      "title": "日本写字楼租金走强 美资仍涌入楼市",
       "facts": [
-        "Expectations of interest rate increases of up to 2.25 per cent in Japan have not deterred the influx of US capital into the local real estate market due to healthy rental growth of offices in prime locations, with analysts saying that investors have simply become more selective within the market. The Bank of Japan implemented two 25-basis-point rate increases – one in June and another in September – bringing its benchmark policy rate to 1.25 per cent. This marked the highest level since 1995,..."
+        "南华早报称日本利率预计最高升至2.25%，但未阻止美国资本流入当地房地产市场。",
+        "报道称核心地段写字楼租金增长健康，是吸引美资的主要原因。",
+        "分析师称投资者只是调整了策略，并未撤离。"
       ],
       "sources": [
         {
           "name": "South China Morning Post",
           "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "强调加息预期未阻美资，核心地段租金增长是关键。",
           "url": "https://www.scmp.com/property/international/article/3374432/strong-office-rental-growth-keeps-us-investors-japan-despite-rate-increases"
         }
       ],
-      "framing": "1 家来源 · 中",
+      "framing": "单一来源，南华早报从租金增长与利率预期对比切入。",
       "items": [
         {
           "outlet": "South China Morning Post",
@@ -332,24 +320,26 @@
           "url": "https://www.scmp.com/property/international/article/3374432/strong-office-rental-growth-keeps-us-investors-japan-despite-rate-increases"
         }
       ],
-      "_score": 27.1
+      "_score": 26.99
     },
     {
       "id": "E4",
       "category": "经济",
-      "title": "The trillion-dollar mistake corporate America is making about retirement",
+      "title": "美企退休金问题被指存在万亿美元误判",
       "facts": [
-        "The market is dramatically underpricing the economic impact of Americans age 50 and older."
+        "MarketWatch称美国企业界在退休问题上正犯下“万亿美元的错误”。",
+        "报道称市场大幅低估了50岁及以上美国人的经济影响。",
+        "该报道未提供具体企业名称或政策细节。"
       ],
       "sources": [
         {
           "name": "MarketWatch",
           "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "以“万亿美元错误”定调，指市场低估50岁以上人群经济影响。",
           "url": "WP-MKTW-0005339924"
         }
       ],
-      "framing": "1 家来源 · 中",
+      "framing": "单一来源，MarketWatch以评论口吻提出市场低估老龄人口经济影响。",
       "items": [
         {
           "outlet": "MarketWatch",
@@ -359,83 +349,32 @@
           "url": "WP-MKTW-0005339924"
         }
       ],
-      "_score": 26.07
+      "_score": 25.96
     },
     {
       "id": "F1",
       "category": "F1",
-      "title": "Las Vegas Grand Prix 2026: Race start time, how to watch, full schedule, predictions",
+      "title": "梅赛德斯技术总监警告车队不会对2027降下压力妥协",
       "facts": [
-        "Formula 1 is back under the bright lights of Las Vegas for one of the most extravagant weekends on the calendar."
-      ],
-      "sources": [
-        {
-          "name": "ESPN",
-          "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
-          "url": "https://www.espn.com/f1/story/_/id/50389130/las-vegas-grand-prix-2026-race-f1-start-s-how-watch-schedule-tv-channel-live-stream-predictions"
-        },
-        {
-          "name": "Motorsport.com",
-          "lean": "专业",
-          "angle": "标题与摘要来自该媒体的 RSS。",
-          "url": "https://www.motorsport.com/f1/news/mercedes-and-audi-unveil-adidas-collections-for-f1-las-vegas-grand-prix/10874493/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
-        },
-        {
-          "name": "Sky Sports",
-          "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
-          "url": "https://www.skysports.com/f1/news/12433/13611077/las-vegas-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-in-united-states-live-on-sky-sports"
-        }
-      ],
-      "framing": "3 家来源 · 专业 / 中",
-      "items": [
-        {
-          "outlet": "ESPN",
-          "lean": "中",
-          "title": "Las Vegas Grand Prix 2026: Race start time, how to watch, full schedule, predictions",
-          "summary": "Formula 1 is back under the bright lights of Las Vegas for one of the most extravagant weekends on the calendar.",
-          "url": "https://www.espn.com/f1/story/_/id/50389130/las-vegas-grand-prix-2026-race-f1-start-s-how-watch-schedule-tv-channel-live-stream-predictions"
-        },
-        {
-          "outlet": "Motorsport.com",
-          "lean": "专业",
-          "title": "Mercedes and Audi unveil adidas collections for F1 Las Vegas Grand Prix",
-          "summary": "Mercedes and Audi have unveiled special adidas fan collections for the upcoming Formula 1 Las Vegas Grand Prix. Mercedes' range is called \"Neon Lights\", while Audi's is named \"After Hours\". Both collections are available now through adidas.com, and the pieces listed on the brand's US store range in price from $30 to $200. The most expensive items are the outerwear. Mercedes' Las Vegas jacket ... Keep reading",
-          "url": "https://www.motorsport.com/f1/news/mercedes-and-audi-unveil-adidas-collections-for-f1-las-vegas-grand-prix/10874493/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
-        },
-        {
-          "outlet": "Sky Sports",
-          "lean": "中",
-          "title": "Las Vegas GP: UK schedule and how to watch on Sky Sports",
-          "summary": "Formula 1 heads for the bright lights of Las Vegas with both 2026 titles settled, but the competitive picture at the front of the grid tighter than it has been at any other stage of the season.",
-          "url": "https://www.skysports.com/f1/news/12433/13611077/las-vegas-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-in-united-states-live-on-sky-sports"
-        }
-      ],
-      "_score": 51.65
-    },
-    {
-      "id": "F2",
-      "category": "F1",
-      "title": "Mercedes technical director warns F1 teams won’t “lie down” over 2027 downforce cuts",
-      "facts": [
-        "Formula 1's transition to the new 2026 engine and chassis regulations completely reshuffled the competitive order, but the rulebook is far from finalised. As teams prepare for their second year under the new formula in 2027, the FIA is pushing to mandate another drop in downforce. Early reports indicate the governing body is targeting a reduction of 20 to 50 points of downforce for the 2027 ... Keep reading"
+        "Motorsport.com称F1向2026年新引擎与底盘规则过渡已打乱竞争格局，但规则书远未定稿。",
+        "梅赛德斯技术总监警告，车队不会对2027年进一步削减下压力的要求“躺平”。",
+        "Formula1.com称梅赛德斯在2026年夺得第九个车队总冠军，回顾其历史成就。"
       ],
       "sources": [
         {
           "name": "Motorsport.com",
           "lean": "专业",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "突出技术总监警告车队不会对2027降下压力规则妥协。",
           "url": "https://www.motorsport.com/f1/news/mercedes-tech-boss-warns-f1-teams-wont-lie-down-over-massive-2027-downforce-cuts/10874433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
         },
         {
           "name": "Formula1.com",
           "lean": "一手",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "以梅赛德斯2026年第九冠为切入点回顾其F1历史。",
           "url": "https://www.formula1.com/en/latest/article/mercedes-incredible-success-through-formula-1-history.7yLliKc36ZI9pd7xzNYFwq"
         }
       ],
-      "framing": "2 家来源 · 一手 / 专业",
+      "framing": "专业媒体聚焦规则博弈与警告，官方来源侧重冠军历史，角度差异明显。",
       "items": [
         {
           "outlet": "Motorsport.com",
@@ -452,30 +391,32 @@
           "url": "https://www.formula1.com/en/latest/article/mercedes-incredible-success-through-formula-1-history.7yLliKc36ZI9pd7xzNYFwq"
         }
       ],
-      "_score": 37.14
+      "_score": 37.03
     },
     {
-      "id": "F3",
+      "id": "F2",
       "category": "F1",
-      "title": "Toto Wolff offered his resignation during Mercedes’ struggles, but his boss refused",
+      "title": "沃尔夫曾提出辞职 梅赛德斯老板拒绝放人",
       "facts": [
-        "In motorsport, extended periods of failure usually result in swift executive turnover. But when Mercedes team principal Toto Wolff attempted to hold himself accountable for the team's struggles in recent years, his boss flatly refused to let him walk away. Speaking at the 2026 Golden Steering Wheel awards in Berlin, Wolff provided a glimpse into the internal corporate dynamics at ... Keep reading"
+        "Motorsport.com称梅赛德斯领队托托·沃尔夫在车队近年困境中曾提出辞职。",
+        "报道称其老板断然拒绝让他离开。",
+        "Formula1.com称沃尔夫从威廉姆斯到梅赛德斯已监督九次车队总冠军，追平弗兰克·威廉姆斯。"
       ],
       "sources": [
         {
           "name": "Motorsport.com",
           "lean": "专业",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "强调沃尔夫主动担责提出辞职但被老板拒绝。",
           "url": "https://www.motorsport.com/f1/news/toto-wolff-offered-his-resignation-during-mercedes-struggles-but-the-ceo-refused/10874282/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
         },
         {
           "name": "Formula1.com",
           "lean": "一手",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "梳理沃尔夫从车手到九冠领队的职业历程。",
           "url": "https://www.formula1.com/en/latest/article/toto-wolffs-journey-from-williams-to-nine-time-champion-with-mercedes.2l85DG3mfUyL5icscw0Gbn"
         }
       ],
-      "framing": "2 家来源 · 一手 / 专业",
+      "framing": "专业媒体聚焦辞职被拒的问责细节，官方来源侧重其冠军履历，角度不同。",
       "items": [
         {
           "outlet": "Motorsport.com",
@@ -492,30 +433,32 @@
           "url": "https://www.formula1.com/en/latest/article/toto-wolffs-journey-from-williams-to-nine-time-champion-with-mercedes.2l85DG3mfUyL5icscw0Gbn"
         }
       ],
-      "_score": 33.2
+      "_score": 33.09
     },
     {
-      "id": "F4",
+      "id": "F3",
       "category": "F1",
-      "title": "Damon Hill: Ferrari has a “political problem” as Lewis Hamilton “rebuilt himself”",
+      "title": "希尔称法拉利存在政治问题 汉密尔顿已重建自我",
       "facts": [
-        "Ferrari team principal Fred Vasseur recently insisted that Lewis Hamilton and Charles Leclerc \"left my room joking together\" following a private meeting in Brazil to clear the air. But 1996 Formula 1 champion Damon Hill is not buying the sudden harmony at Maranello. According to Hill, the Scuderia is actively masking a rift. Analysing the fallout from the recent triple-header, Hill pointed to a ... Keep reading"
+        "Motorsport.com称法拉利领队瓦塞尔坚称汉密尔顿与勒克莱尔在巴西私下会面后“笑着离开我的房间”。",
+        "1996年F1冠军达蒙·希尔不相信马拉内罗突然和谐，称法拉利存在“政治问题”。",
+        "The Race称勒克莱尔与汉密尔顿在巴西的表面和睦不可信，两人紧张关系远未解决。"
       ],
       "sources": [
         {
           "name": "Motorsport.com",
           "lean": "专业",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "引希尔观点，称法拉利有政治问题且汉密尔顿已重建自我。",
           "url": "https://www.motorsport.com/f1/news/damon-hill-ferrari-has-a-political-problem-as-lewis-hamilton-rebuilt-himself-after-abu-dhabi-202/10874278/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
         },
         {
           "name": "The Race",
           "lean": "专业",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "直接断言勒克莱尔与汉密尔顿的问题远未解决，勿被表象迷惑。",
           "url": "https://www.the-race.com/formula-1/ferrari-leclerc-hamilton-f1-problem-far-from-solved/"
         }
       ],
-      "framing": "2 家来源 · 专业",
+      "framing": "两家专业来源角度接近，均质疑法拉利表面和谐，强调问题未解。",
       "items": [
         {
           "outlet": "Motorsport.com",
@@ -532,42 +475,141 @@
           "url": "https://www.the-race.com/formula-1/ferrari-leclerc-hamilton-f1-problem-far-from-solved/"
         }
       ],
-      "_score": 27.83
+      "_score": 27.72
+    },
+    {
+      "id": "F4",
+      "category": "F1",
+      "title": "英国DVSA向近60万驾驶者发布更新",
+      "facts": [
+        "Express称英国驾驶员与车辆标准局（DVSA）承诺继续支持学车者。",
+        "报道称该机构向592,010名驾驶者发布更新。",
+        "道路大臣预测前方将有“好消息”。"
+      ],
+      "sources": [
+        {
+          "name": "Express",
+          "lean": "右",
+          "angle": "突出DVSA对近59.2万驾驶者的更新及道路大臣的乐观预告。",
+          "url": "https://www.express.co.uk/life-style/cars/2265341/dvsa-test-update-592010-drivers"
+        }
+      ],
+      "framing": "单一来源，Express以服务更新与官员预告好消息为报道重点。",
+      "items": [
+        {
+          "outlet": "Express",
+          "lean": "右",
+          "title": "DVSA issues update for 592,010 drivers as roads minister predicts 'good news' ahead",
+          "summary": "The Driver and Vehicle Standards Agency has pledged continued support for learner drivers - here's what you need to know",
+          "url": "https://www.express.co.uk/life-style/cars/2265341/dvsa-test-update-592010-drivers"
+        }
+      ],
+      "_score": 23.9
     },
     {
       "id": "A1",
       "category": "AI",
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "title": "黄仁勋丑闻持续发酵 多方解读各异",
       "facts": [
-        "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
+        "卫报称黄仁勋与一名疑似间谍的婚外情是硅谷最糟糕的噩梦，辞职是惊人企业丑闻。",
+        "南华早报称该事件在亚裔美国人中引发关于种族是否起作用的激烈辩论。",
+        "BBC称丑闻使新加坡作为芯片枢纽及涉嫌非法贸易地点的角色受到关注。"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "以“黄仁勋失去理智”定调，称其落入最古老骗局。",
+          "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare"
+        },
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "聚焦亚裔美国人关于种族双重标准的辩论。",
+          "url": "https://www.scmp.com/tech/big-tech/article/3374435/double-standard-why-jensen-huang-saga-sparking-debate-about-race"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "从新加坡商业友好形象受冲击的角度切入。",
+          "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Verge",
+          "lean": "中左",
+          "angle": "追问黄仁勋事件背后真正关乎什么，指向更大故事。",
+          "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
+        }
+      ],
+      "framing": "四家来源分别从间谍丑闻、种族辩论、新加坡角色与事件实质切入，叙事差异显著。",
+      "items": [
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+          "summary": "Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true The resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory, featuring allegations of international espionage and extramarital affairs involving one of the world’s most powerful men. As investigations mount into what went wrong at the $4tn chip company, the saga may also become a milestone in the decades-long history of spies infiltrating the US tech industry. H",
+          "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "‘Double standard’: why Jensen Huang saga sparked a debate about race for Asian-Americans",
+          "summary": "While global markets focus on the geopolitical and business implications of Jensen Huang’s resignation from Nvidia, another fierce debate is raging among Asian-Americans: whether race played a role in the downfall of one of corporate America’s most recognisable Asian faces. At the heart of the unease is the lack of public evidence for the most explosive allegation against Huang: that he had a romantic relationship with a Chinese businesswoman reportedly engaging in espionage for Beijing. The New...",
+          "url": "https://www.scmp.com/tech/big-tech/article/3374435/double-standard-why-jensen-huang-saga-sparking-debate-about-race"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+          "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+          "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Verge",
+          "lean": "中左",
+          "title": "What’s really at stake in the Jensen Huang saga",
+          "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
+          "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
+        }
+      ],
+      "_score": 63.99
+    },
+    {
+      "id": "A2",
+      "category": "AI",
+      "title": "亚洲多国政府回应黄仁勋辞职影响",
+      "facts": [
+        "TechCrunch称一些政府确认芯片供应承诺，另一些则监测对本地项目或调查的影响。",
+        "南华早报称黄仁勋辞职考验Nvidia供应链影响力及其为AI建设融资的能力。",
+        "CNBC称Nvidia领导层变动引发亚洲芯片商疑问，但分析师预计近期干扰有限。"
       ],
       "sources": [
         {
           "name": "TechCrunch",
           "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "汇总亚洲政府确认供应承诺或监测本地项目影响。",
           "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
         },
         {
           "name": "The Verge",
           "lean": "中左",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "从愿景型明星创始人CEO衰落的角度评论黄仁勋。",
           "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
-        },
-        {
-          "name": "BBC",
-          "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
-          "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "South China Morning Post",
           "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "强调黄仁勋辞职考验Nvidia供应链与AI融资能力。",
           "url": "https://www.scmp.com/tech/big-tech/article/3374357/jensen-huangs-exit-tests-nvidias-supply-chain-clout-ability-bankroll-ai-buildout"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "聚焦亚洲芯片商面临疑问但近期干扰预计有限。",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-without-jensen-huang-what-lies-ahead-for-asian-chipmakers-.html"
         }
       ],
-      "framing": "5 家来源 · 中 / 中左",
+      "framing": "TechCrunch侧重政府反应，南华早报侧重供应链与融资，CNBC侧重芯片商影响，角度各异。",
       "items": [
         {
           "outlet": "TechCrunch",
@@ -584,116 +626,52 @@
           "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
         },
         {
-          "outlet": "BBC",
-          "lean": "中",
-          "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-          "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-          "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "outlet": "South China Morning Post",
           "lean": "中",
           "title": "Jensen Huang’s exit tests Nvidia’s supply chain clout, ability to bankroll AI buildout",
           "summary": "For years, Jensen Huang was more than Nvidia’s CEO – he was a key figure driving the artificial intelligence boom, parlaying close ties with Asian chip foundries and aggressive financial backing into an unprecedented global buildout of data centres. Following his sudden resignation, the industry is confronting two immediate questions: without Huang’s personal relationships in Taiwan and South Korea, can Nvidia defend its priority access to scarce chipmaking and memory supply? And will it...",
           "url": "https://www.scmp.com/tech/big-tech/article/3374357/jensen-huangs-exit-tests-nvidias-supply-chain-clout-ability-bankroll-ai-buildout"
-        }
-      ],
-      "_score": 61.86
-    },
-    {
-      "id": "A2",
-      "category": "AI",
-      "title": "‘Double standard’: why Jensen Huang saga sparked a debate about race for Asian-Americans",
-      "facts": [
-        "While global markets focus on the geopolitical and business implications of Jensen Huang’s resignation from Nvidia, another fierce debate is raging among Asian-Americans: whether race played a role in the downfall of one of corporate America’s most recognisable Asian faces. At the heart of the unease is the lack of public evidence for the most explosive allegation against Huang: that he had a romantic relationship with a Chinese businesswoman reportedly engaging in espionage for Beijing. The New..."
-      ],
-      "sources": [
-        {
-          "name": "South China Morning Post",
-          "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
-          "url": "https://www.scmp.com/tech/big-tech/article/3374435/double-standard-why-jensen-huang-saga-sparking-debate-about-race"
-        },
-        {
-          "name": "The Verge",
-          "lean": "中左",
-          "angle": "标题与摘要来自该媒体的 RSS。",
-          "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
-        },
-        {
-          "name": "TechCrunch",
-          "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
-          "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
-        },
-        {
-          "name": "CNBC",
-          "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
-          "url": "https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html"
-        }
-      ],
-      "framing": "4 家来源 · 中 / 中左",
-      "items": [
-        {
-          "outlet": "South China Morning Post",
-          "lean": "中",
-          "title": "‘Double standard’: why Jensen Huang saga sparked a debate about race for Asian-Americans",
-          "summary": "While global markets focus on the geopolitical and business implications of Jensen Huang’s resignation from Nvidia, another fierce debate is raging among Asian-Americans: whether race played a role in the downfall of one of corporate America’s most recognisable Asian faces. At the heart of the unease is the lack of public evidence for the most explosive allegation against Huang: that he had a romantic relationship with a Chinese businesswoman reportedly engaging in espionage for Beijing. The New...",
-          "url": "https://www.scmp.com/tech/big-tech/article/3374435/double-standard-why-jensen-huang-saga-sparking-debate-about-race"
-        },
-        {
-          "outlet": "The Verge",
-          "lean": "中左",
-          "title": "What’s really at stake in the Jensen Huang saga",
-          "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
-          "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
-        },
-        {
-          "outlet": "TechCrunch",
-          "lean": "中",
-          "title": "The unfolding Jensen Huang scandal: a timeline",
-          "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-          "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
         },
         {
           "outlet": "CNBC",
           "lean": "中",
-          "title": "Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here",
-          "summary": "Nvidia is facing its biggest crisis in its 33 year history, with founder Jensen Huang resigning as CEO. Here's the story of the rise and fall of Jensen Huang.",
-          "url": "https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html"
+          "title": "Nvidia without Jensen Huang. What lies ahead for Asian chipmakers?",
+          "summary": "Nvidia's leadership shake-up raises questions for Asian chipmakers, though analysts expect limited near-term disruption.",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-without-jensen-huang-what-lies-ahead-for-asian-chipmakers-.html"
         }
       ],
-      "_score": 61.6
+      "_score": 61.75
     },
     {
       "id": "A3",
       "category": "AI",
-      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+      "title": "卢特尼克因Nvidia丑闻面临问责压力",
       "facts": [
-        "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker."
+        "CNBC称黄仁勋辞职使商务部长卢特尼克及其家族与Nvidia的财务关系受到重新审视。",
+        "卫报称财政部长指责卢特尼克领导的商务部缺乏行动，卢特尼克面临解职压力。",
+        "BBC称财长贝森特告诉CNBC，多个政府机构“数月来一直赞成将Megaspeed列入实体清单”。"
       ],
       "sources": [
         {
           "name": "CNBC",
           "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "突出卢特尼克儿子公司与Nvidia的深厚关系受审视。",
           "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html"
         },
         {
           "name": "The Guardian",
           "lean": "左",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "引财长指责商务部缺乏行动，称卢特尼克面临解职压力。",
           "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
         },
         {
           "name": "BBC",
           "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "引贝森特称多机构数月来赞成将Megaspeed列入清单。",
           "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "framing": "3 家来源 · 中 / 左",
+      "framing": "三家来源均聚焦卢特尼克压力，但CNBC强调家族财务关系，卫报与BBC强调部门间指责。",
       "items": [
         {
           "outlet": "CNBC",
@@ -717,36 +695,38 @@
           "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "_score": 49.05
+      "_score": 48.94
     },
     {
       "id": "A4",
       "category": "AI",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "title": "黄仁勋离职冲击AI初创融资与开源前景",
       "facts": [
-        "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
+        "TechCrunch称黄仁勋领导下Nvidia向AI初创投入数百亿美元，创始人及风投预计支票更小、估值更低。",
+        "南华早报称黄仁勋辞职给Nvidia对开源AI的数十亿美元投资带来不确定性，或使中国开发者失去华盛顿重要代言人。",
+        "The Verge以调侃口吻讨论黄仁勋的多段婚外情。"
       ],
       "sources": [
         {
           "name": "TechCrunch",
           "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "称黄仁勋离职在AI初创融资中留下大洞，风投预计收缩。",
           "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
         },
         {
           "name": "The Verge",
           "lean": "中左",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "以调侃语气讨论黄仁勋的多段婚外情。",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow"
         },
         {
           "name": "South China Morning Post",
           "lean": "中",
-          "angle": "标题与摘要来自该媒体的 RSS。",
+          "angle": "追问黄仁勋倒台是否会令开源AI天平倾斜。",
           "url": "https://www.scmp.com/tech/big-tech/article/3374376/will-jensen-huangs-downfall-tip-scales-against-open-source-ai"
         }
       ],
-      "framing": "3 家来源 · 中 / 中左",
+      "framing": "TechCrunch与南华早报分别从融资与开源角度分析，The Verge以讽刺笔调切入，角度差异大。",
       "items": [
         {
           "outlet": "TechCrunch",
@@ -770,20 +750,25 @@
           "url": "https://www.scmp.com/tech/big-tech/article/3374376/will-jensen-huangs-downfall-tip-scales-against-open-source-ai"
         }
       ],
-      "_score": 48.88
+      "_score": 48.77
     }
   ],
   "stats": {
-    "feeds_ok": 43,
-    "feeds_failed": 1,
-    "items": 306,
-    "clusters": 229,
+    "feeds_ok": 42,
+    "feeds_failed": 2,
+    "items": 270,
+    "clusters": 200,
     "stories": 16,
     "feeds_total": 44,
-    "errors": 1,
-    "elapsed_sec": 2.1
+    "errors": 2,
+    "elapsed_sec": 1.9
   },
   "errors": [
+    {
+      "source": "Arab News",
+      "feed": "arabnews",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
     {
       "source": "VentureBeat",
       "feed": "venturebeat-ai",
@@ -791,16 +776,15 @@
     }
   ],
   "warnings": [
-    "经济 单一来源条目：E2, E3, E4"
+    "经济 单一来源条目：E2, E3, E4",
+    "F1 单一来源条目：F4"
   ],
-  "llm_used": false,
-  "llm_provider": "机器翻译",
-  "llm_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "translation_used": true,
-  "lede": "今日由 RSS 多源自动聚合，共 16 条要闻、42 个来源；政治、经济、F1、AI 四条线各自独立成表。",
+  "llm_used": true,
+  "llm_provider": "deepseek",
+  "lede": "今日四条线——以色列安全、美国芯片巨头人事震荡、海湾军事摩擦与F1车队治理——共同显示：关键人物或机构的单点变动，正迅速外溢为联盟关系、监管问责与市场预期的连锁反应，而各方对同一事件的叙事侧重明显分化。",
   "takeaways": [
-    "政治：Israeli military says it struck senior member of Hamas military wing",
-    "政治：Netanyahu renews call for Israeli unity government as Eisenkot dismisses 'tricks'",
-    "政治：28 days that might decide the future of Israel"
+    "以色列对哈马斯指挥官的定点打击与内塔尼亚胡组阁呼吁并行，军事与政治两条线相互牵制。",
+    "黄仁勋辞职已从公司事件升级为华盛顿监管问责与亚洲供应链信心的多重考验。",
+    "伊朗对巴林美军雷达的打击与F1车队内部张力，均体现“表面缓和、实质未解”的叙事分歧。"
   ]
 }
