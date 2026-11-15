@@ -1,13 +1,13 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-15T03:55:22+00:00",
+  "generated_at": "2026-11-15T04:41:23+00:00",
   "stories": [
     {
       "id": "P1",
       "category": "政治",
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "title": "“你能相信吗？”：SpaceX 在返回地球时捕获了其 Starship 火箭的一部分",
       "facts": [
-        "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\"."
+        "SpaceX 使用绰号为“筷子”的机械臂完成了历史性的捕捉。"
       ],
       "sources": [
         {
@@ -66,14 +66,14 @@
           "url": "https://www.channelnewsasia.com/world/spacex-starship-returns-landing-pad-orbit-acing-test-reusable-rockets-6552211"
         }
       ],
-      "_score": 63.57
+      "_score": 63.45
     },
     {
       "id": "P2",
       "category": "政治",
-      "title": "Alaska high school football star dies after suddenly collapsing in gym class",
+      "title": "阿拉斯加高中橄榄球明星在体育课上突然倒地身亡",
       "facts": [
-        "A high school football star died from cardiac arrest after he suddenly collapsed during gym class last week."
+        "一名高中橄榄球明星上周在体育课上突然倒地后因心脏骤停死亡。"
       ],
       "sources": [
         {
@@ -132,14 +132,14 @@
           "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins"
         }
       ],
-      "_score": 59.83
+      "_score": 59.71
     },
     {
       "id": "P3",
       "category": "政治",
-      "title": "Israeli military says it struck senior member of Hamas military wing",
+      "title": "以色列军方称袭击了哈马斯军事部门的高级成员",
       "facts": [
-        "Israeli military says it struck senior member of Hamas military wing"
+        "以色列军方称袭击了哈马斯军事部门的高级成员"
       ],
       "sources": [
         {
@@ -185,14 +185,14 @@
           "url": "https://www.jpost.com/health-and-wellness/article-914672"
         }
       ],
-      "_score": 59.76
+      "_score": 59.64
     },
     {
       "id": "P4",
       "category": "政治",
-      "title": "Netanyahu renews call for Israeli unity government as Eisenkot dismisses 'tricks'",
+      "title": "艾森科特否认“诡计”，内塔尼亚胡再次呼吁组建以色列联合政府",
       "facts": [
-        "Israeli caretaker Prime Minister Benjamin Netanyahu on Saturday renewed his call for a national unity government with Gadi Eisenkot, who dismissed the appeal as a political ploy. This comes as the incoming premier is in the midst of negotiations to form a new administration."
+        "以色列看守总理本杰明·内塔尼亚胡周六再次呼吁与加迪·艾森科特组建民族团结政府，但艾森科特驳斥了这一呼吁，称其为政治策略。此举正值即将上任的总理正在进行组建新政府的谈判。"
       ],
       "sources": [
         {
@@ -238,14 +238,14 @@
           "url": "https://www.jpost.com/israel-election-2026/article-914868"
         }
       ],
-      "_score": 59.6
+      "_score": 59.48
     },
     {
       "id": "E1",
       "category": "经济",
-      "title": "From Nvidia’s plunge to a life policy record: 5 figures investors are watching",
+      "title": "从英伟达股价暴跌到寿险保单创纪录：投资者正在关注的 5 位数字",
       "facts": [
-        "After US and Asian stocks across the artificial intelligence supply chain tumbled in the wake of last week’s US midterm elections, this week’s headlines zoomed in on US chip giant Nvidia and the eventual resignation of its CEO, Jensen Huang, amid media reports of his alleged extramarital affairs. Below are the key figures capturing market attention this week: Nvidia plummets as much as 14 per cent Nvidia shares fell 14 per cent on Nasdaq on Thursday morning after Jensen Huang stepped down as..."
+        "继上周美国中期选举后，整个人工智能供应链的美国和亚洲股市暴跌后，本周的头条新闻聚焦于美国芯片巨头英伟达及其首席执行官黄仁勋最终因媒体报道其婚外情而辞职。以下是本周吸引市场关注的关键数据： Nvidia 暴跌 14% 周四上午，在黄仁勋 (Jensen Huang) 辞职后，Nvidia 股价在纳斯达克下跌 14%。"
       ],
       "sources": [
         {
@@ -278,14 +278,14 @@
           "url": "https://www.scmp.com/business/banking-finance/article/3374294/nvidias-plunge-life-policy-record-5-figures-investors-are-watching"
         }
       ],
-      "_score": 38.57
+      "_score": 38.44
     },
     {
       "id": "E2",
       "category": "经济",
-      "title": "Strong office rental growth keeps US investors in Japan despite rate increases",
+      "title": "尽管利率上涨，但强劲的写字楼租金增长仍让美国投资者留在日本",
       "facts": [
-        "Expectations of interest rate increases of up to 2.25 per cent in Japan have not deterred the influx of US capital into the local real estate market due to healthy rental growth of offices in prime locations, with analysts saying that investors have simply become more selective within the market. The Bank of Japan implemented two 25-basis-point rate increases – one in June and another in September – bringing its benchmark policy rate to 1.25 per cent. This marked the highest level since 1995,..."
+        "由于黄金地段写字楼租金的健康增长，日本加息高达2.25%的预期并没有阻止美国资本涌入当地房地产市场，分析师表示，投资者只是在市场上变得更加挑剔。日本央行两次加息 25 个基点——一次在 6 月，另一次在 9 月——将基准政策利率提高至 1.25%。这标志着自 1995 年以来的最高水平..."
       ],
       "sources": [
         {
@@ -305,14 +305,14 @@
           "url": "https://www.scmp.com/property/international/article/3374432/strong-office-rental-growth-keeps-us-investors-japan-despite-rate-increases"
         }
       ],
-      "_score": 27.35
+      "_score": 27.22
     },
     {
       "id": "E3",
       "category": "经济",
-      "title": "The trillion-dollar mistake corporate America is making about retirement",
+      "title": "美国企业界在退休问题上犯下的价值数万亿美元的错误",
       "facts": [
-        "The market is dramatically underpricing the economic impact of Americans age 50 and older."
+        "市场大大低估了 50 岁及以上美国人的经济影响。"
       ],
       "sources": [
         {
@@ -332,14 +332,14 @@
           "url": "WP-MKTW-0005339924"
         }
       ],
-      "_score": 26.32
+      "_score": 26.19
     },
     {
       "id": "E4",
       "category": "经济",
-      "title": "China should share its renewable energy expertise",
+      "title": "中国应分享其可再生能源专业知识",
       "facts": [
-        "China is updating a law that has underpinned one of the most remarkable industrial transformations of our time. After two decades of rapid renewable-energy development, China is preparing to rewrite the rules that have guided, supported and guarded its energy revolution. The draft revision to China’s Renewable Energy Law was released on November 6 for public comment until December 5. Twenty years ago, China, having just joined the World Trade Organization, saw energy consumption surge as..."
+        "中国正在更新一项法律，该法律支撑了我们这个时代最引人注目的工业转型之一。经过二十年的可再生能源快速发展，中国正准备改写指导、支持和捍卫能源革命的规则。中国可再生能源法修订草案于11月6日向社会公开征求意见，征求意见截止时间为12月5日。20年前，刚刚加入世界贸易组织的中国，能源消费激增……"
       ],
       "sources": [
         {
@@ -359,14 +359,14 @@
           "url": "https://www.scmp.com/opinion/china-opinion/article/3374104/china-should-share-its-renewable-energy-expertise"
         }
       ],
-      "_score": 24.76
+      "_score": 24.64
     },
     {
       "id": "F1",
       "category": "F1",
-      "title": "Las Vegas GP: UK schedule and how to watch on Sky Sports",
+      "title": "拉斯维加斯大奖赛：英国赛程以及如何在天空体育上观看",
       "facts": [
-        "Formula 1 heads for the bright lights of Las Vegas with both 2026 titles settled, but the competitive picture at the front of the grid tighter than it has been at any other stage of the season."
+        "2026 年的两个冠军头衔已尘埃落定，一级方程式赛车 (F1) 正朝着拉斯维加斯的耀眼光芒进发，但前方的竞争格局比本赛季任何其他阶段都更加激烈。"
       ],
       "sources": [
         {
@@ -399,14 +399,14 @@
           "url": "https://www.skysports.com/f1/news/12433/13611077/las-vegas-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-in-united-states-live-on-sky-sports"
         }
       ],
-      "_score": 38.04
+      "_score": 37.91
     },
     {
       "id": "F2",
       "category": "F1",
-      "title": "Mercedes technical director warns F1 teams won’t “lie down” over 2027 downforce cuts",
+      "title": "梅赛德斯技术总监警告 F1 车队不会因 2027 年下压力削减而“放松”",
       "facts": [
-        "Formula 1's transition to the new 2026 engine and chassis regulations completely reshuffled the competitive order, but the rulebook is far from finalised. As teams prepare for their second year under the new formula in 2027, the FIA is pushing to mandate another drop in downforce. Early reports indicate the governing body is targeting a reduction of 20 to 50 points of downforce for the 2027 ... Keep reading"
+        "一级方程式赛车向 2026 年新发动机和底盘规则的过渡彻底重新洗牌了竞争秩序，但规则手册还远未最终确定。随着车队为 2027 年新公式的第二年做准备，国际汽联正在推动强制要求再次降低下压力。早期报告表明，管理机构的目标是在 2027 年将下压力减少 20 至 50 个点……继续阅读"
       ],
       "sources": [
         {
@@ -439,14 +439,14 @@
           "url": "https://www.formula1.com/en/latest/article/mercedes-incredible-success-through-formula-1-history.7yLliKc36ZI9pd7xzNYFwq"
         }
       ],
-      "_score": 37.39
+      "_score": 37.26
     },
     {
       "id": "F3",
       "category": "F1",
-      "title": "Toto Wolff offered his resignation during Mercedes’ struggles, but his boss refused",
+      "title": "托托·沃尔夫在梅赛德斯陷入困境期间提出辞职，但他的老板拒绝了",
       "facts": [
-        "In motorsport, extended periods of failure usually result in swift executive turnover. But when Mercedes team principal Toto Wolff attempted to hold himself accountable for the team's struggles in recent years, his boss flatly refused to let him walk away. Speaking at the 2026 Golden Steering Wheel awards in Berlin, Wolff provided a glimpse into the internal corporate dynamics at ... Keep reading"
+        "在赛车运动中，长期的失败通常会导致高管人员的迅速更替。但当梅赛德斯车队负责人托托·沃尔夫试图让自己对车队近年来的困境负责时，他的老板断然拒绝让他离开。沃尔夫在柏林举行的 2026 年金方向盘奖上发表讲话，介绍了公司内部动态……继续阅读"
       ],
       "sources": [
         {
@@ -479,14 +479,14 @@
           "url": "https://www.formula1.com/en/latest/article/toto-wolffs-journey-from-williams-to-nine-time-champion-with-mercedes.2l85DG3mfUyL5icscw0Gbn"
         }
       ],
-      "_score": 33.45
+      "_score": 33.32
     },
     {
       "id": "F4",
       "category": "F1",
-      "title": "Damon Hill: Ferrari has a “political problem” as Lewis Hamilton “rebuilt himself”",
+      "title": "达蒙·希尔：刘易斯·汉密尔顿“重建自己”，法拉利面临“政治问题”",
       "facts": [
-        "Ferrari team principal Fred Vasseur recently insisted that Lewis Hamilton and Charles Leclerc \"left my room joking together\" following a private meeting in Brazil to clear the air. But 1996 Formula 1 champion Damon Hill is not buying the sudden harmony at Maranello. According to Hill, the Scuderia is actively masking a rift. Analysing the fallout from the recent triple-header, Hill pointed to a ... Keep reading"
+        "法拉利车队负责人弗雷德·瓦塞尔最近坚称刘易斯·汉密尔顿和查尔斯·勒克莱尔在巴西举行私人会议后“一起离开我的房间开玩笑”以消除误会。但 1996 年一级方程式冠军达蒙·希尔 (Damon Hill) 对马拉内罗突然出现的和谐局面并不买账。希尔表示，法拉利车队正在积极掩盖分歧。希尔在分析最近三连冠的影响时指出……继续阅读"
       ],
       "sources": [
         {
@@ -519,14 +519,14 @@
           "url": "https://www.the-race.com/formula-1/ferrari-leclerc-hamilton-f1-problem-far-from-solved/"
         }
       ],
-      "_score": 28.08
+      "_score": 27.95
     },
     {
       "id": "A1",
       "category": "AI",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "title": "埃隆·马斯克 (Elon Musk) 和其他科技高管签署请愿书，呼吁 Nvidia 恢复黄仁勋 (Jensen Huang) 的职位",
       "facts": [
-        "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+        "截至周六下午，请愿书已吸引超过 115,000 个签名。"
       ],
       "sources": [
         {
@@ -551,7 +551,7 @@
           "name": "South China Morning Post",
           "lean": "中",
           "angle": "标题与摘要来自该媒体的 RSS。",
-          "url": "https://www.scmp.com/news/china/article/3374278/jensen-huang-quits-nvidia-non-invasive-treatment-kidney-tumours-scmps-7-highlights"
+          "url": "https://www.scmp.com/tech/big-tech/article/3374316/jensen-huangs-abrupt-exit-stuns-nvidias-china-staff-clouding-outlook-key-market"
         }
       ],
       "framing": "4 家来源 · 中 / 中右",
@@ -580,19 +580,19 @@
         {
           "outlet": "South China Morning Post",
           "lean": "中",
-          "title": "Jensen Huang quits Nvidia; non-invasive treatment for kidney tumours: SCMP’s 7 highlights",
-          "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. Jensen Huang resigns as Nvidia CEO amid affairs scandal Jensen Huang has resigned as president, chief executive officer and board member of the AI chip giant Nvidia with immediate effect, the firm announced on Thursday, amid media...",
-          "url": "https://www.scmp.com/news/china/article/3374278/jensen-huang-quits-nvidia-non-invasive-treatment-kidney-tumours-scmps-7-highlights"
+          "title": "Jensen Huang’s abrupt exit stuns Nvidia’s China staff, clouding the outlook in a key market",
+          "summary": "Jensen Huang’s abrupt resignation stunned some Nvidia staff in China and raised questions about the future of the US chipmaker’s operations in a market its co-founder had spent years cultivating, according to company sources. “It’s the end of an era. I really don’t understand why Huang was asked to resign – no one benefits from him stepping down,” one Nvidia employee in China said, declining to be named as they were not authorised to speak to the media. A second employee said colleagues looked...",
+          "url": "https://www.scmp.com/tech/big-tech/article/3374316/jensen-huangs-abrupt-exit-stuns-nvidias-china-staff-clouding-outlook-key-market"
         }
       ],
-      "_score": 62.96
+      "_score": 62.83
     },
     {
       "id": "A2",
       "category": "AI",
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "title": "亚洲各国政府对英伟达首席执行官黄仁勋的退出做出反应",
       "facts": [
-        "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
+        "一些政府已采取行动确认芯片供应承诺，而另一些政府则正在监测对当地项目的影响或解决正在进行的调查。"
       ],
       "sources": [
         {
@@ -651,14 +651,14 @@
           "url": "https://www.scmp.com/tech/big-tech/article/3374357/jensen-huangs-exit-tests-nvidias-supply-chain-clout-ability-bankroll-ai-buildout"
         }
       ],
-      "_score": 62.11
+      "_score": 61.98
     },
     {
       "id": "A3",
       "category": "AI",
-      "title": "‘Double standard’: why Jensen Huang saga sparked a debate about race for Asian-Americans",
+      "title": "“双重标准”：黄仁勋事件为何引发有关亚裔美国人种族的争论",
       "facts": [
-        "While global markets focus on the geopolitical and business implications of Jensen Huang’s resignation from Nvidia, another fierce debate is raging among Asian-Americans: whether race played a role in the downfall of one of corporate America’s most recognisable Asian faces. At the heart of the unease is the lack of public evidence for the most explosive allegation against Huang: that he had a romantic relationship with a Chinese businesswoman reportedly engaging in espionage for Beijing. The New..."
+        "尽管全球市场关注黄仁勋从英伟达辞职所带来的地缘政治和商业影响，但亚裔美国人中却掀起了另一场激烈的争论：种族是否是美国企业界最知名的亚洲面孔之一的垮台的原因之一。令人不安的核心是缺乏公开证据来证明针对黄的最具爆炸性的指控：他与一名据报道为北京从事间谍活动的中国女商人有过恋爱关系。新..."
       ],
       "sources": [
         {
@@ -717,14 +717,14 @@
           "url": "https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html"
         }
       ],
-      "_score": 61.85
+      "_score": 61.72
     },
     {
       "id": "A4",
       "category": "AI",
-      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+      "title": "卢特尼克因英伟达间谍丑闻而面临质疑。他儿子的公司与这家芯片制造商有着深厚的联系",
       "facts": [
-        "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker."
+        "黄仁勋辞去英伟达首席执行官职务，让商务部长霍华德·卢特尼克及其家族与这家芯片制造商的财务关系重新受到审视。"
       ],
       "sources": [
         {
@@ -770,18 +770,18 @@
           "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "_score": 49.3
+      "_score": 49.17
     }
   ],
   "stats": {
     "feeds_ok": 42,
     "feeds_failed": 2,
-    "items": 361,
-    "clusters": 265,
+    "items": 360,
+    "clusters": 267,
     "stories": 16,
     "feeds_total": 44,
     "errors": 2,
-    "elapsed_sec": 5.0
+    "elapsed_sec": 4.5
   },
   "errors": [
     {
@@ -799,12 +799,13 @@
     "经济 单一来源条目：E2, E3, E4"
   ],
   "llm_used": false,
-  "llm_provider": "",
+  "llm_provider": "机器翻译",
   "llm_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "translation_used": true,
   "lede": "今日由 RSS 多源自动聚合，共 16 条要闻、42 个来源；政治、经济、F1、AI 四条线各自独立成表。",
   "takeaways": [
-    "政治：'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-    "政治：Alaska high school football star dies after suddenly collapsing in gym class",
-    "政治：Israeli military says it struck senior member of Hamas military wing"
+    "政治：“你能相信吗？”：SpaceX 在返回地球时捕获了其 Starship 火箭的一部分",
+    "政治：阿拉斯加高中橄榄球明星在体育课上突然倒地身亡",
+    "政治：以色列军方称袭击了哈马斯军事部门的高级成员"
   ]
 }
