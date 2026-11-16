@@ -1,0 +1,790 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T05:48:46+00:00",
+  "stories": [
+    {
+      "id": "P1",
+      "category": "政治",
+      "title": "爱沙尼亚12月起关闭对俄边境并备云端政府",
+      "facts": [
+        "爱沙尼亚将于12月1日起关闭所有与俄罗斯的边境口岸，外长于周日宣布这一决定。",
+        "此前一家无人机企业遭疑似纵火破坏，当局称俄情报机构下令实施，总理将事件与塔林支持乌克兰相联系。",
+        "塔林同时准备在遭入侵情况下将数字政府转移至境外云端运行，以维持政府运转。"
+      ],
+      "sources": [
+        {
+          "name": "Politico",
+          "lean": "中",
+          "angle": "聚焦塔林数字政府境外云端运行的防入侵预案。",
+          "url": "https://www.politico.eu/article/estonias-digital-preppers-have-a-doomsday-backup-plan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "强调12月1日关闭边境及俄情报机构被指下令袭击。",
+          "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+        },
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "以疑似纵火袭击为导火索报道边境关闭决定。",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss"
+        },
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "引外长表态，突出12月1日与“破坏”定性。",
+          "url": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory"
+        }
+      ],
+      "framing": "四家来源均聚焦边境关闭与无人机厂破坏事件；Politico单独突出云端政府预案，其余三家侧重安全归因与时间节点。",
+      "items": [
+        {
+          "outlet": "Politico",
+          "lean": "中",
+          "title": "Estonia has a plan for Russian occupation: Run its government from the cloud",
+          "summary": "Tallinn is preparing its digital government to be run from abroad in case of an invasion.",
+          "url": "https://www.politico.eu/article/estonias-digital-preppers-have-a-doomsday-backup-plan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+          "summary": "Authorities say Russian intelligence service ordered attack which Estonian PM links to Tallinn’s support for Ukraine Estonia will close all its border crossings with Russia from 1 December after a suspected sabotage attack on a drone maker in the Baltic state over the weekend, which authorities said was ordered by Russia’s GRU military intelligence service. On Saturday morning, eight people were detained during an attempted attack on Threod Systems, a defence company that manufactures long-range attack and reconnai",
+          "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "Estonia to close border crossings with Russia after alleged arson attack",
+          "summary": "Estonia is closing its border crossings with Russia following an alleged arson attempt at a drone factory.",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "Estonia to close Russian border crossings after 'sabotage' attempt at drone factory",
+          "summary": "Estonia will close all its border crossing points with Russia from December 1, its ​foreign minister ‌said on Sunday, following a suspected ⁠sabotage attack on an Estonian defence company that Tallinn blamed on ‌Moscow.",
+          "url": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory"
+        }
+      ],
+      "_score": 63.53
+    },
+    {
+      "id": "P2",
+      "category": "政治",
+      "title": "布拉格数十万人抗议公共媒体资金改革",
+      "facts": [
+        "周日布拉格爆发大规模抗议，反对政府以直接国家拨款取代公共媒体收费的计划。",
+        "组织者称 turnout 超过3月一场逾25万人的抗议；《卫报》估计约35万人参加。",
+        "批评者认为该计划威胁广播机构独立性，政府则称广播机构需要削减成本。"
+      ],
+      "sources": [
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "突出数十万人规模及与3月抗议的人数比较。",
+          "url": "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan"
+        },
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "以政府威胁媒体独立性为标题框架。",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "平衡呈现抗议者与政府削减成本两种说法。",
+          "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "以媒体自由为框架，给出约35万人的估计。",
+          "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
+        }
+      ],
+      "framing": "四家来源角度接近，均报道抗议规模与媒体独立性担忧；BBC额外呈现政府削减成本的理由，France 24与《卫报》突出人数对比。",
+      "items": [
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "Hundreds of thousands of Czechs protest in Prague over public media funding plan",
+          "summary": "Hundreds of thousands of Czechs rallied in Prague on Sunday against government plans to replace public media fees with direct state funding, which critics say threatens broadcasters’ independence. Organisers said turnout exceeded a March protest of more than 200,000, potentially making it the largest demonstration since the 1989 Velvet Revolution.",
+          "url": "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "Czechs rally against gov’t threat to media independence",
+          "summary": "Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Czechs rally against plan to switch funding of public media",
+          "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+          "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Hundreds of thousands of Czechs protest in Prague over media freedom",
+          "summary": "Estimated 350,000 people rally against plan to scrap licence fees and fund broadcasters from state budget Hundreds of thousands of Czechs have rallied in Prague to protest against a perceived government attempt to stifle media freedom. The gathering on Sunday to save the mandatory licence fees that fund Czechia’s public broadcasters drew more than 350,000 people, making it one of the biggest in the country’s history, organisers said. Continue reading...",
+          "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
+        }
+      ],
+      "_score": 63.44
+    },
+    {
+      "id": "P3",
+      "category": "政治",
+      "title": "以军称击杀哈马斯拉法旅指挥官",
+      "facts": [
+        "以色列军方周日称在加沙空袭中击杀哈马斯军事翼高级成员萨米尔·阿布·尤尼斯。",
+        "哈马斯确认其死亡，称他是拉法旅指挥官，并在策划行动中发挥重要作用。",
+        "Al Jazeera报道加沙遭风暴袭击，同时以色列限制援助进入。"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "以停火执行与援助受限为问题框架，提及风暴。",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss"
+        },
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "聚焦以军击杀哈马斯拉法旅指挥官及哈马斯确认。",
+          "url": "https://www.france24.com/en/middle-east/20261115-israel-kills-senior-member-of-hamas-s-military-wing-in-gaza-strike"
+        },
+        {
+          "name": "The Jerusalem Post",
+          "lean": "中右",
+          "angle": "分析以方打击继任指挥官能否打破循环。",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-914911"
+        }
+      ],
+      "framing": "三家来源角度差异明显：France 24与Al Jazeera聚焦事件与加沙人道状况，《耶路撒冷邮报》以分析框架讨论以方打击继任指挥官的循环策略。",
+      "items": [
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "Who can force Israel to implement Gaza ceasefire deal?",
+          "summary": "Storms batter Palestinian territory as Israel restricts entry of aid.",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "Israel kills senior member of Hamas's military wing in Gaza strike",
+          "summary": "The Israeli military said on Sunday its forces had killed a senior member of Hamas's military wing in Gaza. The militant group confirmed the death of Samir Abu Younis, the commander of its Rafah brigade, adding that he played a prominent role in planning the October 7, 2023 attacks.",
+          "url": "https://www.france24.com/en/middle-east/20261115-israel-kills-senior-member-of-hamas-s-military-wing-in-gaza-strike"
+        },
+        {
+          "outlet": "The Jerusalem Post",
+          "lean": "中右",
+          "title": "Israel is killing Hamas's next generation of commanders - can it break the cycle? - analysis",
+          "summary": "By targeting replacement commanders soon after their appointments, Israel may seek to prevent Hamas's ability to re-establish its command and control.",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-914911"
+        }
+      ],
+      "_score": 58.47
+    },
+    {
+      "id": "P4",
+      "category": "政治",
+      "title": "Megaspeed称涉华间谍指控前高管已离职",
+      "facts": [
+        "Megaspeed表示被指为中国间谍的Alice Huang已于2025年晚些时候离开公司。",
+        "该公司称自身是“合法且 lawful 的业务”，并否认关于其供应链做法的报道。",
+        "事件与英伟达前CEO黄仁勋辞职相关，引发先进AI芯片是否在美限制下流入中国的疑问。"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "以疑似中国间谍与英伟达前老板的关联为线索。",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "突出公司自称合法经营及前高管离职时间。",
+          "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang"
+        },
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "聚焦公司否认供应链指控并切割前CEO。",
+          "url": "https://www.scmp.com/tech/article/3374493/megaspeed-rejects-claims-over-supply-chain-distances-itself-alice-huang"
+        }
+      ],
+      "framing": "三家来源均报道Megaspeed否认与切割前高管；BBC突出芯片流向疑问，《卫报》与南华早报侧重公司声明措辞。",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+          "summary": "Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025 Get our breaking news email , free app or daily news podcast Megaspeed International, the company linked to the downfall of the Nvidia chief, Jensen Huang , says it is a “legitimate and lawful business” and has announced that its director, who allegedly had an affair with Jensen Huang, left the business in late 2025. The Singapore-based cloud computing company on the weekend said it was “aware of recent media reports cont",
+          "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Megaspeed rejects claims over supply chain as Nvidia-linked scrutiny intensifies",
+          "summary": "Megaspeed, the Singaporean company caught in the Nvidia controversy, has pushed back against reported claims about its supply chain practices and distanced itself from former CEO Alice Huang. The firm said in a statement on Sunday that it “conducts legitimate and lawful business” and had hired external legal counsel to investigate media reports concerning its business, supply chain and global operations. Megaspeed said Huang officially left the company on August 30, 2025, and no longer had any...",
+          "url": "https://www.scmp.com/tech/article/3374493/megaspeed-rejects-claims-over-supply-chain-distances-itself-alice-huang"
+        }
+      ],
+      "_score": 53.33
+    },
+    {
+      "id": "E1",
+      "category": "经济",
+      "title": "圣诞市场与平价替代品折射节日消费涨价",
+      "facts": [
+        "《卫报》报道从Aldi蜡烛到Quince羊绒衫，高端商品的低价替代版本成为圣诞热门。",
+        "BBC报道圣诞市场摊位价格上涨，举例8英镑香肠和11英镑约克郡布丁卷。",
+        "两家来源均关注节日消费中的价格压力，但切入点不同。"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "以低价奢侈品替代品走红切入节日消费公平性。",
+          "url": "https://www.theguardian.com/money/2026/nov/15/christmas-dupes-gift-aldi-candles-quince-cashmere-jumpers-price"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "以具体食品价格追问圣诞市场年年涨价原因。",
+          "url": "https://www.bbc.co.uk/news/articles/c95y152k8erpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "两家来源角度不同：《卫报》聚焦低价替代品的主流化与公平性讨论，BBC聚焦圣诞市场摊贩对涨价的感受。",
+      "items": [
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Who’s duping whom? Cut-price versions of luxury items are Christmas hit",
+          "summary": "From Aldi candles to Quince’s cashmere jumpers, cheaper dupes of high-end goods have gone mainstream. But is it fair? For fans of the festive season nothing is more Christmassy than lighting a super-sized botanical candle with its trim of orange slices and berries. But as the notes of cinnamon and clove fill the room will you be burning money spent on the White Company’s £95 “winter indulgence” candle that customers describe as the “scent of Christmas”. Or have you followed TikTok’s advice and bought the Aldi “dupe",
+          "url": "https://www.theguardian.com/money/2026/nov/15/christmas-dupes-gift-aldi-candles-quince-cashmere-jumpers-price"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "What do Christmas market traders say about rising prices?",
+          "summary": "From £8 bratwursts to £11 Yorkshire pudding wraps, why is the cost of the markets rising year on year?",
+          "url": "https://www.bbc.co.uk/news/articles/c95y152k8erpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 41.2
+    },
+    {
+      "id": "E2",
+      "category": "经济",
+      "title": "日本经济三季度意外收缩但写字楼租金吸引美资",
+      "facts": [
+        "CNBC报道日本经济第三季度意外收缩，能源成本高企构成压力。",
+        "报道称9月家庭能源补贴到期，使经济暴露于伊朗战争推高的能源价格。",
+        "南华早报报道尽管利率可能升至2.25%，强劲写字楼租金增长仍吸引美国投资者进入日本房地产。"
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "以三季度意外收缩与能源补贴到期为解释线索。",
+          "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "以写字楼租金增长解释美资无视加息流入。",
+          "url": "https://www.scmp.com/property/international/article/3374432/strong-office-rental-growth-keeps-us-investors-japan-despite-rate-increases"
+        }
+      ],
+      "framing": "两家来源角度接近但侧重不同：CNBC聚焦宏观收缩与能源成本，南华早报聚焦房地产外资流入与租金支撑。",
+      "items": [
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+          "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+          "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Strong office rental growth keeps US investors in Japan despite rate increases",
+          "summary": "Expectations that Japan’s interest rates could rise to as high as 2.25 per cent have not deterred the influx of US capital into the local real estate market due to healthy rental growth of offices in prime locations, with analysts saying that investors have simply become more selective within the market. The Bank of Japan implemented two 25-basis-point rate increases – one in June and another in September – bringing its benchmark policy rate to 1.25 per cent. This marked the highest level since...",
+          "url": "https://www.scmp.com/property/international/article/3374432/strong-office-rental-growth-keeps-us-investors-japan-despite-rate-increases"
+        }
+      ],
+      "_score": 37.52
+    },
+    {
+      "id": "E3",
+      "category": "经济",
+      "title": "中国股市现生肖概念炒作与监管风险警告",
+      "facts": [
+        "MarketWatch报道鱼加工、照明和家电制造商等名称含“羊”谐音的股票在羊年前夕大涨。",
+        "报道称投资者兴趣与这些企业的业务状况关系不大。",
+        "南华早报报道中国最高证券监管机构警示全球市场动荡中的“黑天鹅”与“灰犀牛”风险。"
+      ],
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "lean": "中",
+          "angle": "以羊年谐音股大涨凸显概念炒作与基本面脱节。",
+          "url": "WP-MKTW-0005348305"
+        },
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "以监管警示黑天鹅灰犀牛聚焦市场风险。",
+          "url": "https://www.scmp.com/business/markets/article/3374505/black-swans-and-grey-rhinos-chinas-regulator-warns-risks-amid-global-turmoil"
+        }
+      ],
+      "framing": "两家来源角度接近但主题不同：MarketWatch聚焦生肖谐音概念炒作，南华早报聚焦监管层风险警示与市场韧性。",
+      "items": [
+        {
+          "outlet": "MarketWatch",
+          "lean": "中",
+          "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
+          "summary": "Shares of fish processors, lighting manufacturers and appliance makers have soared ahead of the Year of the Sheep. Investor appetite has had little to do with the status of their businesses.",
+          "url": "WP-MKTW-0005348305"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "‘Black swans’ and ‘grey rhinos’: China’s regulator warns of risks amid global turmoil",
+          "summary": "China’s top securities regulator has flagged the threat of potential “black swan” and “grey rhino” events amid global market turbulence, calling for greater regulatory certainty and cooperation to bolster market resilience. Global capital markets were “experiencing a new round of asset repricing and rebalancing” amid “intertwined changes and turmoil”, said Wu Qing, chairman of the China Securities Regulatory Commission (CSRC), at the 2026 China Capital Market Annual Conference in Shanghai over...",
+          "url": "https://www.scmp.com/business/markets/article/3374505/black-swans-and-grey-rhinos-chinas-regulator-warns-risks-amid-global-turmoil"
+        }
+      ],
+      "_score": 35.59
+    },
+    {
+      "id": "E4",
+      "category": "经济",
+      "title": "香港与阿联酋影视及市场联系未受中东战事阻断",
+      "facts": [
+        "南华早报报道两名香港演员11月6日现身迪拜一家影院并引起关注。",
+        "报道称此行发生在伊朗战争期间，该战争已使企业和旅客远离该地区。",
+        "报道以影院到市场为线索，称香港与阿联酋的联系未因中东战事断裂。"
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "以香港演员迪拜影院亮相切入双边联系未断。",
+          "url": "https://www.scmp.com/business/money/wealth/article/3374488/cinemas-markets-hong-kong-uae-ties-unfractured-middle-east-war"
+        }
+      ],
+      "framing": "单一来源。",
+      "items": [
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "From cinemas to markets, Hong Kong-UAE ties unfractured by Middle East war",
+          "summary": "When two Hong Kong actors, Kenny Wong Tak-bun and German Cheung Man-kit, showed up at a cinema in Dubai on November 6, it caused a stir. The pair had made what some saw as a risky journey amid the war in Iran, which has scared businesses and travellers away from the Middle East. The actors made the trek to the city in the United Arab Emirates (UAE) for a screening of their 2024 blockbuster Twilight of the Warriors: Walled In, during the annual Hong Kong Film Gala Presentation co-organised by the...",
+          "url": "https://www.scmp.com/business/money/wealth/article/3374488/cinemas-markets-hong-kong-uae-ties-unfractured-middle-east-war"
+        }
+      ],
+      "_score": 27.7
+    },
+    {
+      "id": "F1",
+      "category": "F1",
+      "title": "汉密尔顿促F1在多元化上加大力度加快步伐",
+      "facts": [
+        "汉密尔顿表示F1在多元化方面仍有许多工作要做，并提出三项改进步骤。",
+        "《卫报》引其称“灵感没有机会便毫无意义”，要求更平等的招聘。",
+        "Motorsport.com报道汉密尔顿批评前F1车手对年轻车手“说三道四”。"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "以汉密尔顿提出三项多元化步骤为报道重点。",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c52e8kpnje42o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "以“加大力度加快步伐”为引语突出平等招聘诉求。",
+          "url": "https://www.theguardian.com/sport/2026/nov/16/lewis-hamilton-urges-f1-push-harder-move-faster-diversity"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "聚焦汉密尔顿批评前车手对年轻新星说三道四。",
+          "url": "https://www.motorsport.com/f1/news/lewis-hamilton-criticises-ex-f1-drivers-for-talking-smack-and-young-stars/10874726/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "framing": "三家来源角度接近但侧重不同：BBC与《卫报》聚焦多元化与包容性，Motorsport.com聚焦其对前车手言论的批评。",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Much still to do on F1 diversity - Hamilton",
+          "summary": "British Formula 1 driver Lewis Hamilton outlines three steps the sport must take to improve its diversity.",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c52e8kpnje42o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Lewis Hamilton urges F1 to ‘push harder and move faster’ on diversity",
+          "summary": "Former champion calls for more equality in recruitment ‘Inspiration means nothing without opportunity’ Lewis Hamilton has demanded Formula One does more to deliver on diversity and inclusion, warning that the future of the sport is dependent on taking robust action to address inequality in recruitment. Hamilton has called on F1 to make greater investments, more extensive recording and publishing of data of who is in the sport and a commitment from teams to guarantee a number of paid early-career places for young pe",
+          "url": "https://www.theguardian.com/sport/2026/nov/16/lewis-hamilton-urges-f1-push-harder-move-faster-diversity"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Lewis Hamilton criticises ex-F1 drivers for \"talking smack\" about young stars",
+          "summary": "Seven-time Formula 1 champion Lewis Hamilton has criticised former drivers for \"talking smack\" about the young stars of the series, saying he has always been determined not to become \"that type of driver\". The Briton was asked at Interlagos whether Kimi Antonelli's title success had made him reflect on his own career. Mercedes signed Antonelli after Hamilton decided to move to Ferrari in 2025 ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/lewis-hamilton-criticises-ex-f1-drivers-for-talking-smack-and-young-stars/10874726/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "_score": 59.04
+    },
+    {
+      "id": "F2",
+      "category": "F1",
+      "title": "安东内利称维斯塔潘是2027卫冕最大威胁",
+      "facts": [
+        "2026年F1世界冠军安东内利将红牛车手维斯塔潘列为2027年卫冕的最大威胁。",
+        "安东内利在第二个赛季成为F1最年轻世界冠军，加冕于墨西哥城。",
+        "他同时警告梅赛德斯的优势可能消退。"
+      ],
+      "sources": [
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "突出安东内利点名维斯塔潘并警告梅赛德斯优势或消退。",
+          "url": "https://www.motorsport.com/f1/news/kimi-antonelli-names-biggest-threat-to-2027-title-defence-as-he-warns-mercedes-advantage-may-fade/10874729/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "以安东内利展望2027年首个卫冕赛季为框架。",
+          "url": "https://www.formula1.com/en/latest/article/antonelli-identifies-which-driver-poses-the-biggest-threat-to-his-title-defence-in-2027.6qjcpNnf8IerbXck8NpB05"
+        }
+      ],
+      "framing": "两家来源角度接近，均聚焦安东内利对2027年竞争格局的预判；Motorsport.com补充梅赛德斯优势可能消退的警告。",
+      "items": [
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Kimi Antonelli names biggest threat to 2027 title defence as he warns Mercedes advantage may fade",
+          "summary": "2026 Formula 1 champion Kimi Antonelli has chosen Red Bull's Max Verstappen as the driver most likely to stand in the way of his title defence in 2027. In only his second season in the series, the Mercedes driver became F1's youngest world champion at the Mexican Grand Prix, at the age of 20 years and 68 days, and the first Italian to win the title since Alberto Ascari in 1953. But speaking ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/kimi-antonelli-names-biggest-threat-to-2027-title-defence-as-he-warns-mercedes-advantage-may-fade/10874729/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "Antonelli names his biggest threat for 2027 title defence",
+          "summary": "Kimi Antonelli has outlined his expectations for the competitive picture in 2027 – his first season as reigning World Champion.",
+          "url": "https://www.formula1.com/en/latest/article/antonelli-identifies-which-driver-poses-the-biggest-threat-to-his-title-defence-in-2027.6qjcpNnf8IerbXck8NpB05"
+        }
+      ],
+      "_score": 38.77
+    },
+    {
+      "id": "F3",
+      "category": "F1",
+      "title": "霍纳承认红牛过早推新人对抗维斯塔潘",
+      "facts": [
+        "前红牛车队负责人霍纳承认，红牛曾过早将高评价新人放入第二席位对抗维斯塔潘。",
+        "报道称红牛第二席位长期被视为F1压力最大的环境之一。",
+        "米尔顿凯恩斯车队曾频繁轮换新人，试图找到与维斯塔潘匹配的车手。"
+      ],
+      "sources": [
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "以霍纳反思红牛第二席位新人过早承压为角度。",
+          "url": "https://www.motorsport.com/f1/news/horner-admits-red-bull-broken-pierre-gasly-and-promoted-drivers-too-soon/10874627/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "framing": "单一来源。",
+      "items": [
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Christian Horner admits Red Bull prospects were thrown in against Max Verstappen too soon",
+          "summary": "The second seat at Red Bull Racing has long been viewed as one of the most high-pressure environments in Formula 1. While the Milton Keynes operation frequently cycled through highly rated prospects trying to find a match for Max Verstappen, former team principal Christian Horner is now openly questioning the logic of that ruthless driver pipeline. Speaking on the High Performance podcast ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/horner-admits-red-bull-broken-pierre-gasly-and-promoted-drivers-too-soon/10874627/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "_score": 22.95
+    },
+    {
+      "id": "F4",
+      "category": "F1",
+      "title": "Topps发布诺里斯可口可乐袖标稀有卡",
+      "facts": [
+        "Topps公布一张罕见的兰多·诺里斯签名卡，为2024年Dynasty F1系列。",
+        "该卡嵌有两片赛车服布料，其中一片取自其迈凯伦赛车服袖上的可口可乐标志。",
+        "Topps Racing账号发布了该卡的短视频。"
+      ],
+      "sources": [
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "以稀有卡细节与可口可乐袖标布料为报道重点。",
+          "url": "https://www.motorsport.com/f1/news/topps-reveals-gem-mint-10-lando-norris-card-with-coca-cola-suit-patch/10874731/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "framing": "单一来源。",
+      "items": [
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Topps reveals Gem Mint 10 Lando Norris card with Coca-Cola suit patch",
+          "summary": "Topps has shared one of its rarest Lando Norris cards: a signed 2024 Dynasty Formula 1 card with two pieces of race suit, one of them cut from the Coca-Cola logo on the sleeve of his McLaren race suit. The Topps Racing account posted a short video of the card on Instagram on Friday, with the caption \"This Lando Norris patch auto goes CRAZY!\" The card comes from the Single Driver Dual Relic ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/topps-reveals-gem-mint-10-lando-norris-card-with-coca-cola-suit-patch/10874731/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "_score": 22.83
+    },
+    {
+      "id": "A1",
+      "category": "AI",
+      "title": "科技界逾15万人联署要求黄仁勋回归英伟达",
+      "facts": [
+        "马斯克等科技高管与超过16.5万人签署公开信，要求英伟达让黄仁勋回归。",
+        "France 24报道截至周日联署超过15.8万人，要求在进行独立调查期间恢复其职务。",
+        "黄仁勋于周四辞职，此前曝出两段婚外情，其中一段涉及一名被指为中国间谍的女性。"
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "以科技界要求黄仁勋回归的呼声渐涨为框架。",
+          "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "突出马斯克与16.5万人联署及婚外情背景。",
+          "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo"
+        },
+        {
+          "name": "The Jerusalem Post",
+          "lean": "中右",
+          "angle": "称黄仁勋考虑回归，硅谷盟友支持但董事会与华盛顿有阻力。",
+          "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914991"
+        },
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "以15.8万联署与独立调查要求为数字重点。",
+          "url": "https://www.france24.com/en/technology/20261115-elon-musk-uber-co-founder-jensen-huang-nvidia-reinstate"
+        }
+      ],
+      "framing": "四家来源角度接近，均报道联署规模与硅谷支持；《卫报》与France 24给出不同联署数字，CNBC突出科技界呼声渐涨。",
+      "items": [
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+          "summary": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
+          "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+          "summary": "Silicon Valley figures back CEO ousted after revelations of affair with suspected Chinese spy, as US treasury secretary urges Nvidia to carry out ‘dramatic shake-up’ Elon Musk and a host of other tech executives are among more than 165,000 signatories of an open letter calling for Jensen Huang’s reinstatement as Nvidia chief, days after he resigned from the multi-trillion dollar chip company. The letter demands that the company’s board members “bring Jensen back while an independent investigation establishes the fa",
+          "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo"
+        },
+        {
+          "outlet": "The Jerusalem Post",
+          "lean": "中右",
+          "title": "Jensen Huang considers Nvidia comeback as Silicon Valley allies rally in support - report",
+          "summary": "Silicon Valley leaders, including Elon Musk, are backing Jensen Huang's return to Nvidia despite a board investigation and opposition in Washington.",
+          "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914991"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "Elon Musk, Uber co-founder join calls to reinstate Jensen Huang as Nvidia chief",
+          "summary": "Elon Musk and an Uber co-founder were among more than 158,000 signatories by Sunday demanding Jensen Huang’s reinstatement as Nvidia chief pending an independent investigation. Huang resigned Thursday after revelations of two extramarital affairs, one with a subordinate and another with a woman accused of spying for China, ending his 33-year tenure.",
+          "url": "https://www.france24.com/en/technology/20261115-elon-musk-uber-co-founder-jensen-huang-nvidia-reinstate"
+        }
+      ],
+      "_score": 69.63
+    },
+    {
+      "id": "A2",
+      "category": "AI",
+      "title": "韩国税务会计考试最高分者承认用AI作弊",
+      "facts": [
+        "34岁的韩元锡承认在韩国税务会计国家考试中使用隐藏摄像头和AI获取近乎满分成绩。",
+        "《卫报》报道160道题仅错1题，考生承认将题目照片发送给AI工具。",
+        "事件引发对下周全国大学入学考试的担忧。"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "以考生承认用隐藏摄像头和AI作弊为核心事实。",
+          "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "以160题仅错1题与高考担忧突出作弊规模。",
+          "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam"
+        }
+      ],
+      "framing": "两家来源角度接近，均聚焦作弊手法与高分异常；《卫报》补充对高考的担忧与具体题数。",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+          "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+          "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+          "summary": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal has followed months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raised the stakes for",
+          "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam"
+        }
+      ],
+      "_score": 41.3
+    },
+    {
+      "id": "A3",
+      "category": "AI",
+      "title": "卢特尼克因英伟达间谍风波面临关联质疑",
+      "facts": [
+        "CNBC报道黄仁勋辞去英伟达CEO后，商务部长卢特尼克及其家族与芯片制造商的经济联系再受审视。",
+        "France 24报道Megaspeed称被指为中国间谍的Alice Huang已于2025年正式离开公司。",
+        "报道称Alice Huang与英伟达前CEO黄仁勋有婚外情。"
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "以卢特尼克儿子公司与英伟达关系受审视切入。",
+          "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html"
+        },
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "以中国间谍、芯片销售与特朗普关系梳理丑闻。",
+          "url": "https://www.france24.com/en/chinese-spy-chip-sales-trump-ties-the-nvidia-scandal-deepens"
+        }
+      ],
+      "framing": "两家来源角度不同：CNBC聚焦卢特尼克家族与英伟达的财务关联，France 24聚焦间谍指控与公司切割的时间线。",
+      "items": [
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+          "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+          "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "Chinese spy, chip sales, Trump ties... The Nvidia scandal deepens",
+          "summary": "The Nvidia scandal continues to unravel. Sunday, the Singapore-based company Megaspeed said that Chinese businesswoman Alice Huang had officially left the company in 2025. She is the alleged Chinese spy that had an affair with Nvidia's former CEO Jensen Huang. Late last year, revelations showed she was being investigated for chip smuggling. The scandal has also raised questions about how much the US government knew – Trump was allegedly warned about the affair but did not react. Analysis by Laïla Mörch, CEO of Shae",
+          "url": "https://www.france24.com/en/chinese-spy-chip-sales-trump-ties-the-nvidia-scandal-deepens"
+        }
+      ],
+      "_score": 36.36
+    },
+    {
+      "id": "A4",
+      "category": "AI",
+      "title": "英伟达安全团队缺位与领导危机扰动AI交易",
+      "facts": [
+        "TechCrunch报道英伟达安全主管于8月悄然离职，前情报官员称此类泄露本可防范。",
+        "CNBC报道英伟达领导层危机扰动AI交易，但标普500本周仍涨2.5%，纳指涨2.3%。",
+        "黄仁勋因与一名被疑向中国输送芯片的公司高管的关系而辞职。"
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "以安全主管8月离职追问英伟达安全团队缺位。",
+          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "以领导层危机扰动AI交易并说明组合调整。",
+          "url": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html"
+        }
+      ],
+      "framing": "两家来源角度不同：TechCrunch追问安全团队缺位，CNBC聚焦领导危机对AI交易与市场组合的影响。",
+      "items": [
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "Where was Nvidia’s security team?",
+          "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
+          "summary": "Despite the turbulence, the S&P 500 secured a weekly gain of 2.5%, while the tech-heavy Nasdaq added 2.3%.",
+          "url": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html"
+        }
+      ],
+      "_score": 33.05
+    }
+  ],
+  "stats": {
+    "feeds_ok": 42,
+    "feeds_failed": 2,
+    "items": 245,
+    "clusters": 184,
+    "stories": 16,
+    "feeds_total": 44,
+    "errors": 2,
+    "elapsed_sec": 2.0
+  },
+  "errors": [
+    {
+      "source": "Arab News",
+      "feed": "arabnews",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "VentureBeat",
+      "feed": "venturebeat-ai",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "warnings": [
+    "经济 单一来源条目：E4",
+    "F1 单一来源条目：F3, F4"
+  ],
+  "llm_used": true,
+  "llm_provider": "deepseek",
+  "lede": "今日四条线均围绕治理与信任展开：爱沙尼亚以数字政府预案和边境关闭回应安全威胁，捷克大规模抗议公共媒体资金改革，加沙停火与指挥层打击并行，英伟达领导层风波牵动AI供应链与监管。",
+  "takeaways": [
+    "爱沙尼亚将数字政府连续性纳入国土防御，边境关闭与云端治理构成同一安全逻辑的两面。",
+    "捷克抗议显示公共媒体资金模式之争已从预算议题升级为媒体独立性的政治信任问题。",
+    "英伟达风波从企业人事外溢至供应链安全与华盛顿监管，AI芯片管制成为政治经济交叉点。"
+  ]
+}
