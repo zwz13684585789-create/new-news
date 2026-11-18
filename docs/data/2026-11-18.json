@@ -1,0 +1,1010 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T06:50:09+00:00",
+  "stories": [
+    {
+      "id": "P1",
+      "category": "政治",
+      "title": "特朗普访菲并称美菲贸易与防务合作扩大",
+      "facts": [
+        "特朗普称美国已与菲律宾达成“非常大的贸易协议”，但两国公布的日程均未提及相关谈判。",
+        "特朗普表示美国与菲律宾的同盟关系“从未如此好”，并称将扩大防务合作。",
+        "马尼拉是特朗普三天亚洲行的第一站，行程后续将前往中国参加与习近平、普京的三方核谈。"
+      ],
+      "sources": [
+        {
+          "name": "The Jerusalem Post",
+          "lean": "中右",
+          "angle": "突出特朗普称达成“非常大的贸易协议”，并指出日程未提谈判。",
+          "url": "https://www.jpost.com/international/article-915263"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "以APEC直播形式带出习普会谈与鲁比奥涉朝表态。",
+          "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "lean": "中",
+          "angle": "聚焦特朗普称美菲同盟处于最佳状态并扩大防务合作。",
+          "url": "https://www.channelnewsasia.com/asia/trump-us-expanding-defence-cooperation-philippines-6561271"
+        },
+        {
+          "name": "NPR",
+          "lean": "中左",
+          "angle": "强调马尼拉是三天亚洲行首站，后续赴华参加三方核谈。",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines"
+        }
+      ],
+      "framing": "各来源角度接近，均聚焦特朗普在马尼拉的表态；耶路撒冷邮报强调贸易协议，CNA突出防务合作，NPR与卫报侧重行程与峰会背景。",
+      "items": [
+        {
+          "outlet": "The Jerusalem Post",
+          "lean": "中右",
+          "title": "Trump says US has concluded 'very big trade deal' with Philippines ahead of APEC summit",
+          "summary": "Negotiations on a trade deal between the two allies were not mentioned in any of the schedules released by either country.",
+          "url": "https://www.jpost.com/international/article-915263"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
+          "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about the expected, Putin, Trump and Xi, meeting at Apec on Thursday. It is a truism in diplomacy that if ",
+          "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
+        },
+        {
+          "outlet": "Channel NewsAsia",
+          "lean": "中",
+          "title": "Trump says US is expanding defence cooperation with Philippines",
+          "summary": "President Donald Trump said the US alliance with the Philippines has never been better.",
+          "url": "https://www.channelnewsasia.com/asia/trump-us-expanding-defence-cooperation-philippines-6561271"
+        },
+        {
+          "outlet": "NPR",
+          "lean": "中左",
+          "title": "Trump arrives in Philippines to kick off Asia trip",
+          "summary": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines"
+        }
+      ],
+      "_score": 70.0
+    },
+    {
+      "id": "P2",
+      "category": "政治",
+      "title": "佩尔托拉赢阿拉斯加参议院席位改写多数格局",
+      "facts": [
+        "民主党人玛丽·佩尔托拉赢得阿拉斯加参议院席位，成为该州首位阿拉斯加原住民参议员。",
+        "CNA称佩尔托拉以50%的首选票击败共和党现任参议员沙利文的46%。",
+        "耶路撒冷邮报称此役使民主党获得56比44的参议院多数；纽约邮报称结果在中期选举两周后揭晓。"
+      ],
+      "sources": [
+        {
+          "name": "The Jerusalem Post",
+          "lean": "中右",
+          "angle": "强调民主党获56比44多数，并提特朗普2024年赢该州13个百分点。",
+          "url": "https://www.jpost.com/american-politics/article-915261"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "以“Aarigaa!”为引，聚焦佩尔托拉原住民身份与历史性胜利。",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "lean": "中",
+          "angle": "直接报道佩尔托拉以50%对46%翻转参议院席位。",
+          "url": "https://www.channelnewsasia.com/world/us-midterms-mary-peltola-alaska-win-senate-majority-6561306"
+        },
+        {
+          "name": "New York Post",
+          "lean": "右",
+          "angle": "突出结果在中期选举两周后才宣布，并提选前争议报道。",
+          "url": "https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/"
+        }
+      ],
+      "framing": "来源叙事差异明显：卫报聚焦原住民政治与历史意义，纽约邮报强调计票延迟与选前争议报道，CNA与耶路撒冷邮报侧重票数与多数格局。",
+      "items": [
+        {
+          "outlet": "The Jerusalem Post",
+          "lean": "中右",
+          "title": "Democrat Peltola wins in Alaska, securing 56-44 US Senate majority",
+          "summary": "Trump won Alaska by 13 percentage points in 2024, but voter frustration with the high cost of living and the state's strong independent political streak put it back in play for Democrats.",
+          "url": "https://www.jpost.com/american-politics/article-915261"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and what it means for Alaska Natives",
+          "summary": "Peltola, the first Alaska Native in the US Senate, ran a campaign that drew universal issues from her own Indigenous politics Late into the night on 3 November, while the lower 48 states were reeling from the blue wave crashing across the US, Mary Peltola took to the stage in a Sheraton Hotel ballroom in Anchorage, Alaska, to greet her supporters. It wasn’t a victory speech as such – there would still be long days ahead before all votes could be counted across this vast arctic state. But that didn’t prevent the Dem",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis"
+        },
+        {
+          "outlet": "Channel NewsAsia",
+          "lean": "中",
+          "title": "Democrat Mary Peltola flips Alaska Senate seat",
+          "summary": "Democrat Mary Peltola won 50 per cent of first-place votes against Republican incumbent Dan Sullivan's 46 per cent.",
+          "url": "https://www.channelnewsasia.com/world/us-midterms-mary-peltola-alaska-win-senate-majority-6561306"
+        },
+        {
+          "outlet": "New York Post",
+          "lean": "右",
+          "title": "Mary Peltola finally declared winner of Alaska Senate race 2 weeks after midterms",
+          "summary": "A week before Election Day, the race was rocked by a bombshell report alleging Peltola campaign aides were instructed to search for people named “Dan Sullivan” that could jump in the fray, with the goal of siphoning votes away from the incumbent senator.",
+          "url": "https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/"
+        }
+      ],
+      "_score": 69.9
+    },
+    {
+      "id": "P3",
+      "category": "政治",
+      "title": "美方回应伊朗“脏弹”传闻 各方说法不一",
+      "facts": [
+        "特朗普称美国正“非常认真”对待任何针对华盛顿的伊朗图谋，并称正在调查相关计划。",
+        "伊朗否认有关其策划对华盛顿发动“脏弹”袭击的说法，称其“毫无根据”。",
+        "鲁比奥淡化伊朗“脏弹”威胁，同时谴责情报泄露；有报道称美方官员讨论伊朗能否实施该图谋。"
+      ],
+      "sources": [
+        {
+          "name": "The Jerusalem Post",
+          "lean": "中右",
+          "angle": "突出鲁比奥淡化威胁并谴责情报泄露，称其安抚民众。",
+          "url": "https://www.jpost.com/international/article-915256"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "报道特朗普称“非常认真”对待伊朗图谋，并提伊朗否认。",
+          "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "强调特朗普称“正在调查”，同时指出“无可信威胁”与官员争论。",
+          "url": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington"
+        },
+        {
+          "name": "Fox News",
+          "lean": "右",
+          "angle": "突出特朗普警告伊朗将面临前所未有的报复，并提官员搬迁。",
+          "url": "https://www.foxnews.com/politics/trump-warns-iran-reported-plot-against-admin-officials-take-very-seriously"
+        }
+      ],
+      "framing": "叙事差异显著：福克斯与耶路撒冷邮报突出特朗普警告与报复，卫报强调“无可信威胁”与官员争论，BBC与CNA侧重伊朗否认与美方表态。",
+      "items": [
+        {
+          "outlet": "The Jerusalem Post",
+          "lean": "中右",
+          "title": "Rubio downplays Iranian ‘dirty bomb’ threat to Washington, condemns intelligence leaks",
+          "summary": "The secretary of state and national security adviser sought to reassure Americans following reports of Iranian plans to target senior Trump administration officials.",
+          "url": "https://www.jpost.com/international/article-915256"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+          "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
+          "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
+          "summary": "US officials ‘debate whether Iran can or will attempt to execute’ plot to detonate a ‘dirty bomb’, report says Donald Trump has claimed the US is “looking into” whether Iran is developing plans to detonate a so-called “dirty bomb” in Washington, even as the White House said there were “no credible threats” at this time. Trump said his administration takes the idea “very seriously” Continue reading...",
+          "url": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington"
+        },
+        {
+          "outlet": "Fox News",
+          "lean": "右",
+          "title": "Trump warns Iran about reported plot against admin officials: 'We take it very seriously'",
+          "summary": "Trump warned Iran would face unprecedented retaliation over a reported plot targeting Washington, D.C., as senior officials relocate to military housing.",
+          "url": "https://www.foxnews.com/politics/trump-warns-iran-reported-plot-against-admin-officials-take-very-seriously"
+        }
+      ],
+      "_score": 69.49
+    },
+    {
+      "id": "P4",
+      "category": "政治",
+      "title": "APEC峰会聚焦特朗普习近平普京三方会晤",
+      "facts": [
+        "日本的高市早苗在特朗普与习近平、普京峰会前与特朗普会面。",
+        "特朗普预计在APEC期间与习近平举行今年第三次会晤，并与普京举行三方峰会。",
+        "德国之声称三方将在APEC场边举行首次三边会晤，议题涉及贸易、乌克兰、伊朗与军控。"
+      ],
+      "sources": [
+        {
+          "name": "Channel NewsAsia",
+          "lean": "中",
+          "angle": "报道高市早苗在特朗普与习普峰会前与特朗普会面。",
+          "url": "https://www.channelnewsasia.com/east-asia/japan-sakae-takaichi-meets-donald-trump-asean-summit-6561626"
+        },
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "设问特朗普在APEC希望达成什么，提及其与习近平第三次会晤。",
+          "url": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "lean": "中",
+          "angle": "分析特朗普、习近平、普京各自在贸易、乌克兰、伊朗与军控上的优先事项。",
+          "url": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "name": "Politico",
+          "lean": "中",
+          "angle": "聚焦欧洲担忧普京在乌克兰问题上拖延特朗普，但官员仍将参会。",
+          "url": "https://www.politico.eu/article/europe-vladimir-putin-not-serious-about-ukraine-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        }
+      ],
+      "framing": "来源角度接近，均聚焦APEC期间的三方会晤安排；Politico补充欧洲对普京拖延特朗普的担忧，CNA突出高市早苗会面。",
+      "items": [
+        {
+          "outlet": "Channel NewsAsia",
+          "lean": "中",
+          "title": "Japan's Takaichi meets Trump ahead of his Xi-Putin summit",
+          "summary": "",
+          "url": "https://www.channelnewsasia.com/east-asia/japan-sakae-takaichi-meets-donald-trump-asean-summit-6561626"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "What is Trump hoping to achieve at APEC meeting in China?",
+          "summary": "US president expected to meet with Chinese leader for third time this year; hold trilateral summit with Putin.",
+          "url": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss"
+        },
+        {
+          "outlet": "Deutsche Welle",
+          "lean": "中",
+          "title": "APEC summit: What Trump, Xi and Putin want",
+          "summary": "Trump, Xi and Putin will hold their first trilateral meeting on the sidelines of APEC. With different priorities on trade, Ukraine, Iran and arms control, what does each leader hope to gain?",
+          "url": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "outlet": "Politico",
+          "lean": "中",
+          "title": "Europe fears Putin is stringing Trump along on Ukraine",
+          "summary": "Officials worry peace talks are going nowhere. They'll take part anyway.",
+          "url": "https://www.politico.eu/article/europe-vladimir-putin-not-serious-about-ukraine-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        }
+      ],
+      "_score": 63.84
+    },
+    {
+      "id": "E1",
+      "category": "经济",
+      "title": "英伟达财报亮眼 黄仁勋去留争议持续发酵",
+      "facts": [
+        "英伟达季度营收增长并给出1300亿美元季度预测，显示芯片需求仍处高位。",
+        "临时CEO科莱特·克雷斯主持黄仁勋辞职后首次财报电话会，试图安抚投资者。",
+        "特朗普表态支持黄仁勋回归，CNBC称随着呼吁回归声音增多，英伟达股价承压。"
+      ],
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "lean": "中",
+          "angle": "突出亮眼业绩缓解CEO过渡担忧，并提1300亿美元季度预测。",
+          "url": "WP-MKTW-0005354670"
+        },
+        {
+          "name": "Fox Business",
+          "lean": "右",
+          "angle": "强调这是黄仁勋辞任CEO后首次财报，临时CEO克雷斯主持。",
+          "url": "https://www.foxbusiness.com/markets/nvidia-set-report-quarterly-earnings-first-time-since-jensen-huang-resigned-ceo"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "聚焦特朗普支持黄仁勋回归，称其“吸取了重大教训”。",
+          "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "报道股价承压，因呼吁黄仁勋回归声音增多且出口面临更多审查。",
+          "url": "https://www.cnbc.com/2026/11/16/morning-squawk-nvidia-share-calls-reinstate-huang-ceo.html"
+        }
+      ],
+      "framing": "叙事差异明显：MarketWatch与CNBC侧重市场与股价反应，福克斯商业强调黄仁勋辞职后首次财报，卫报突出特朗普支持回归。",
+      "items": [
+        {
+          "outlet": "MarketWatch",
+          "lean": "中",
+          "title": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears",
+          "summary": "Nvidia’s revenue growth and $130 billion quarterly forecast showed that demand for chips is still sky-high.",
+          "url": "WP-MKTW-0005354670"
+        },
+        {
+          "outlet": "Fox Business",
+          "lean": "右",
+          "title": "Nvidia set to report quarterly earnings for first time since Jensen Huang resigned as CEO",
+          "summary": "Interim CEO Colette Kress leads Nvidia's first earnings call since CEO Jensen Huang resigned, aiming to reassure investors that business stays on track.",
+          "url": "https://www.foxbusiness.com/markets/nvidia-set-report-quarterly-earnings-first-time-since-jensen-huang-resigned-ceo"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+          "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, joining Silicon Valley heavyweights in backing the reinstatement of the AI figurehead. The US president referred to a tech industry campaign for Huang’s rehabilitation, saying a “big group” of people would like him back. Continue reading...",
+          "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Nvidia shares under pressure as calls grow for Huang to be reinstated as CEO",
+          "summary": "Chip stocks are in the red as exports face additional scrutiny",
+          "url": "https://www.cnbc.com/2026/11/16/morning-squawk-nvidia-share-calls-reinstate-huang-ceo.html"
+        }
+      ],
+      "_score": 69.1
+    },
+    {
+      "id": "E2",
+      "category": "经济",
+      "title": "英伟达董事会称无意让黄仁勋回归",
+      "facts": [
+        "英伟达董事会主席哈维·琼斯表示，公司“不打算让黄仁勋重新担任CEO”。",
+        "英伟达营收翻倍，这是黄仁勋因涉嫌与中国间谍有染的婚外情指控被免职后首份财报。",
+        "临时CEO克雷斯首份财报安抚了投资者情绪，并上调增长展望。"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "设问黄仁勋与英伟达对美国经济有多重要，称其处于AI热潮中心。",
+          "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "突出营收翻倍，同时报道董事会称无意让黄仁勋回归。",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "强调克雷斯首份财报安抚投资者，显示英伟达仍处AI中心。",
+          "url": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "报道董事会排除黄仁勋回归，同时提克雷斯上调增长展望。",
+          "url": "https://www.scmp.com/tech/article/3374812/nvidia-board-says-it-has-no-plans-reinstate-jensen-huang-ceo"
+        }
+      ],
+      "framing": "来源角度接近，均聚焦董事会拒绝回归与财报表现；BBC侧重黄仁勋对美国经济的重要性，卫报强调免职指控背景。",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "How important are Nvidia and Jensen Huang to the US economy?",
+          "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+          "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+          "summary": "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spy Nvidia “does not intend to reinstate Jensen as CEO”, the chairman of the company’s board said Tuesday. Harvey Jones made the remark during Nvidia’s first quarterly earnings report since Jensen Huang’s ouster. Nvidia announced the same day that its quarterly revenue beat expectations, coming in at $115.84bn, doubling from the same time period a year ago. The third-quarter earnings report comes just days aft",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
+          "summary": "In her first earnings report as interim CEO, Nvidia's Colette Kress calmed investors' nerves, at least for the moment.",
+          "url": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Nvidia board rules out Jensen Huang return after ex-CEO says he’d gladly come back",
+          "summary": "Nvidia’s board has no plans to reinstate co-founder Jensen Huang as chief executive, chairman Harvey Jones said on Tuesday, as interim CEO Colette Kress raised the chipmaker’s growth outlook and sought to reassure investors about its future without its long-time leader. “The Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO,” Jones said at the start of the company’s first earnings call since Huang’s departure last week. Hours earlier, in a post on...",
+          "url": "https://www.scmp.com/tech/article/3374812/nvidia-board-says-it-has-no-plans-reinstate-jensen-huang-ceo"
+        }
+      ],
+      "_score": 63.87
+    },
+    {
+      "id": "E3",
+      "category": "经济",
+      "title": "调查称做空中国股票成第二拥挤交易",
+      "facts": [
+        "美国银行调查显示，全球基金经理将做空中国股票视为市场最拥挤交易之一。",
+        "该调查发布前，上月中国内地股市出现大幅抛售。",
+        "报道称做空中国股票的头寸被视为第二拥挤交易；细节有限。"
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "引用美银调查称做空中国股票为第二拥挤交易，并提上月抛售。",
+          "url": "https://www.scmp.com/business/china-business/article/3374837/shorting-chinese-stocks-seen-second-most-crowded-trade-survey-fund-managers-finds"
+        }
+      ],
+      "framing": "单一来源。",
+      "items": [
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Shorting Chinese stocks seen as second-most crowded trade, survey of fund managers finds",
+          "summary": "Global fund managers view bets against Chinese stocks as one of the market’s most crowded trades, following a sharp sell-off in mainland equities last month, a recent survey by Bank of America (BofA) found. Short positions in Chinese stocks were seen as the second-most crowded trade by 14 per cent of respondents to a survey of global fund managers, behind bets on global semiconductor stocks, which were cited by 39 per cent of investors. The findings revealed lingering caution towards Chinese...",
+          "url": "https://www.scmp.com/business/china-business/article/3374837/shorting-chinese-stocks-seen-second-most-crowded-trade-survey-fund-managers-finds"
+        }
+      ],
+      "_score": 27.69
+    },
+    {
+      "id": "E4",
+      "category": "经济",
+      "title": "花旗调查称香港千万富翁人数增4%",
+      "facts": [
+        "花旗香港调查显示，香港千万富翁人数今年增加4%，为五年来最高水平。",
+        "报道称房价回升抵消了股市表现疲弱的影响。",
+        "该调查于周三发布；具体人数等细节有限。"
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "突出千万富翁人数增4%创五年新高，归因房价回升抵消股市疲弱。",
+          "url": "https://www.scmp.com/business/money/wealth/article/3374824/hong-kong-multimillionaires-rose-4-cent-year-highest-five-years-citibank"
+        }
+      ],
+      "framing": "单一来源。",
+      "items": [
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Hong Kong multimillionaires rose 4% this year, the highest in 5 years: Citibank",
+          "summary": "The number of multimillionaires in Hong Kong has risen by 4 per cent to its highest level in five years, driven by recovering property prices that offset weak stock market performance, according to a Citibank Hong Kong survey released on Wednesday. The population of multimillionaires, defined as those with total net assets of at least HK$10 million (US$1.27 million) and liquid assets over HK$1 million, increased by 4 per cent to 412,000 as of mid-June from a year earlier, the bank said. They...",
+          "url": "https://www.scmp.com/business/money/wealth/article/3374824/hong-kong-multimillionaires-rose-4-cent-year-highest-five-years-citibank"
+        }
+      ],
+      "_score": 27.43
+    },
+    {
+      "id": "F1",
+      "category": "F1",
+      "title": "F1拉斯维加斯大奖赛周末开跑 赛程与看点汇总",
+      "facts": [
+        "2026赛季F1还剩三站，拉斯维加斯大奖赛本周末开启最后一个三连赛。",
+        "拉斯维加斯大奖赛于当地时间周六晚8点开跑，对应美国东部时间晚11点。",
+        "所有 sessions 均通过Apple TV直播；The Race称拉斯维加斯是近年赛历中最壮观的新增分站。"
+      ],
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "设问2026赛季在拉斯维加斯站还有哪些悬念，称还剩三站。",
+          "url": "https://www.skysports.com/f1/news/12433/13611983/las-vegas-gp-whats-still-to-play-for-over-final-three-races-of-f1-2026-season-with-battles-in-drivers-and-constructors-championships"
+        },
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "提供拉斯维加斯大奖赛完整周末赛程，称其为最壮观新增分站。",
+          "url": "https://www.the-race.com/formula-1/what-time-is-f1s-2026-las-vegas-grand-prix-full-weekend-schedule/"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "讲述球体馆如何成为拉斯维加斯大奖赛的核心标志。",
+          "url": "https://www.formula1.com/en/latest/article/how-the-sphere-became-the-heart-of-the-las-vegas-grand-prix.1xiIUVGfOPf8kGx8oHY7V9"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "列出开赛时间、赛程与观看方式，强调夜间街道赛。",
+          "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-2026-start-time-schedule-and-how-to-watch/10874866/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "framing": "来源角度接近，均聚焦赛程与观赛信息；Formula1.com另文介绍球体馆如何成为拉斯维加斯站核心。",
+      "items": [
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "What's still to play for in 2026 as F1 hits Vegas?",
+          "summary": "The 2026 Formula 1 season has three races left to go with the Las Vegas Grand Prix opening the final triple header of the year this weekend.",
+          "url": "https://www.skysports.com/f1/news/12433/13611983/las-vegas-gp-whats-still-to-play-for-over-final-three-races-of-f1-2026-season-with-battles-in-drivers-and-constructors-championships"
+        },
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "What time is F1's 2026 Las Vegas Grand Prix? Full weekend schedule",
+          "summary": "Time for the most spectacular of all the recent additions to the F1 calendar: Las Vegas",
+          "url": "https://www.the-race.com/formula-1/what-time-is-f1s-2026-las-vegas-grand-prix-full-weekend-schedule/"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "How the Sphere became the heart of the Las Vegas GP",
+          "summary": "It's eye-catching, spectacular and unmistakably Las Vegas. The Sphere has become an integral part of the Las Vegas Grand Prix, and we explore how and why.",
+          "url": "https://www.formula1.com/en/latest/article/how-the-sphere-became-the-heart-of-the-las-vegas-grand-prix.1xiIUVGfOPf8kGx8oHY7V9"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "F1 Las Vegas GP 2026: start time, schedule and how to watch",
+          "summary": "The Las Vegas Grand Prix starts at 8 pm PT on Saturday, November 21, which is 11 pm ET. The race runs at night along the Strip, and every session is live on Apple TV. Las Vegas Grand Prix 2026 schedule Session Day PT MT CT ET Practice 1 Thursday, Nov. 19 4:30 pm 5:30 pm 6:30 pm 7:30 pm Practice 2 Thursday, Nov. 19 8 ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-2026-start-time-schedule-and-how-to-watch/10874866/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "_score": 69.86
+    },
+    {
+      "id": "F2",
+      "category": "F1",
+      "title": "F1拉斯维加斯站多队推出特别涂装",
+      "facts": [
+        "多支F1车队为拉斯维加斯大奖赛推出特别涂装。",
+        "凯迪拉克公布其拉斯维加斯站特别涂装，成为最新展示定制涂装的车队。",
+        "天空体育称已汇总目前所有“闪亮”的拉斯维加斯站涂装；细节有限。"
+      ],
+      "sources": [
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "汇总拉斯维加斯大奖赛各队特别涂装。",
+          "url": "https://www.the-race.com/formula-1/f1-all-special-liveries-las-vegas-grand-prix/"
+        },
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "以“闪亮”为关键词汇总目前所有拉斯维加斯站涂装。",
+          "url": "https://www.skysports.com/f1/live-blog/12433/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "报道凯迪拉克公布拉斯维加斯站特别涂装。",
+          "url": "https://www.formula1.com/en/latest/article/gallery-cadillac-reveal-special-livery-for-las-vegas-grand-prix.1b7NXQe83gP2LzjiCQf2ES"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "提供英国时间赛程与观看方式，称所有环节均在Sky Sports F1直播。",
+          "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-2026-uk-times-schedule-how-to-watch/10874860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "framing": "来源角度接近，均聚焦特别涂装展示；Motorsport.com另文提供英国时间观赛指南。",
+      "items": [
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "All the special liveries for F1's Las Vegas Grand Prix",
+          "summary": "It's time for the Las Vegas Grand Prix - and with it, a host of special liveries for F1 teams",
+          "url": "https://www.the-race.com/formula-1/f1-all-special-liveries-las-vegas-grand-prix/"
+        },
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "All the special glitzy Las Vegas GP liveries so far!",
+          "summary": "",
+          "url": "https://www.skysports.com/f1/live-blog/12433/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "Cadillac reveal special livery for Las Vegas Grand Prix",
+          "summary": "Cadillac have become the latest team to showcase a bespoke livery that will feature on their car for the Las Vegas Grand Prix.",
+          "url": "https://www.formula1.com/en/latest/article/gallery-cadillac-reveal-special-livery-for-las-vegas-grand-prix.1b7NXQe83gP2LzjiCQf2ES"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "F1 Las Vegas GP 2026: UK times, schedule and how to watch",
+          "summary": "The Las Vegas Grand Prix starts at 4am UK time on Sunday 22 November. In Las Vegas it is still 8pm on Saturday, because the race runs at night along the Strip. Every session falls overnight in the UK, and every one of them is live on Sky Sports F1. Las Vegas Grand Prix 2026 schedule in UK time Session Day UK time Las Vegas time Practice 1 Friday 20 ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-2026-uk-times-schedule-how-to-watch/10874860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "_score": 67.52
+    },
+    {
+      "id": "F3",
+      "category": "F1",
+      "title": "哈斯确认卡马拉再战拉斯维加斯 平川亮跑一练",
+      "facts": [
+        "哈斯确认拉斐尔·卡马拉将在拉斯维加斯大奖赛继续搭档贝尔曼出战。",
+        "平川亮将在第一节练习赛中顶替贝尔曼的席位。",
+        "卡马拉在巴西站完成F1首秀，天空体育称其将继续担任贝尔曼的队友。"
+      ],
+      "sources": [
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "报道卡马拉再战拉斯维加斯，平川亮在FP1顶替贝尔曼。",
+          "url": "https://www.motorsport.com/f1/news/haas-sticks-with-camara-for-las-vegas-hirakawa-in-for-fp1/10874778/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "确认卡马拉继续担任贝尔曼队友，提及其巴西站首秀。",
+          "url": "https://www.skysports.com/f1/news/12433/13612731/rafael-camara-haas-keep-brazilian-driver-as-oliver-bearmans-team-mate-for-las-vegas-gp-following-home-debut"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "另文分析拉斯维加斯站最可能获胜的五位车手及赔率。",
+          "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-las-vegas-grand-prix-according-to-the-betting-markets.35XTVOVdU16UJWGZJj3ctb"
+        },
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "称拉斯维加斯给卡马拉机会，摆脱巴西站混乱首秀。",
+          "url": "https://www.the-race.com/formula-1/vegas-gives-camara-chance-to-put-messy-debut-behind-him/"
+        }
+      ],
+      "framing": "来源角度接近，均聚焦哈斯车手安排；The Race强调卡马拉可借拉斯维加斯摆脱巴西站混乱首秀。",
+      "items": [
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Haas sticks with Rafael Camara for Las Vegas, Ryo Hirakawa in for FP1",
+          "summary": "Rafael Camara will race again for Haas at Formula 1's upcoming Las Vegas Grand Prix, as Ryo Hirakawa takes Ollie Bearman's seat for the opening practice session. Both Hirakawa and Camara have now raced for the team following the dismissal of Esteban Ocon, who was stood down during the Mexico City Grand Prix weekend. Hirakawa, contesting the World Endurance Championship finale in Monza - ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/haas-sticks-with-camara-for-las-vegas-hirakawa-in-for-fp1/10874778/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "Camara to drive for Haas again at Las Vegas GP",
+          "summary": "Haas have confirmed that Rafael Camara will continue as Oliver Bearman's team-mate for this weekend's Las Vegas Grand Prix after making his Formula 1 debut last time out in Brazil.",
+          "url": "https://www.skysports.com/f1/news/12433/13612731/rafael-camara-haas-keep-brazilian-driver-as-oliver-bearmans-team-mate-for-las-vegas-gp-following-home-debut"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "The 5 drivers most likely to win in Las Vegas",
+          "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Las Vegas Strip Circuit.",
+          "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-las-vegas-grand-prix-according-to-the-betting-markets.35XTVOVdU16UJWGZJj3ctb"
+        },
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "Vegas gives Camara chance to put messy debut behind him",
+          "summary": "Rafael Camara will get a quick chance to move on from his messy Haas F1 debut in Brazil as he will stay in the car for this weekend's Las Vegas GP",
+          "url": "https://www.the-race.com/formula-1/vegas-gives-camara-chance-to-put-messy-debut-behind-him/"
+        }
+      ],
+      "_score": 62.5
+    },
+    {
+      "id": "F4",
+      "category": "F1",
+      "title": "布朗谈迈凯伦复苏 称曾处“有毒环境”",
+      "facts": [
+        "迈凯伦CEO扎克·布朗称其2016年加入时车队环境“非常有毒”，归咎于领导层频繁更替。",
+        "布朗表示正借鉴德约科维奇的建议，帮助车队在本赛季失去两项F1冠军后反弹。",
+        "Formula1.com称布朗反思迈凯伦2026年为何未能卫冕，并提及其对下赛季的借鉴。"
+      ],
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "突出布朗透露德约科维奇建议，助迈凯伦在失冠后反弹。",
+          "url": "https://www.skysports.com/f1/news/12433/13612940/mclaren-chief-zak-brown-says-advice-from-novak-djokovic-will-help-f1-team-bounce-back-from-losing-titles-to-mercedes"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "报道布朗称2016年加入时迈凯伦环境“非常有毒”。",
+          "url": "https://www.motorsport.com/f1/news/zak-brown-recalls-mclarens-very-toxic-environment-after-joining-team-in-2016/10874891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "聚焦布朗反思迈凯伦2026年为何未能争冠及下季借鉴。",
+          "url": "https://www.formula1.com/en/latest/article/weve-just-got-to-do-a-better-job-brown-explains-why-mclaren-struggled-to-challenge-for-the-championship-in-2026.4vyTtKngYi0IPSrhXhRozz"
+        }
+      ],
+      "framing": "来源角度接近，均聚焦布朗对迈凯伦治理与复苏的反思；天空体育突出德约科维奇建议，Motorsport.com强调“有毒环境”。",
+      "items": [
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "Brown reveals Djokovic advice that will help McLaren after 'underperformance'",
+          "summary": "McLaren chief executive Zak Brown says he is using advice from Novak Djokovic to aid his team's attempt to bounce back after losing both of their Formula 1 titles to Mercedes this season.",
+          "url": "https://www.skysports.com/f1/news/12433/13612940/mclaren-chief-zak-brown-says-advice-from-novak-djokovic-will-help-f1-team-bounce-back-from-losing-titles-to-mercedes"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Zak Brown recalls McLaren's \"very toxic environment\" after joining team in 2016",
+          "summary": "McLaren Racing CEO Zak Brown has described the team he joined in 2016 as \"a very toxic environment\", blaming a revolving door of leaders for years of poor results on and off the track. The American arrived at McLaren a decade ago, after the team's shareholders parted ways with Ron Dennis, and went on to lead its recovery from the back of the grid to the 2024 and 2025 constructors' ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/zak-brown-recalls-mclarens-very-toxic-environment-after-joining-team-in-2016/10874891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "Brown on why McLaren struggled to fight for title in 2026",
+          "summary": "McLaren CEO Zak Brown has reflected on why the team were unable to defend their titles in 2026 – and the learnings that they are taking forward into next season.",
+          "url": "https://www.formula1.com/en/latest/article/weve-just-got-to-do-a-better-job-brown-explains-why-mclaren-struggled-to-challenge-for-the-championship-in-2026.4vyTtKngYi0IPSrhXhRozz"
+        }
+      ],
+      "_score": 55.86
+    },
+    {
+      "id": "A1",
+      "category": "AI",
+      "title": "英伟达初创投资达650亿美元 黄仁勋去留添变数",
+      "facts": [
+        "TechCrunch称英伟达私人投资价值过去九个月近三倍增至650亿美元。",
+        "临时CEO克雷斯公布第三季度财报时，最初未提黄仁勋及其离职细节或回归可能。",
+        "黄仁勋在辞职后首次声明中表示愿意回归CEO；卫报称其将于12月1日就“潜在国家安全 breach”作证。"
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "突出英伟达初创投资增至650亿美元，黄仁勋离职令未来交易存疑。",
+          "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+        },
+        {
+          "name": "The Verge",
+          "lean": "中左",
+          "angle": "称财报达标但未提黄仁勋风波，董事会主席随后表态。",
+          "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "报道黄仁勋辞职后首次声明，称愿意回归CEO。",
+          "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "聚焦黄仁勋将于12月1日就“潜在国家安全 breach”在国会作证。",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy"
+        }
+      ],
+      "framing": "叙事差异明显：TechCrunch聚焦投资组合与交易前景，The Verge强调财报会避谈黄仁勋，CNBC突出其回归意愿，卫报聚焦国会作证。",
+      "items": [
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+          "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+          "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+        },
+        {
+          "outlet": "The Verge",
+          "lean": "中左",
+          "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+          "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang […]",
+          "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
+          "summary": "He said he had seen support from investors and employees and was willing to come back as CEO.",
+          "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
+          "summary": "High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spy Nvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resignation following an affair with a suspected Chinese spy. Tim Teter, Nvidia’s general counsel, has also agreed to appear for a closed-door transcribed interview the following day, 2 December. Continue reading...",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy"
+        }
+      ],
+      "_score": 63.15
+    },
+    {
+      "id": "A2",
+      "category": "AI",
+      "title": "英伟达董事会拒回归 科技界联名施压",
+      "facts": [
+        "英伟达董事会表示无计划让黄仁勋回归；BBC称公司淡化“Bring Jensen Back”运动。",
+        "MIT Technology Review称社交媒体请愿到周一已列出大量签名者。",
+        "卫报称马斯克与另外16.5万人联名呼吁英伟达让黄仁勋回归。"
+      ],
+      "sources": [
+        {
+          "name": "Wired",
+          "lean": "中左",
+          "angle": "报道英伟达董事会无计划让黄仁勋回归。",
+          "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "称英伟达淡化“Bring Jensen Back”运动，特朗普支持回归。",
+          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "MIT Technology Review",
+          "lean": "中",
+          "angle": "称开源运动希望黄仁勋回归，请愿在社交媒体流传。",
+          "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "突出马斯克与16.5万人联名呼吁回归，并提财长吁“大幅改组”。",
+          "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo"
+        }
+      ],
+      "framing": "来源角度接近，均聚焦回归呼声与董事会拒绝；卫报突出马斯克与联名人数，BBC强调特朗普支持该努力。",
+      "items": [
+        {
+          "outlet": "Wired",
+          "lean": "中左",
+          "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+          "summary": "",
+          "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+          "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "MIT Technology Review",
+          "lean": "中",
+          "title": "The open-source movement wants Jensen Huang back",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
+          "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+          "summary": "CEO ousted after affair with suspected Chinese spy reportedly plans comeback, but US treasury secretary urges ‘dramatic shake-up’ Megaspeed says it’s a ‘legitimate and lawful business’ Business live – latest updates Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. An open letter that has more than 165,000 signatories demands that the company’",
+          "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo"
+        }
+      ],
+      "_score": 62.58
+    },
+    {
+      "id": "A3",
+      "category": "AI",
+      "title": "Anthropic IPO后亚马逊谷歌合计持股近三成",
+      "facts": [
+        "TechCrunch称Anthropic IPO后亚马逊将持股略低于15%，并有权大幅增持。",
+        "谷歌持股近14%，为第二大股东；两家合计将持有近30%。",
+        "Anthropic预计本周在纳斯达克上市，股票代码为ANT。"
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "突出IPO后亚马逊持股近15%、谷歌近14%，合计近30%。",
+          "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "以问答形式介绍如何购买Anthropic股票及是否值得。",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "提供IPO指南，称其本周在纳斯达克以ANT代码交易。",
+          "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html"
+        }
+      ],
+      "framing": "来源角度接近，均聚焦Anthropic IPO；TechCrunch突出股权结构，卫报与CNBC侧重投资者指南。",
+      "items": [
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+          "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+          "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Anthropic IPO: how can I buy shares, and is it worth it?",
+          "summary": "Stock market debut of Claude AI chatbot maker is expected to be one of the biggest flotations in history The technology company Anthropic is heading for a blockbuster stock market listing this week in what is slated to be one of the largest debuts in history. The company is a leader in artificial intelligence, and is best known for its chatbot Claude. The float, which is expected to value the business at $1.4tn (£1tn), comes at a volatile time for tech stocks, yet it has been reported that the shares could be six t",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Anthropic IPO guide: Everything you need to know",
+          "summary": "Anthropic is set to start trading this week on the Nasdaq under the ticker symbol ANT.",
+          "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html"
+        }
+      ],
+      "_score": 52.61
+    },
+    {
+      "id": "A4",
+      "category": "AI",
+      "title": "特朗普质疑英伟达间谍指控 中美AI竞争添变数",
+      "facts": [
+        "特朗普对英伟达前CEO黄仁勋丑闻中涉案中国女商人是否为间谍提出新的质疑。",
+        "BBC称随着特朗普与习近平会晤，中国担忧该丑闻加大美国进一步限制先进芯片销售的压力。",
+        "德国之声称该争议暴露了中美在AI领域日益加剧的竞争。"
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "报道特朗普对丑闻核心的间谍指控提出新质疑。",
+          "url": "https://www.scmp.com/tech/big-tech/article/3374849/us-president-trump-casts-doubt-spy-claim-heart-nvidia-saga"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "称特朗普与习近平会晤之际，中国AI梦想面临英伟达间谍丑闻意外障碍。",
+          "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "lean": "中",
+          "angle": "称丑闻暴露中美AI竞争加剧，中国面临芯片困境。",
+          "url": "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766?maca=en-rss-en-world-4025-rdf"
+        }
+      ],
+      "framing": "来源角度接近，均将该丑闻置于中美AI竞争框架；SCMP突出特朗普质疑间谍指控，BBC与DW侧重中国芯片困境。",
+      "items": [
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "US President Trump casts doubt on spy claim at heart of Nvidia saga",
+          "summary": "US President Donald Trump has cast fresh doubt on allegations that a Chinese businesswoman at the centre of a scandal involving former Nvidia CEO Jensen Huang was a spy, adding a new twist to the leadership crisis engulfing the chipmaker. Speaking to reporters outside the White House on Monday before departing for a trip to Asia, Trump denied that Secretary of State Marco Rubio had briefed him on US intelligence indicating that Alice Huang – a businesswoman reportedly involved in an extramarital...",
+          "url": "https://www.scmp.com/tech/big-tech/article/3374849/us-president-trump-casts-doubt-spy-claim-heart-nvidia-saga"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+          "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+          "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Deutsche Welle",
+          "lean": "中",
+          "title": "Nvidia scandal: China's chips dilemma, US rivalry shape AI race",
+          "summary": "The controversy over Nvidia's former CEO Jensen Huang and an alleged affair with a suspected spy has exposed the intensifying AI rivalry between the US and China.",
+          "url": "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766?maca=en-rss-en-world-4025-rdf"
+        }
+      ],
+      "_score": 47.88
+    }
+  ],
+  "stats": {
+    "feeds_ok": 42,
+    "feeds_failed": 2,
+    "items": 374,
+    "clusters": 241,
+    "stories": 16,
+    "feeds_total": 44,
+    "errors": 2,
+    "elapsed_sec": 3.3
+  },
+  "errors": [
+    {
+      "source": "Arab News",
+      "feed": "arabnews",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "VentureBeat",
+      "feed": "venturebeat-ai",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "warnings": [
+    "经济 单一来源条目：E3, E4"
+  ],
+  "llm_used": true,
+  "llm_provider": "deepseek",
+  "lede": "从APEC峰会到阿拉斯加参议院选举，从英伟达领导层风波到拉斯维加斯大奖赛，今日多条线索都围绕关键人物的去留与谈判展开；经济与AI报道更集中追问企业治理与外部压力如何影响市场信心。",
+  "takeaways": [
+    "特朗普亚洲行与APEC多边会晤叠加，贸易与安全议题被同时摆上桌面，但具体成果仍待观察。",
+    "英伟达前CEO去留争议已从公司治理外溢至政治与国家安全层面，成为AI叙事的核心变量。",
+    "拉斯维加斯大奖赛的赛程、涂装与车手安排报道密集，竞技悬念与商业展示并重。"
+  ]
+}
