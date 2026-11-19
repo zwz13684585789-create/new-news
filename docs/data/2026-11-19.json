@@ -1,0 +1,1065 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T06:51:33+00:00",
+  "stories": [
+    {
+      "id": "P1",
+      "category": "政治",
+      "title": "特朗普在APEC场边会晤普京与习近平",
+      "facts": [
+        "特朗普在APEC峰会期间与普京、习近平分别举行场边会晤，称与普京相识多年、关系良好。",
+        "特朗普在会前称此次历史性峰会已是‘胜利’，并强调自己抵达时的排场与其他领导人形成对比。",
+        "半岛电视台指出三位领导人对世界秩序的地缘政治目标与愿景存在分歧，不会成为‘新雅尔塔’。"
+      ],
+      "sources": [
+        {
+          "name": "The Jerusalem Post",
+          "lean": "中右",
+          "angle": "突出特朗普与普京多年关系及‘美好事情’可能由此开始。",
+          "url": "https://www.jpost.com/international/article-915395"
+        },
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "强调三位领导人地缘目标分歧，否定‘新雅尔塔’定性。",
+          "url": "https://www.aljazeera.com/opinions/2026/11/19/the-xi-putin-trump-summit-will-not-be-a-new-yalta?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "lean": "中",
+          "angle": "聚焦特朗普称会晤已是‘胜利’及抵达排场的对比。",
+          "url": "https://www.channelnewsasia.com/world/trump-summit-china-xi-putin-6564716"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "以直播博客形式记录特朗普淡化美国断网与Nvidia安全担忧。",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates"
+        }
+      ],
+      "framing": "右翼与中间来源侧重会晤的‘历史性’与排场，左翼来源则聚焦美国国内科技故障与Nvidia安全担忧，角度差异明显。",
+      "items": [
+        {
+          "outlet": "The Jerusalem Post",
+          "lean": "中右",
+          "title": "Trump holds meetings with Putin, Xi on sidelines of APEC summit in China",
+          "summary": "\"We've had a great relationship for many years. We know each other for a long time, and I think a lot of wonderful things can come out of this, or at least start,\" Trump told Putin.",
+          "url": "https://www.jpost.com/international/article-915395"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "The Xi-Putin-Trump summit will not be a ‘new Yalta’",
+          "summary": "The three leaders have divergent geopolitical goals and visions for the world order.",
+          "url": "https://www.aljazeera.com/opinions/2026/11/19/the-xi-putin-trump-summit-will-not-be-a-new-yalta?traffic_source=rss"
+        },
+        {
+          "outlet": "Channel NewsAsia",
+          "lean": "中",
+          "title": "Trump says historic summit with Xi, Putin already a 'win' before event",
+          "summary": "US President Donald Trump highlighted the pomp surrounding his arrival, which contrasted with the more muted greeting of other leaders, including Russian counterpart Vladimir Putin.",
+          "url": "https://www.channelnewsasia.com/world/trump-summit-china-xi-putin-6564716"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – as it happened",
+          "summary": "This live blog is now closed. Follow our live coverage of the Asia-Pacific economic cooperation summit Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about the wave of tech outages affecting several industries. CNN reported that officials said the administration underscored that what has happened is not as a result of cyber-attacks but due to the “hardening and upgrading of our systems ”, including “systems being patched, hardware being applied” ",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates"
+        }
+      ],
+      "_score": 70.0
+    },
+    {
+      "id": "P2",
+      "category": "政治",
+      "title": "赫格塞斯访委内瑞拉宣布军事合作协议",
+      "facts": [
+        "美国国防部长赫格塞斯访问加拉加斯，宣布恢复与委内瑞拉的军事合作，并称将打击毒品贩运者。",
+        "赫格塞斯称协议涵盖联合训练、情报共享及其他美委军事合作方面。",
+        "《卫报》称赫格塞斯利用此访吹嘘美军抓捕马杜罗，并称一年前此访‘几乎不可想象’。"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "称赫格塞斯在美军抓捕马杜罗后首次访委，公布新军事协议。",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss"
+        },
+        {
+          "name": "The Jerusalem Post",
+          "lean": "中右",
+          "angle": "详列协议涵盖联合训练、情报共享等合作内容。",
+          "url": "https://www.jpost.com/international/article-915375"
+        },
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "强调访问‘未事先宣布’，并称将打击毒品贩运者。",
+          "url": "https://www.france24.com/en/americas/20261118-hegseth-makes-surprise-trip-to-venezuela-renews-military-cooperation"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "聚焦赫格塞斯借访问吹嘘美军抓捕马杜罗及美国主导地位。",
+          "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military"
+        }
+      ],
+      "framing": "中间与中右来源侧重协议内容与‘意外访问’，左翼来源则突出赫格塞斯借访问吹嘘抓捕马杜罗，叙事重点不同。",
+      "items": [
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "Hegseth unveils new US-Venezuela military deal",
+          "summary": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss"
+        },
+        {
+          "outlet": "The Jerusalem Post",
+          "lean": "中右",
+          "title": "Hegseth announces new US-Venezuela military partnership agreement during Caracas visit",
+          "summary": "Hegseth said the agreement covered joint training, intelligence sharing, and other aspects of US-Venezuelan military cooperation.",
+          "url": "https://www.jpost.com/international/article-915375"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "Hegseth makes surprise trip to Venezuela, renews military cooperation",
+          "summary": "US Defence Secretary Pete Hegseth made an unannounced visit to Caracas on Wednesday, announcing a resumption of military cooperation with Venezuela and vowing to crack down on drug traffickers. The trip marks the highest-level US visit since the ouster of Nicolas Maduro in January, signalling a dramatic shift in relations between the two countries.",
+          "url": "https://www.france24.com/en/americas/20261118-hegseth-makes-surprise-trip-to-venezuela-renews-military-cooperation"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+          "summary": "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year ago Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the single most sophisticated military operation in the history of Latin America”. Maduro was controversially seized by Delta Force operatives in the early hours of 3 January, setting in motion an improbable rapprochement bet",
+          "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military"
+        }
+      ],
+      "_score": 69.16
+    },
+    {
+      "id": "P3",
+      "category": "政治",
+      "title": "以军越过‘黄线’进入哈马斯控制的中加沙",
+      "facts": [
+        "以色列军方周三越过‘黄线’边界，进入哈马斯控制的加沙中部，为停火协议以来首次地面行动。",
+        "以军称行动针对哈马斯基础设施以‘消除威胁’，哈马斯谴责此举为‘公然’违反停火。",
+        "法新社记者看到以军坦克部署在努塞拉特难民营以东，行动发生在停火谈判无果之后。"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "强调这是停火协议以来首次越过‘黄线’的地面行动。",
+          "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "称以军发动‘罕见’地面行动，哈马斯谴责为公然违反停火。",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Jerusalem Post",
+          "lean": "中右",
+          "angle": "突出以军称 targeting 哈马斯基础设施以‘消除威胁’。",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-915349"
+        },
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "引述法新社记者看到以军坦克在努塞拉特难民营以东部署。",
+          "url": "https://www.france24.com/en/israeli-army-launches-ground-operation-in-hamas-controlled-area-of-gaza"
+        }
+      ],
+      "framing": "中右与中间来源侧重以军‘拆除恐怖隧道’与‘消除威胁’的表述，左翼来源强调这是停火以来首次越线入侵，角度分歧明显。",
+      "items": [
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+          "summary": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without Netanyahu The Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground operation across the “yellow line” boundary since a fragile ceasefire was agreed last October, forcing dozens of displaced Palestinians to flee their tents. Israeli tanks rolled along the Salah al-Din road , Gaza’s main north-south route, a day after the US-backed Board of Peace, a body overseeing the ceasef",
+          "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+          "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Jerusalem Post",
+          "lean": "中右",
+          "title": "IDF sends tanks into Hamas-controlled Gaza for first time since 2025 ceasefire",
+          "summary": "The Israeli military said its forces were targeting Hamas infrastructure outside areas that Israel controls in the enclave to \"remove threats.\"",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-915349"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "Israeli army launches ground operation in Hamas-controlled area of Gaza",
+          "summary": "The Israeli military said it had launched an operation on Wednesday in a Hamas-controlled area of central Gaza, where an AFP journalist saw Israeli tanks position themselves east of the Nuseirat refugee camp. The rare ground operation comes after inconclusive Israeli elections, with the opposition's Gadi Eisenkot trying to form a government without caretaker prime minister Benjamin Netanyahu, who has built his brand on saying he will ensure Israel's security. FRANCE 24's Daniel Whittington reports.",
+          "url": "https://www.france24.com/en/israeli-army-launches-ground-operation-in-hamas-controlled-area-of-gaza"
+        }
+      ],
+      "_score": 68.76
+    },
+    {
+      "id": "P4",
+      "category": "政治",
+      "title": "国际法院将就罗兴亚种族灭绝案裁决缅甸",
+      "facts": [
+        "国际法院将就缅甸是否对罗兴亚人实施种族灭绝作出裁决，为十多年来首份种族灭绝判决。",
+        "案件源于缅甸2017年在若开邦的军事镇压，导致超过70万罗兴亚人逃往孟加拉国。",
+        "BBC指出，此前从未有国家被国际法院判定犯有种族灭绝罪。"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "以‘有何利害关系’设问，强调十多年来首份种族灭绝裁决。",
+          "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "lean": "中",
+          "angle": "突出案件历时七年，聚焦2017年镇压致70多万人逃亡。",
+          "url": "https://www.channelnewsasia.com/asia/myanmar-genocide-case-rohingya-international-court-justice-icj-un-6564571"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "强调‘历史性’裁决，并指出无国家曾被判种族灭绝罪。",
+          "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "lean": "中",
+          "angle": "聚焦国际法院将裁定缅军行动是否具有‘全部或部分’消灭罗兴亚人的意图。",
+          "url": "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-world-4025-rdf"
+        }
+      ],
+      "framing": "各来源角度接近，均聚焦裁决的历史意义与2017年军事镇压背景，未出现明显叙事分歧。",
+      "items": [
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
+          "summary": "World court to issue key verdict in its first genocide ruling in more than a decade.",
+          "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss"
+        },
+        {
+          "outlet": "Channel NewsAsia",
+          "lean": "中",
+          "title": "World Court to rule whether Myanmar committed genocide against Rohingya",
+          "summary": "The seven-year case centres on Myanmar’s 2017 military crackdown in Rakhine state that drove more than 700,000 Rohingya into neighbouring Bangladesh, where many recounted killings, mass rape and arson.",
+          "url": "https://www.channelnewsasia.com/asia/myanmar-genocide-case-rohingya-international-court-justice-icj-un-6564571"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+          "summary": "No state has ever been found guilty by an international court of committing genocide.",
+          "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Deutsche Welle",
+          "lean": "中",
+          "title": "ICJ to rule on Rohingya genocide case against Myanmar: What to know",
+          "summary": "The ICJ is set to decide whether Myanmar's military operations in Rakhine State a decade ago were carried out with the intent to destroy the country's Rohingya minority, in whole or in part.",
+          "url": "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-world-4025-rdf"
+        }
+      ],
+      "_score": 63.73
+    },
+    {
+      "id": "E1",
+      "category": "经济",
+      "title": "Nvidia营收翻倍 董事会称不打算让黄仁勋回归",
+      "facts": [
+        "Nvidia发布黄仁勋辞任CEO后首份财报，营收翻倍，董事会主席称公司‘不打算让Jensen回归’。",
+        "黄仁勋在辞任后首次声明中表示，看到投资者和员工的支持，愿意回归担任CEO。",
+        "临时CEO Colette Kress主持首次财报电话会，旨在向投资者保证业务保持正轨。"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "突出董事会称不打算让黄仁勋回归，并提及涉中国间谍指控的绯闻。",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "聚焦黄仁勋称看到支持并愿意回归担任CEO。",
+          "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html"
+        },
+        {
+          "name": "Fox Business",
+          "lean": "右",
+          "angle": "强调临时CEO Kress主持财报会以安抚投资者业务正轨。",
+          "url": "https://www.foxbusiness.com/markets/nvidia-set-report-quarterly-earnings-first-time-since-jensen-huang-resigned-ceo"
+        },
+        {
+          "name": "Wired",
+          "lean": "中左",
+          "angle": "标题直接称董事会无计划让黄仁勋回归。",
+          "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/"
+        }
+      ],
+      "framing": "左翼与中左来源聚焦董事会拒绝回归及黄仁勋本人表态，右翼与中间来源侧重财报与临时CEO安抚投资者，角度不同。",
+      "items": [
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+          "summary": "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spy Nvidia “does not intend to reinstate Jensen as CEO”, the chairman of the company’s board said Tuesday. Harvey Jones made the remark during Nvidia’s first quarterly earnings report since Jensen Huang’s ouster. Nvidia announced the same day that its quarterly revenue beat expectations, coming in at $115.84bn, doubling from the same time period a year ago. The third-quarter earnings report comes just days aft",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
+          "summary": "He said he had seen support from investors and employees and was willing to come back as CEO.",
+          "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html"
+        },
+        {
+          "outlet": "Fox Business",
+          "lean": "右",
+          "title": "Nvidia set to report quarterly earnings for first time since Jensen Huang resigned as CEO",
+          "summary": "Interim CEO Colette Kress leads Nvidia's first earnings call since CEO Jensen Huang resigned, aiming to reassure investors that business stays on track.",
+          "url": "https://www.foxbusiness.com/markets/nvidia-set-report-quarterly-earnings-first-time-since-jensen-huang-resigned-ceo"
+        },
+        {
+          "outlet": "Wired",
+          "lean": "中左",
+          "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+          "summary": "",
+          "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/"
+        }
+      ],
+      "_score": 64.78
+    },
+    {
+      "id": "E2",
+      "category": "经济",
+      "title": "Anthropic上市前估值最高达1.5万亿美元",
+      "facts": [
+        "成立仅五年的AI公司Anthropic在上市前估值最高达1.5万亿美元，为AI领域最大名字之一。",
+        "《卫报》称其上市预计将成为历史上最大规模IPO之一，并解答如何购买股票。",
+        "CNBC称散户对Anthropic IPO的热情可与SpaceX上市相媲美。"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "突出公司成立仅五年，现为AI领域最大名字之一。",
+          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "以问答形式解释如何购买股票及是否值得，称其为史上最大上市之一。",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "强调散户热情‘爆表’，可与SpaceX上市相媲美。",
+          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html"
+        }
+      ],
+      "framing": "各来源角度接近，均聚焦Anthropic上市规模与散户热情，未出现明显叙事分歧。",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+          "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
+          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Anthropic IPO: how can I buy shares, and is it worth it?",
+          "summary": "Stock market debut of Claude AI chatbot maker is expected to be one of the biggest flotations in history The technology company Anthropic is heading for a blockbuster stock market listing this week in what is slated to be one of the largest debuts in history. The company is a leader in artificial intelligence, and is best known for its chatbot Claude. The float, which is expected to value the business at $1.4tn (£1tn), comes at a volatile time for tech stocks, yet it has been reported that the shares could be six t",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
+          "summary": "Anthropic is gearing up for a blockbuster initial public offering this week, and excitement among retail investors looks to be off the charts.",
+          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html"
+        }
+      ],
+      "_score": 53.25
+    },
+    {
+      "id": "E3",
+      "category": "经济",
+      "title": "美国新芯片限制或降温东南亚并购与数据中心热潮",
+      "facts": [
+        "美国最新AI芯片出口限制可能影响东南亚蓬勃的并购市场估值，该市场因中国降温而吸引大量外资。",
+        "新规要求东南亚数据中心购买先进AI芯片须获美国批准，威胁依赖中国需求的建设热潮。",
+        "BBC称新规限制芯片出口及算力获取，而中国严重依赖这些算力。"
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "引述并购银行家称新规可能冷却东南亚并购市场估值。",
+          "url": "https://www.scmp.com/business/banking-finance/article/3375015/new-us-chip-restrictions-could-cool-southeast-asias-booming-ma-market-bankers-warn"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "强调东南亚数据中心热潮依赖中国需求，新规使管道面临风险。",
+          "url": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "聚焦新规如何通过限制芯片出口与算力获取打击中国。",
+          "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "各来源角度接近，均聚焦美国新规对东南亚数据中心与并购的冲击，并提及对中国算力获取的影响。",
+      "items": [
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "New US chip restrictions could cool Southeast Asia’s booming M&A market, bankers warn",
+          "summary": "The latest US export restrictions on AI chips might affect valuations in Southeast Asia’s booming mergers and acquisitions (M&A) market, which has attracted a flood of foreign investment as China’s market has cooled, according to M&A bankers. China’s M&A activity had only reached US$225 billion by the end of August this year – trailing the US$484 billion total for the whole of 2025 – according to a report released by French investment bank Natixis on Wednesday. Inbound deals were outpacing...",
+          "url": "https://www.scmp.com/business/banking-finance/article/3375015/new-us-chip-restrictions-could-cool-southeast-asias-booming-ma-market-bankers-warn"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
+          "summary": "The rules require data centers in Southeast Asia to seek U.S. approval to buy advanced AI chips, threatening to slow a build-out fueled heavily on Chinese demand.",
+          "url": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "How new US chip restrictions on South East Asia will hit China",
+          "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+          "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 47.86
+    },
+    {
+      "id": "E4",
+      "category": "经济",
+      "title": "民主党人就Nvidia与家族生意要求卢特尼克作答",
+      "facts": [
+        "民主党议员要求商务部长卢特尼克解释其处理Nvidia事务及家族生意的方式。",
+        "《卫报》称议员质疑卢特尼克是否偏袒Nvidia以使其成年子女和Cantor Fitzgerald获利。",
+        "CNBC称该国会调查是中期选举蓝潮后首批宣布的调查之一，民主党将于1月控制两院。"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "质疑卢特尼克是否偏袒Nvidia以使其子女和Cantor Fitzgerald获利。",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "强调调查是蓝潮中期选举后首批宣布的国会调查之一。",
+          "url": "https://www.cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html"
+        }
+      ],
+      "framing": "两家来源角度接近，均聚焦民主党对卢特尼克的调查，但《卫报》更强调家族获利质疑，CNBC更强调政治时机。",
+      "items": [
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Democrats demand answers from Howard Lutnick about Nvidia and his family’s business",
+          "summary": "Democratic lawmakers ask if commerce secretary favored Nvidia to enrich his adult children and Cantor Fitzgerald The US commerce secretary, Howard Lutnick, faces mounting questions over his handling of the Nvidia affair as Democratic lawmakers demand answers over his family firm’s vast stake in the tech company. Cantor Fitzgerald, the investment firm Lutnick ran for decades before joining the Trump administration , held shares in Nvidia worth “hundreds of millions of dollars” while Lutnick made key decisions affect",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick probe",
+          "summary": "The congressional probe is among the first to be announced since the blue-wave midterm that will deliver Democrats control of the House and Senate come January.",
+          "url": "https://www.cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html"
+        }
+      ],
+      "_score": 41.66
+    },
+    {
+      "id": "F1",
+      "category": "F1",
+      "title": "汉密尔顿否认与法拉利缺乏信任",
+      "facts": [
+        "汉密尔顿坚称与法拉利之间没有缺乏信任，尽管近几场比赛两次推翻车队指令。",
+        "汉密尔顿表示车队‘正在改善沟通’，并与队友勒克莱尔进行了坦诚交谈。",
+        "Motorsport.com报道汉密尔顿在PUMA活动上谈论收集宝可梦卡片的爱好。"
+      ],
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "突出汉密尔顿否认与法拉利缺乏信任，尽管两次推翻指令。",
+          "url": "https://www.skysports.com/f1/news/12433/13613635/lewis-hamilton-denies-lack-of-trust-with-ferrari-after-ignoring-instructions-from-pit-wall-twice-in-recent-races"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "强调汉密尔顿称车队‘超级团结’，并与勒克莱尔坦诚交谈。",
+          "url": "https://www.theguardian.com/sport/2026/nov/19/lewis-hamilton-denies-distrust-ferrari-las-vegas-f1-gp"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "报道汉密尔顿自称41岁仍热爱宝可梦卡片收藏。",
+          "url": "https://www.motorsport.com/f1/news/im-41-years-old-and-i-love-pokemon-lewis-hamilton-on-his-card-collection/10875423/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "聚焦汉密尔顿在拉斯维加斯前指出车队‘主要焦点’。",
+          "url": "https://www.formula1.com/en/latest/article/hamilton-identifies-main-focus-ahead-of-las-vegas-as-ferrari-eye-big-changes-for-2027.7nMnDgPqgxIf8GVZxywkzR"
+        }
+      ],
+      "framing": "体育与专业来源聚焦汉密尔顿否认信任危机及车队沟通，Motorsport.com则另辟角度报道其宝可梦收藏爱好，叙事差异明显。",
+      "items": [
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "Hamilton denies lack of trust with Ferrari after strategy issues",
+          "summary": "Lewis Hamilton has insisted there is no lack of trust between himself and his Ferrari team despite having overridden orders from the pit wall twice in recent races.",
+          "url": "https://www.skysports.com/f1/news/12433/13613635/lewis-hamilton-denies-lack-of-trust-with-ferrari-after-ignoring-instructions-from-pit-wall-twice-in-recent-races"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "‘We’re super united’: Lewis Hamilton denies lack of trust at Ferrari before Las Vegas GP",
+          "summary": "British driver says F1 team ‘working on our communication’ Former champion held clear the air talks with teammate Charles Leclerc Lewis Hamilton has denied there is a lack of trust with his Ferrari team, insisting they are increasingly working well together, despite having overruled pit calls in two of the last four races. The seven‑time world champion ignored the team’s instruction to take a pit stop under the virtual safety car, at the same time as his teammate Charles Leclerc during the Singapore Grand Prix in O",
+          "url": "https://www.theguardian.com/sport/2026/nov/19/lewis-hamilton-denies-distrust-ferrari-las-vegas-f1-gp"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Lewis Hamilton on his card collection: \"I'm 41 years old and I love Pokémon\"",
+          "summary": "Lewis Hamilton has admitted that his love of collecting Pokémon cards has survived well into his adult life after a trip to buy packs for the youngest members of his family turned into a car full of collectors. Speaking on stage at PUMA's Under The Lights fan event at its Las Vegas flagship store on Tuesday night ahead of this weekend's grand prix, the seven-time world champion explained how ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/im-41-years-old-and-i-love-pokemon-lewis-hamilton-on-his-card-collection/10875423/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "Hamilton identifies 'main focus' ahead of Las Vegas",
+          "summary": "Lewis Hamilton and Charles Leclerc discuss Ferrari's fight for P2 in the Constructors' Championship and the importance of the final three races ahead of 2027.",
+          "url": "https://www.formula1.com/en/latest/article/hamilton-identifies-main-focus-ahead-of-las-vegas-as-ferrari-eye-big-changes-for-2027.7nMnDgPqgxIf8GVZxywkzR"
+        }
+      ],
+      "_score": 75.86
+    },
+    {
+      "id": "F2",
+      "category": "F1",
+      "title": "凯迪拉克确认博塔斯留队至2027赛季",
+      "facts": [
+        "凯迪拉克确认瓦尔特利·博塔斯将在2027年F1赛季留队，结束对其未来的猜测。",
+        "博塔斯表示，在拉斯维加斯大奖赛前确认未来‘给了我平静’。",
+        "The Race称科尔顿·赫塔已获超级驾照，但凯迪拉克仍选择博塔斯。"
+      ],
+      "sources": [
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "以‘我们的裁决’形式评价凯迪拉克选择博塔斯而非赫塔。",
+          "url": "https://www.the-race.com/formula-1/our-verdict-on-cadillac-keeping-bottas-over-herta-for-f1-2027/"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "简洁确认博塔斯被凯迪拉克留用至2027赛季。",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgr0elvl5zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "引述博塔斯称确认未来‘给了我平静’，可‘摆脱噪音’。",
+          "url": "https://www.formula1.com/en/latest/article/we-can-get-rid-of-the-noise-bottas-relieved-to-have-cadillac-future-confirmed-for-2027.5LE0fIkWvK7hk8syPThmkE"
+        },
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "强调确认留队结束了芬兰车手未来的猜测。",
+          "url": "https://www.skysports.com/f1/news/12433/13611531/valtteri-bottas-cadillac-confirm-finnish-driver-to-stay-with-team-for-2027-formula-1-season-ahead-of-las-vegas-grand-prix"
+        }
+      ],
+      "framing": "各来源角度接近，均聚焦凯迪拉克确认博塔斯留队及结束猜测，The Race额外提及赫塔获超级驾照的背景。",
+      "items": [
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "Our verdict on Cadillac keeping Bottas over Herta for F1 2027",
+          "summary": "Colton Herta has his superlicence, but Cadillac's committed to Valtteri Bottas for 2027. Here's our take on the decision",
+          "url": "https://www.the-race.com/formula-1/our-verdict-on-cadillac-keeping-bottas-over-herta-for-f1-2027/"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Bottas' stay at Cadillac confirmed for 2027",
+          "summary": "Valtteri Bottas is retained by Cadillac for the 2027 Formula 1 season.",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgr0elvl5zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "'We can get rid of the noise' – Bottas after future confirmed",
+          "summary": "Valtteri Bottas admits that being confirmed for the 2027 season with Cadillac ahead of the Las Vegas Grand Prix \"gives me a peace\", after weeks of speculation he would not be retained.",
+          "url": "https://www.formula1.com/en/latest/article/we-can-get-rid-of-the-noise-bottas-relieved-to-have-cadillac-future-confirmed-for-2027.5LE0fIkWvK7hk8syPThmkE"
+        },
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "Cadillac confirm Bottas to stay with team for 2027",
+          "summary": "Cadillac have confirmed Valtteri Bottas will stay on at the team for the 2027 Formula 1 season, ending speculation about the Finnish driver's future.",
+          "url": "https://www.skysports.com/f1/news/12433/13611531/valtteri-bottas-cadillac-confirm-finnish-driver-to-stay-with-team-for-2027-formula-1-season-ahead-of-las-vegas-grand-prix"
+        }
+      ],
+      "_score": 68.45
+    },
+    {
+      "id": "F3",
+      "category": "F1",
+      "title": "拉斯维加斯大奖赛前瞻：皮亚斯特里将受罚",
+      "facts": [
+        "迈凯伦确认奥斯卡·皮亚斯特里将在拉斯维加斯大奖赛接受10位发车罚退，因超出赛季引擎配额。",
+        "拉斯维加斯站为2026赛季23站中的第21站，之后还有卡塔尔和阿布扎比。",
+        "BBC公布拉斯维加斯大奖赛（11月20日至22日）的转播覆盖详情。"
+      ],
+      "sources": [
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "列出拉斯维加斯大奖赛五大看点，称其为最后三连赛首站。",
+          "url": "https://www.motorsport.com/f1/news/five-things-to-watch-out-for-at-the-f1-las-vegas-gp/10875316/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "聚焦迈凯伦确认皮亚斯特里10位罚退，因超出引擎配额。",
+          "url": "https://www.skysports.com/f1/news/12433/13613606/oscar-piastri-to-serve-grid-penalty-at-las-vegas-gp-as-mclaren-confirm-addition-of-more-upgrades-to-mcl40"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "提供拉斯维加斯大奖赛周末的实时直播前瞻。",
+          "url": "https://www.formula1.com/en/latest/article/live-coverage-wednesday-build-up-in-las-vegas-2026.MqDte4ggZDt3kjYNJ0CvS"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "公布BBC对11月20日至22日拉斯维加斯大奖赛的转播详情。",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cx4gnlr603mqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "各来源角度不同：专业与体育来源聚焦罚退和赛事看点，Formula1.com与BBC侧重直播与转播信息，但均未出现对立叙事。",
+      "items": [
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Five things to watch out for at the F1 Las Vegas GP",
+          "summary": "Formula 1 kickstarts its final triple-header of the 2026 campaign with this weekend’s Las Vegas Grand Prix. The American venue serves as race 21 of the 23-round calendar with grands prix in Qatar and Abu Dhabi to follow Vegas and round out the year. Both titles are done, however, with Kimi Antonelli becoming drivers’ champion and Mercedes taking the constructors’ crown, yet that ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/five-things-to-watch-out-for-at-the-f1-las-vegas-gp/10875316/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "Piastri to serve grid penalty at Las Vegas GP",
+          "summary": "McLaren have confirmed that Oscar Piastri will serve a 10-place grid penalty at this weekend's Las Vegas Grand Prix as he will be forced to exceed his engine allowance for the season.",
+          "url": "https://www.skysports.com/f1/news/12433/13613606/oscar-piastri-to-serve-grid-penalty-at-las-vegas-gp-as-mclaren-confirm-addition-of-more-upgrades-to-mcl40"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "LIVE COVERAGE: Build-up ahead of the Las Vegas GP",
+          "summary": "Live coverage of all the build-up ahead of the 2026 Las Vegas Grand Prix weekend.",
+          "url": "https://www.formula1.com/en/latest/article/live-coverage-wednesday-build-up-in-las-vegas-2026.MqDte4ggZDt3kjYNJ0CvS"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "How to follow Las Vegas Grand Prix on the BBC",
+          "summary": "All the key BBC coverage details for the Las Vegas Grand Prix, which takes place from 20-22 November.",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cx4gnlr603mqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 67.61
+    },
+    {
+      "id": "F4",
+      "category": "F1",
+      "title": "梅赛德斯拉斯维加斯仅为一车引入ADUO涡轮升级",
+      "facts": [
+        "梅赛德斯将在拉斯维加斯大奖赛引入ADUO涡轮升级，但仅用于安东内利的赛车。",
+        "拉塞尔不使用新涡轮以避免另一次发车罚退，他正争夺车手积分榜第二名。",
+        "拉塞尔表示希望在拉斯维加斯‘为胜利而战’，并认为车队可以做到。"
+      ],
+      "sources": [
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "解释沃尔夫称拉塞尔不会获得新涡轮的原因。",
+          "url": "https://www.motorsport.com/f1/news/toto-wolff-explains-why-george-russell-is-being-denied-mercedes-new-turbo-in-las-vegas/10875150/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "称梅赛德斯将为一车带来ADUO升级，拉塞尔不用以避免罚退。",
+          "url": "https://www.skysports.com/f1/news/12433/13613272/mercedes-confirm-aduo-turbo-upgrade-ready-for-las-vegas-gp-with-kimi-antonelli-set-to-run-new-engine-part"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "引述拉塞尔称想在拉斯维加斯‘为胜利而战’。",
+          "url": "https://www.formula1.com/en/latest/article/i-want-to-fight-for-the-victory-russell-confident-in-his-las-vegas-chances-as-he-opens-up-on-call-not-to-take-new-turbo.7umaum2qrpemrxRVZhHfEN"
+        },
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "称梅赛德斯计划仅在安东内利赛车上首次使用ADUO升级。",
+          "url": "https://www.the-race.com/formula-1/mercedes-plan-to-debut-aduo-upgrade-on-antonellis-car-only/"
+        }
+      ],
+      "framing": "专业与体育来源聚焦升级分配与拉塞尔的罚退考量，Formula1.com突出拉塞尔争胜表态，角度略有差异但无对立叙事。",
+      "items": [
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Toto Wolff explains why George Russell won't get Mercedes’ new turbo in Las Vegas",
+          "summary": "Having officially wrapped up both the 2026 constructors' and drivers' world championships in Brazil, Mercedes arrives at the Las Vegas Grand Prix with a dual mandate: test development parts for 2027 and secure the runner-up spot in the drivers' standings for George Russell. To accomplish the first goal, the Silver Arrows are finally introducing a new turbo specification developed under Formula ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/toto-wolff-explains-why-george-russell-is-being-denied-mercedes-new-turbo-in-las-vegas/10875150/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "Mercedes set to run ADUO engine upgrade in Las Vegas with one driver",
+          "summary": "World champions Mercedes will bring their ADUO turbocharger upgrade to this weekend's Las Vegas Grand Prix, although George Russell will not use it to avoid having to take another grid penalty in his bid for second place in the Drivers' Championship.",
+          "url": "https://www.skysports.com/f1/news/12433/13613272/mercedes-confirm-aduo-turbo-upgrade-ready-for-las-vegas-gp-with-kimi-antonelli-set-to-run-new-engine-part"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "'I want to fight for the victory' in Las Vegas – Russell",
+          "summary": "George Russell states he wants \"to fight for the victory and I think we can do it\" in this weekend's Las Vegas Grand Prix, having decided against taking a new turbo for his Mercedes.",
+          "url": "https://www.formula1.com/en/latest/article/i-want-to-fight-for-the-victory-russell-confident-in-his-las-vegas-chances-as-he-opens-up-on-call-not-to-take-new-turbo.7umaum2qrpemrxRVZhHfEN"
+        },
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "Mercedes plans to debut ADUO upgrade on Antonelli's car only",
+          "summary": "Mercedes is planning to introduce its long-awaited ADUO-assisted turbo on Kimi Antonelli's F1 car at the Las Vegas GP",
+          "url": "https://www.the-race.com/formula-1/mercedes-plan-to-debut-aduo-upgrade-on-antonellis-car-only/"
+        }
+      ],
+      "_score": 64.77
+    },
+    {
+      "id": "A1",
+      "category": "AI",
+      "title": "Anthropic以813亿美元IPO创纪录",
+      "facts": [
+        "Anthropic完成813亿美元IPO，为有记录以来最大规模上市，超过SpaceX。",
+        "IPO定价为每股83美元，高于预期区间，按完全稀释基础估值达1.5万亿美元。",
+        "股票将于周四在纳斯达克开始交易，代码为ANT。"
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "强调创纪录IPO为Anthropic提供资金，与中国对手打价格战。",
+          "url": "https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals"
+        },
+        {
+          "name": "NPR",
+          "lean": "中左",
+          "angle": "突出IPO募资813亿美元，定价每股83美元，无视AI泡沫担忧。",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "称这是有记录以来最大IPO，超过SpaceX，股票周四在纳斯达克交易。",
+          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+        },
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "聚焦定价每股83美元高于预期区间，估值1.5万亿美元。",
+          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+        }
+      ],
+      "framing": "各来源角度接近，均聚焦IPO规模、定价与估值，南华早报额外强调其对中国竞争对手的价格战含义。",
+      "items": [
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Anthropic’s record US$81.3 billion IPO arms US AI giant for price war with Chinese rivals",
+          "summary": "Anthropic’s record-shattering US$81.3 billion initial public offering (IPO) is handing the US artificial intelligence powerhouse a massive war chest to wage a global price war, piling fresh valuation and monetisation pressure on lower-cost Chinese rivals, according to analysts. The San Francisco-based creator of the Claude chatbot priced its shares at US$83 apiece on Wednesday, above its marketed range of US$70 to US$78, giving the firm a market capitalisation of around US$1.5 trillion ahead of...",
+          "url": "https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals"
+        },
+        {
+          "outlet": "NPR",
+          "lean": "中左",
+          "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
+          "summary": "The five-year-old artificial intelligence powerhouse priced its initial public offering at $83 a share, shrugging off growing concern about a possible AI bubble and volatility in tech stocks.",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+          "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
+          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+        },
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "Anthropic prices IPO at $83 a share, above projected range",
+          "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+        }
+      ],
+      "_score": 63.77
+    },
+    {
+      "id": "A2",
+      "category": "AI",
+      "title": "Nvidia临时CEO首次全员会吁员工向前看",
+      "facts": [
+        "Nvidia临时CEO Colette Kress在黄仁勋离职后首次全员会上呼吁员工‘向前看’，并提供加薪。",
+        "Nvidia举行黄仁勋离职后首次财报电话会，由临时CEO Kress主持。",
+        "TechCrunch称Nvidia的初创企业投资价值膨胀至650亿美元，但黄仁勋离职使未来交易存疑。"
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "聚焦Kress在首次全员会上吁员工‘向前看’并提供加薪。",
+          "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html"
+        },
+        {
+          "name": "Wired",
+          "lean": "中左",
+          "angle": "以‘Nvidia能行吗’设问，称临时CEO Kress表示‘能行’。",
+          "url": "https://www.wired.com/story/guys-really-we-got-this/"
+        },
+        {
+          "name": "NPR",
+          "lean": "中左",
+          "angle": "简洁报道Nvidia举行前CEO离职后首次财报电话会。",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6042563/nvidia-hold-first-earnings-call-since-former-ceos-departure"
+        },
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "强调Nvidia初创投资达650亿美元，但黄仁勋离职使未来交易存疑。",
+          "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+        }
+      ],
+      "framing": "各来源角度不同：CNBC与Wired聚焦临时CEO安抚员工，NPR聚焦财报会，TechCrunch则关注投资组合与未来交易风险，叙事重点分散。",
+      "items": [
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
+          "summary": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
+          "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html"
+        },
+        {
+          "outlet": "Wired",
+          "lean": "中左",
+          "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+          "summary": "",
+          "url": "https://www.wired.com/story/guys-really-we-got-this/"
+        },
+        {
+          "outlet": "NPR",
+          "lean": "中左",
+          "title": "Nvidia hold first earnings call since former CEO's departure",
+          "summary": "Chip giant Nvidia held its first earnings call since the departure of former CEO Jensen Huang, as interim CEO Colette Kress takes over.",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6042563/nvidia-hold-first-earnings-call-since-former-ceos-departure"
+        },
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+          "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+          "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+        }
+      ],
+      "_score": 62.82
+    },
+    {
+      "id": "A3",
+      "category": "AI",
+      "title": "Nvidia财报后股价下跌 拖累新云厂商",
+      "facts": [
+        "Nvidia财报发布后股价下跌，拖累新云厂商CoreWeave和Iren。",
+        "NPR报道Nvidia董事会称不打算让黄仁勋回归，尽管其盟友施压。",
+        "TechCrunch称临时CEO Kress解释，若Nvidia为数据中心贷款兜底，除非新云厂商有独立融资并建成设施，否则不承担责任。"
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "聚焦Nvidia财报后股价下跌，拖累CoreWeave和Iren。",
+          "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html"
+        },
+        {
+          "name": "NPR",
+          "lean": "中左",
+          "angle": "兼报阿拉斯加参议员选举翻盘与Nvidia不打算让黄仁勋回归。",
+          "url": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai"
+        },
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "解释Nvidia为新云厂商融资兜底的具体条件。",
+          "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "设问Nvidia与黄仁勋对美国经济有多重要。",
+          "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "各来源角度分散：CNBC聚焦股价与关联公司下跌，NPR兼报政治与董事会决定，TechCrunch解释融资兜底条件，BBC则讨论黄仁勋对美国经济的重要性。",
+      "items": [
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
+          "summary": "Nvidia's earnings come at a tumultuous time for the company.",
+          "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html"
+        },
+        {
+          "outlet": "NPR",
+          "lean": "中左",
+          "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+          "summary": "Former Democratic Rep. Mary Peltola has won one of the U.S.' most watched Senate races. And, Nvidia's board says it doesn't plan to reinstate former CEO Jensen Huang despite pressure from his allies.",
+          "url": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai"
+        },
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+          "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+          "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "How important are Nvidia and Jensen Huang to the US economy?",
+          "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+          "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 62.38
+    },
+    {
+      "id": "A4",
+      "category": "AI",
+      "title": "纳德拉对黄仁勋离职后的Nvidia表示有信心",
+      "facts": [
+        "微软CEO纳德拉对黄仁勋的继任者、Nvidia临时CEO Colette Kress表示信心。",
+        "NPR称Nvidia财报已出，但最大问题不是过往业绩而是公司未来领导层。",
+        "南华早报称Nvidia第三季度营收翻倍至超过1150亿美元，超出预期，并排除黄仁勋回归可能。"
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "聚焦纳德拉对Kress担任临时CEO表示信心。",
+          "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/"
+        },
+        {
+          "name": "NPR",
+          "lean": "中左",
+          "angle": "称Nvidia试图回归业务，但最大问题是未来领导层。",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6044197/nvidia-tries-to-get-back-to-business"
+        },
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "强调Nvidia营收翻倍至逾1150亿美元，并排除黄仁勋回归。",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374805/nvidia-results-beat-expectations-ousted-ceo-huang-told-no-way-back"
+        }
+      ],
+      "framing": "各来源角度不同：TechCrunch聚焦纳德拉表态，NPR聚焦领导层问题，南华早报则结合财报与黄仁勋回归排除，叙事重点各异。",
+      "items": [
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+          "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+          "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/"
+        },
+        {
+          "outlet": "NPR",
+          "lean": "中左",
+          "title": "Nvidia tries to get back to business",
+          "summary": "Nvidia quarterly earnings are in. But the biggest question isn't about past business performance it's about the company's future leadership.",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6044197/nvidia-tries-to-get-back-to-business"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Nvidia results beat expectations, as ousted CEO Huang told no way back",
+          "summary": "US chip giant Nvidia doubled revenue in the third quarter to more than US$115 billion, the company reported on Tuesday while ruling out any return for ousted CEO Jensen Huang after a Chinese spy scandal. The results, which beat expectations, came hours after Huang said he wanted his job back in the latest twist for the company at the centre of an AI boom that has propelled markets to record highs and boosted global economic growth. Huang, a leading promoter of AI, stepped down last week...",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374805/nvidia-results-beat-expectations-ousted-ceo-huang-told-no-way-back"
+        }
+      ],
+      "_score": 52.74
+    }
+  ],
+  "stats": {
+    "feeds_ok": 41,
+    "feeds_failed": 3,
+    "items": 404,
+    "clusters": 256,
+    "stories": 16,
+    "feeds_total": 44,
+    "errors": 3,
+    "elapsed_sec": 3.5
+  },
+  "errors": [
+    {
+      "source": "Arab News",
+      "feed": "arabnews",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "Express",
+      "feed": "express-f1",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "VentureBeat",
+      "feed": "venturebeat-ai",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "warnings": [],
+  "llm_used": true,
+  "llm_provider": "deepseek",
+  "lede": "今天四条线都围绕权力与规则的重新划线：APEC 场边会晤、加沙地面行动、ICJ  genocide 裁决、芯片出口与 AI 巨头上市，均显示旧框架正被单边动作和资本力量改写，而各方对同一事件的叙事分歧明显。",
+  "takeaways": [
+    "特朗普在 APEC 场边同时会晤普京与习近平，象征意义大于实质，但各方对会晤定性差异大。",
+    "美国对委内瑞拉和加沙的军事动作，正把‘合作’与‘越线’变成同一枚硬币的两面。",
+    "Nvidia 与 Anthropic 的资本故事显示，AI 竞争已从技术转向上市融资与出口管制的复合博弈。"
+  ]
+}
