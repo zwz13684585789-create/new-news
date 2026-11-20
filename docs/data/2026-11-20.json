@@ -1,0 +1,1021 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T06:40:43+00:00",
+  "stories": [
+    {
+      "id": "P1",
+      "category": "政治",
+      "title": "中俄美首次三方峰会举行，各方评价分歧明显",
+      "facts": [
+        "中国、美国、俄罗斯领导人在深圳举行首次三方会晤，分析人士称三方均获政治收益。",
+        "特朗普对路透表示，限制核武器协议“概念上喜欢”，但作为总统“谈判非常困难”。",
+        "《卫报》称深圳会晤更像“寻找议程的会议”，与1945年雅尔塔的宏大目标相去甚远。"
+      ],
+      "sources": [
+        {
+          "name": "Channel NewsAsia",
+          "lean": "中",
+          "angle": "聚焦三方会晤的政治收益与全球稳定影响",
+          "url": "https://www.channelnewsasia.com/east-asia/xi-trump-putin-trilateral-summit-apec-diplomacy-6551676"
+        },
+        {
+          "name": "The Jerusalem Post",
+          "lean": "中右",
+          "angle": "突出特朗普称限制核武器协议难以达成",
+          "url": "https://www.jpost.com/international/article-915544"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "质疑会晤缺乏议程，象征意义大于实质",
+          "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote"
+        },
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "强调特朗普承认中俄为美国“对等者”",
+          "url": "https://www.france24.com/en/xi-trump-putin-trilateral-meeting-trump-s-recognition-of-china-and-russia-as-peers-of-the-us"
+        }
+      ],
+      "framing": "来源角度差异明显：CNA与France 24强调象征意义与外交信号，Jerusalem Post聚焦特朗普对核协议难度的表态，Guardian则质疑会晤实质成果。",
+      "items": [
+        {
+          "outlet": "Channel NewsAsia",
+          "lean": "中",
+          "title": "What historic Xi-Trump-Putin trilateral summit signals for global diplomacy",
+          "summary": "Unprecedented talks between the leaders of China, the US and Russia yielded political gains for all three, say analysts. But what could their closer cooperation mean for global stability and the balance of power?",
+          "url": "https://www.channelnewsasia.com/east-asia/xi-trump-putin-trilateral-summit-apec-diplomacy-6551676"
+        },
+        {
+          "outlet": "The Jerusalem Post",
+          "lean": "中右",
+          "title": "Trump says after talks with Xi, Putin, a deal limiting nuclear weapons will be hard to reach",
+          "summary": "\"I love the concept of it, but in terms of pure negotiation, it’s a very hard thing for me as a president to do,\" Trump told Reuters by phone as he flew back to Washington.",
+          "url": "https://www.jpost.com/international/article-915544"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "New page in history? Xi, Trump and Putin summit was more of a footnote",
+          "summary": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agenda It is arguably true, given it was the first such meeting of the leaders of China, Russia and the US, that Thursday’s gathering in Shenzhen deserved the description of “historic”. But in terms of tangible outcomes, it is unlikely to warrant the “new page in the history of diplomacy” that Vladimir Putin claimed had been written, and will instead be consigned to a smallish footnote in any future volume of the 21",
+          "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "Xi-Trump-Putin trilateral meeting: Trump's recognition of China and Russia as 'peers of the US'",
+          "summary": "Genie Godula is pleased to welcome Olivia Cheung. The trilateral meeting between Donald Trump, Xi Jinping and Vladimir Putin at the APEC summit was significant despite the absence of concrete agreements, according to Cheung. “The significance is seen in the precedence of the United States seeing and giving recognition that China and Russia are peers of the United States,” she explained, adding that “the image of a G3 is very significant.”",
+          "url": "https://www.france24.com/en/xi-trump-putin-trilateral-meeting-trump-s-recognition-of-china-and-russia-as-peers-of-the-us"
+        }
+      ],
+      "_score": 69.96
+    },
+    {
+      "id": "P2",
+      "category": "政治",
+      "title": "白宫解职国家网络主管，技术故障背景引关注",
+      "facts": [
+        "特朗普解除国家网络主任Sean Cairncross职务，任命国防部官员Kirsten A. Davies为临时接替者。",
+        "France 24称解职发生在影响美国航空、邮件及国家安全系统的技术中断一周之后。",
+        "Fox News称特朗普支持解职，理由涉及网络安全资质问题。"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "称特朗普在压力下解职网络主管",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-bows-to-pressure-replaces-us-cyber-security-director?traffic_source=rss"
+        },
+        {
+          "name": "Fox News",
+          "lean": "右",
+          "angle": "强调解职涉及网络安全资质与技术故障",
+          "url": "https://www.foxnews.com/politics/trumps-national-cyber-director-sean-cairncross-fired"
+        },
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "突出技术中断后白宫面临批评",
+          "url": "https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "报道特朗普9月购入Nvidia等资产，与白宫关系交织",
+          "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html"
+        }
+      ],
+      "framing": "Al Jazeera称特朗普“屈服于压力”，Fox News强调解职与资质及技术故障相关，France 24突出白宫在故障后面临批评，角度各有侧重。",
+      "items": [
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "Trump bows to pressure, replaces US cyber security director",
+          "summary": "President Trump has removed National Cyber Director Sean Cairncross and named a Defense Department official as interim.",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-bows-to-pressure-replaces-us-cyber-security-director?traffic_source=rss"
+        },
+        {
+          "outlet": "Fox News",
+          "lean": "右",
+          "title": "Trump’s National Cyber Director Sean Cairncross fired amid widespread tech outages",
+          "summary": "President Donald Trump backed the firing of National Cyber Director Sean Cairncross over cybersecurity credentials, with Kirsten A. Davies stepping in.",
+          "url": "https://www.foxnews.com/politics/trumps-national-cyber-director-sean-cairncross-fired"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "White House fires national cyber director over widespread outages",
+          "summary": "The White House fired national cyber director Sean Cairncross on Thursday following a week of technology disruptions affecting US air travel, email services and national security systems. The departure comes as the Trump administration faces criticism over its response to the outages, which officials say were unrelated incidents.",
+          "url": "https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
+          "summary": "President Trump disclosed purchases of Nvidia stock, SpaceX debt and Tesla shares in September, alongside millions of dollars in other investments.",
+          "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html"
+        }
+      ],
+      "_score": 69.86
+    },
+    {
+      "id": "P3",
+      "category": "政治",
+      "title": "美国半年批准近90万AI芯片对华出口引审视",
+      "facts": [
+        "美国众议院委员会公布芯片出口数据，显示半年内批准近90万枚AI芯片对华销售。",
+        "Al Jazeera称数据公布之际，正审视前NvidiaCEO与中国间谍的所谓关联。",
+        "Fox News报道议员提议对高风险中国技术企业每日罚款100万美元。"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "聚焦对华AI芯片出口数据与安全审视",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss"
+        },
+        {
+          "name": "Fox News",
+          "lean": "右",
+          "angle": "突出对华技术企业每日百万美元罚款提案",
+          "url": "https://www.foxnews.com/politics/1m-day-china-tech-crackdown-proposed-amid-cascade-us-cyber-disruptions"
+        },
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "关注深圳峰会对美中贸易战的影响",
+          "url": "https://www.france24.com/en/asia-pacific/20261119-what-impact-will-shenzhen-summit-us-china-trade-war"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "称深圳峰会对中国是显著外交时刻但存陷阱",
+          "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "Al Jazeera聚焦出口数据与安全审视，Fox News突出对华技术打压提案，France 24关注深圳峰会对贸易战影响，BBC强调中国外交机遇与挑战并存。",
+      "items": [
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
+          "summary": "US House committee releases chip export data amid scrutiny of former Nvidia CEO's alleged links to a Chinese spy.",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss"
+        },
+        {
+          "outlet": "Fox News",
+          "lean": "右",
+          "title": "$1M-a-day China tech crackdown proposed amid cascade of US cyber disruptions",
+          "summary": "Rep. Pat Harrigan says his Digital Infrastructure Act of 2026 would bar high-risk carriers from U.S. data centers and cloud services, with $1M daily fines.",
+          "url": "https://www.foxnews.com/politics/1m-day-china-tech-crackdown-proposed-amid-cascade-us-cyber-disruptions"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "What impact will the Shenzhen summit have on the US-China trade war?",
+          "summary": "Despite warm words between US President Donald Trump and Chinese President Xi Jinping at three-way talks with Russian President Vladimir Putin in Shenzhen Thursday, the simmering trade war between Washington and Beijing still looks to be no closer to resolution.",
+          "url": "https://www.france24.com/en/asia-pacific/20261119-what-impact-will-shenzhen-summit-us-china-trade-war"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+          "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+          "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 68.55
+    },
+    {
+      "id": "P4",
+      "category": "政治",
+      "title": "国际法院裁定缅甸对罗兴亚人实施种族灭绝",
+      "facts": [
+        "国际法院裁定缅甸在2017年军事行动中对罗兴亚少数民族实施种族灭绝。",
+        "BBC称这是国际法院首次裁定一国犯下种族灭绝罪。",
+        "Al Jazeera报道罗兴亚难民闻讯喜极而泣，但质疑能否返回家园。"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "聚焦罗兴亚难民闻讯反应与返乡疑问",
+          "url": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "梳理法庭陈述内容与后续程序",
+          "url": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "突出法院认定缅甸有“摧毁意图”",
+          "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"
+        },
+        {
+          "name": "NPR",
+          "lean": "中左",
+          "angle": "强调安全部队“以种族灭绝意图”行动",
+          "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya"
+        }
+      ],
+      "framing": "四家来源角度接近，均聚焦裁决的历史意义与罗兴亚人反应，Al Jazeera额外关注返乡前景。",
+      "items": [
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
+          "summary": "For refugees, the ICJ ruling that Myanmar committed genocide is a vindication. But will they be able to return home?",
+          "url": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Rohingya genocide: What was said in court and what happens now?",
+          "summary": "The verdict marks the first time a state has ever been found to have committed genocide by an international court.",
+          "url": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
+          "summary": "Judgment finds ‘intent to destroy a substantial part of the Rohingya population’ after case seen as critical test for dealing with most serious of state crimes Myanmar committed genocide against its Rohingya minority during a 2017 military campaign, the world’s highest court has ruled, in a historic and unprecedented decision. The judgment from the international court of justice (ICJ) – which has never previously found a state responsible for genocide – ends a seven-year legal battle that was seen as a critical glo",
+          "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"
+        },
+        {
+          "outlet": "NPR",
+          "lean": "中左",
+          "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+          "summary": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017.",
+          "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya"
+        }
+      ],
+      "_score": 63.82
+    },
+    {
+      "id": "E1",
+      "category": "经济",
+      "title": "Anthropic上市首日股价上涨，融资规模创纪录",
+      "facts": [
+        "Anthropic在纳斯达克上市，股票代码ANT，IPO融资810亿美元，创纪录。",
+        "TechCrunch称按95美元股价计算，其公共福利基金会、员工捐赠及公司配捐合计1560亿美元。",
+        "Fox Business称指数基金和401(k)计划可能让美国人获得对Anthropic的敞口。"
+      ],
+      "sources": [
+        {
+          "name": "NPR",
+          "lean": "中左",
+          "angle": "报道Anthropic上市首日股价上涨",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-6042560/ai-giant-anthropics-shares-pop-in-debut-after-blockbuster-ipo"
+        },
+        {
+          "name": "Fox Business",
+          "lean": "右",
+          "angle": "关注哪些人从IPO中获益",
+          "url": "https://www.foxbusiness.com/markets/anthropic-makes-stock-market-debut-who-could-gain-from-blockbuster-ipo"
+        },
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "突出IPO可能带来1560亿美元慈善资金",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "强调融资810亿美元创纪录",
+          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "NPR与BBC聚焦上市与融资规模，Fox Business关注普通投资者受益，TechCrunch突出慈善捐赠规模，角度互补。",
+      "items": [
+        {
+          "outlet": "NPR",
+          "lean": "中左",
+          "title": "AI giant Anthropic's shares pop in debut after blockbuster IPO",
+          "summary": "Shares in the AI juggernaut Anthropic are now trading on the stock market. They debuted Thursday, after a record-breaking IPO.",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-6042560/ai-giant-anthropics-shares-pop-in-debut-after-blockbuster-ipo"
+        },
+        {
+          "outlet": "Fox Business",
+          "lean": "右",
+          "title": "Anthropic makes stock market debut: Who stands to gain from the blockbuster IPO?",
+          "summary": "Anthropic stock is now on the Nasdaq under ticker ANT, and experts say index funds and 401(k) plans could soon give Americans exposure to the AI developer.",
+          "url": "https://www.foxbusiness.com/markets/anthropic-makes-stock-market-debut-who-could-gain-from-blockbuster-ipo"
+        },
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "Anthropic’s IPO could deliver $156B to charity",
+          "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Anthropic raises $81bn in record-breaking stock market debut",
+          "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 68.44
+    },
+    {
+      "id": "E2",
+      "category": "经济",
+      "title": "英国10月通胀升至3.6%，柴油价格创纪录",
+      "facts": [
+        "英国10月通胀率升至3.6%，创一年新高。",
+        "《卫报》称汽油和柴油价格创纪录，伊朗战争推高油价。",
+        "CNBC称柴油价格创纪录是通胀上升主要推手。"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "将通胀归因于汽柴油价格创纪录及伊朗战争",
+          "url": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "突出柴油价格创纪录推动通胀至一年新高",
+          "url": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html"
+        }
+      ],
+      "framing": "单一来源？不，两家来源角度接近，均将通胀归因于燃料价格，Guardian额外提及能源账单预测。",
+      "items": [
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
+          "summary": "Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economy Energy bills in Great Britain forecast to rise by 26% to £2,166 from January Inflation in the UK rose to 3.6% in October after petrol prices increased and diesel hit a record high amid the fallout from the war in the Middle East. Figures from the Office for National Statistics (ONS) show the headline rate of inflation as measured by the consumer prices index rose from 3.5% in September and was in line with Cit",
+          "url": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Record diesel prices drive UK inflation to 1-year high of 3.6%",
+          "summary": "It put the U.K.'s annual inflation rate at a 1-year high.",
+          "url": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html"
+        }
+      ],
+      "_score": 36.59
+    },
+    {
+      "id": "E3",
+      "category": "经济",
+      "title": "马斯克承诺提高上海工厂产量，中国销量下滑",
+      "facts": [
+        "马斯克承诺提高特斯拉上海超级工厂产量，尽管中国内地销量降至四年低点。",
+        "SCMP称马斯克乐观表态可能有助于平息担忧。",
+        "BBC报道马斯克称中期选举花费4.46亿美元“相当愚蠢”，并称自己“不是MAGA”。"
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "聚焦马斯克承诺提高上海工厂产量",
+          "url": "https://www.scmp.com/business/china-business/article/3375109/elon-musk-vows-raise-output-teslas-shanghai-gigafactory-despite-sales-plunge"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "报道马斯克称中期选举支出“愚蠢”并疏远MAGA",
+          "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "单一来源？不，两家来源主题不同：SCMP聚焦特斯拉产量承诺，BBC聚焦政治支出表态，角度差异大。",
+      "items": [
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Elon Musk vows to raise output at Tesla’s Shanghai Gigafactory despite sales plunge",
+          "summary": "Tesla CEO Elon Musk has pledged to increase output at the company’s Shanghai Gigafactory, despite the carmaker’s sales falling to a four-year low in mainland China amid an economic slowdown. The business mogul’s upbeat statement could help to quell fears about Tesla’s future in Shanghai, analysts said, after speculation that the company might scale back production if its sales in the Chinese market continue to decline. Musk said on Thursday that Tesla was intent on ramping up production at its...",
+          "url": "https://www.scmp.com/business/china-business/article/3375109/elon-musk-vows-raise-output-teslas-shanghai-gigafactory-despite-sales-plunge"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+          "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+          "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 35.05
+    },
+    {
+      "id": "E4",
+      "category": "经济",
+      "title": "Anthropic首日交易收于97美元，美股大幅收低",
+      "facts": [
+        "Anthropic首日交易收于97美元，估值1.3万亿美元。",
+        "《卫报》称美股三大指数当日大幅收低。",
+        "The Verge称Anthropic以每股111.50美元开始交易，高于83美元的IPO定价。"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "突出首日收于97美元、估值1.3万亿及美股收低",
+          "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates"
+        },
+        {
+          "name": "The Verge",
+          "lean": "中左",
+          "angle": "强调开盘价111.50美元高于IPO定价",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
+        }
+      ],
+      "framing": "两家来源角度接近，均报道首日交易价格与估值，Guardian额外强调大盘走低与抗议活动。",
+      "items": [
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened",
+          "summary": "All ⁠three major US stock indexes ⁠ended the session ​sharply lower after record-breaking IPO by maker behind AI agent Claude Anthropic closes first day of public trading at $1.3tn valuation Protesters rally in New York and San Francisco Who are Anthropic’s seven co-founders, now worth $180bn? Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant IPO and its trillion dollar plus valuation is more typical of a mature company that has a history of ",
+          "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates"
+        },
+        {
+          "outlet": "The Verge",
+          "lean": "中左",
+          "title": "Anthropic starts trading on Wall Street",
+          "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, […]",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
+        }
+      ],
+      "_score": 32.59
+    },
+    {
+      "id": "F1",
+      "category": "F1",
+      "title": "F1将于2027赛季引入全职赛事裁判",
+      "facts": [
+        "FIA宣布将从2027赛季起引入全职赛事裁判，为F1历史上首次。",
+        "Motorsport.com称裁判判罚一致性多年来是围场讨论话题。",
+        "《卫报》称汉密尔顿曾批评判罚不一致。"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "称此举旨在结束争议，提及汉密尔顿批评",
+          "url": "https://www.theguardian.com/sport/2026/nov/19/f1-full-time-race-stewards-2027-season-controversy-fia"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "简明报道FIA将引入永久裁判",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cv62pxxkz8wxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "强调改革旨在提高判罚一致性",
+          "url": "https://www.motorsport.com/f1/news/fia-to-introduce-full-time-f1-stewards-from-2027-in-bid-to-improve-consistency/10875716/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "称新部门将逐步引入",
+          "url": "https://www.formula1.com/en/latest/article/fia-to-introduce-full-time-stewards-in-f1-from-2027.tbSC1HZmNj46TbAjzEPGj"
+        }
+      ],
+      "framing": "四家来源角度接近，均报道FIA引入全职裁判的决定，Guardian与Motorsport.com额外提及判罚一致性争议背景。",
+      "items": [
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "F1 to bring in full-time race stewards for 2027 season in bid to end controversy",
+          "summary": "FIA announces plans to recruit permanent staff Lewis Hamilton has criticised inconsistency Formula One’s governing body has announced it will bring in full-time race stewards for the first time in the sport’s history, beginning in the 2027 season. The idea of having a select group of permanent race stewards has been under debate in the sport for some time. Currently each race has four volunteer race stewards, who change for each meeting, chosen from a pool of FIA selections, the local or regional sporting organisat",
+          "url": "https://www.theguardian.com/sport/2026/nov/19/f1-full-time-race-stewards-2027-season-controversy-fia"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "F1 to introduce full-time race stewards from 2027",
+          "summary": "Formula 1's governing body the FIA is to introduce permanent race stewards from the 2027 season.",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cv62pxxkz8wxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "FIA to introduce full-time F1 stewards from 2027 to improve consistency",
+          "summary": "The consistency of stewards’ decisions has been a topic of discussion in the Formula 1 paddock for years. While the complexity of the sporting regulations and racing guidelines is one factor, another question keeps coming up: would a permanent panel of stewards improve consistency? From 2027, the FIA will take a step in that direction. The governing body announced on Thursday that it will ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/fia-to-introduce-full-time-f1-stewards-from-2027-in-bid-to-improve-consistency/10875716/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "FIA to introduce full-time stewards in F1 from 2027",
+          "summary": "A new department of full-time stewards will be gradually introduced from the 2027 season.",
+          "url": "https://www.formula1.com/en/latest/article/fia-to-introduce-full-time-stewards-in-f1-from-2027.tbSC1HZmNj46TbAjzEPGj"
+        }
+      ],
+      "_score": 74.64
+    },
+    {
+      "id": "F2",
+      "category": "F1",
+      "title": "拉塞尔拉斯维加斯雨战二练最快，安东内利受罚",
+      "facts": [
+        "梅赛德斯车手拉塞尔在拉斯维加斯大奖赛第二节练习赛中跑出最快圈速。",
+        "Motorsport.com称拉塞尔以1分47秒272、领先加斯利0.071秒。",
+        "Sky Sports称安东内利因超出引擎配额被罚退后五位发车。"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "报道拉塞尔在雨后湿地二练中最快",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "详细记录拉塞尔以0.071秒优势领先加斯利",
+          "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-fp2-report/10875824/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "称拉塞尔击败加斯利和勒克莱尔",
+          "url": "https://www.formula1.com/en/latest/article/fp2-russell-beats-gasly-and-leclerc-to-top-spot-in-wet-las-vegas-gp-practice.62NwXdkf1krQs0esgViJtc"
+        },
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "聚焦安东内利被罚退后五位发车",
+          "url": "https://www.skysports.com/f1/news/12433/13614180/las-vegas-gp-kimi-antonelli-to-serve-grid-penalty-along-with-oscar-piastri-carlos-sainz-lance-stroll-oliver-bearman"
+        }
+      ],
+      "framing": "三家来源聚焦拉塞尔最快圈速，细节略有差异；Sky Sports单独报道安东内利罚退，角度不同。",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Russell fastest in Las Vegas practice after rain",
+          "summary": "Mercedes' George Russell topped a second practice session at the Las Vegas Grand Prix run on a wet but slowly drying track.",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "F1 Las Vegas GP: George Russell pips Pierre Gasly in tricky FP2",
+          "summary": "George Russell pipped Pierre Gasly to go fastest in second practice for the Formula 1 Las Vegas Grand Prix thanks to a last-gasp effort in slippery conditions. The Mercedes driver set a 1m47.272s as the chequered flag flew, putting him 0.071s ahead of Gasly, who benefitted from track evolution to take a shock second for Alpine. This was the first relatively meaningful session of the ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-fp2-report/10875824/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "Russell beats Gasly and Leclerc to top spot in wet FP2",
+          "summary": "George Russell claimed top spot in Free Practice 2 ahead of the Las Vegas Grand Prix, the Mercedes driver beating Alpine's Pierre Gasly and Ferrari's Charles Leclerc.",
+          "url": "https://www.formula1.com/en/latest/article/fp2-russell-beats-gasly-and-leclerc-to-top-spot-in-wet-las-vegas-gp-practice.62NwXdkf1krQs0esgViJtc"
+        },
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "Antonelli hit with grid penalty for Las Vegas GP",
+          "summary": "Kimi Antonelli has received a five-place grid penalty for the Las Vegas Grand Prix after further exceeding his engine allocation for the season.",
+          "url": "https://www.skysports.com/f1/news/12433/13614180/las-vegas-gp-kimi-antonelli-to-serve-grid-penalty-along-with-oscar-piastri-carlos-sainz-lance-stroll-oliver-bearman"
+        }
+      ],
+      "_score": 70.0
+    },
+    {
+      "id": "F3",
+      "category": "F1",
+      "title": "拉斯维加斯大奖赛二练雨中进行，多家媒体提供不同视角",
+      "facts": [
+        "拉斯维加斯大奖赛第二节练习赛在湿地条件下进行。",
+        "The Race称拉塞尔以微弱优势阻止加斯利爆冷。",
+        "Motorsport.com提供无需门票即可在拉斯维加斯看到F1赛车的地点信息。"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "提供BBC对拉斯维加斯大奖赛的转播信息",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cx4gnlr603mqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "描述湿地二练中拉塞尔险胜加斯利",
+          "url": "https://www.the-race.com/formula-1/george-russell-denies-pierre-gasly-wet-las-vegas-gp-fp2/"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "以实时报道形式呈现二练过程",
+          "url": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-las-vegas-2026.4jTMaRKyeJ2CONkCrsDQV1"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "介绍无需门票观看F1赛车的地点",
+          "url": "https://www.motorsport.com/f1/news/where-to-see-f1-cars-in-las-vegas-without-a-race-ticket/10875839/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "framing": "来源角度分散：BBC提供观赛指南，The Race与Formula1.com聚焦二练过程，Motorsport.com提供场外看车攻略。",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "How to follow Las Vegas Grand Prix on the BBC",
+          "summary": "All the key BBC coverage details for the Las Vegas Grand Prix, which takes place from 20-22 November.",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cx4gnlr603mqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "What happened in wet Las Vegas Grand Prix FP2",
+          "summary": "Mercedes' George Russell narrowly denied Pierre Gasly and Alpine an upset result in second practice for F1's Las Vegas GP",
+          "url": "https://www.the-race.com/formula-1/george-russell-denies-pierre-gasly-wet-las-vegas-gp-fp2/"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "AS IT HAPPENED: Second practice for the Las Vegas GP",
+          "summary": "Live coverage of Thursday's second practice session for the 2026 Las Vegas Grand Prix.",
+          "url": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-las-vegas-2026.4jTMaRKyeJ2CONkCrsDQV1"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Where to see F1 cars in Las Vegas without a race ticket",
+          "summary": "You do not need a grandstand seat to get close to a Formula 1 car in Las Vegas this week. Teams, partners and resorts have parked show cars and replicas all over the Strip for the Las Vegas Grand Prix, and most of them are free to visit. Here is where to find them. Mercedes, Bellagio The world champions have the biggest set-up. The Mercedes Fan Hub in Bellagio's main porte cochere has a ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/where-to-see-f1-cars-in-las-vegas-without-a-race-ticket/10875839/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "_score": 69.83
+    },
+    {
+      "id": "F4",
+      "category": "F1",
+      "title": "汉密尔顿否认与法拉利存在信任问题",
+      "facts": [
+        "汉密尔顿表示法拉利“非常团结”，否认存在信任问题。",
+        "BBC称汉密尔顿近期两次忽略车队进站换胎指令。",
+        "《卫报》称汉密尔顿与勒克莱尔进行了坦诚交流。"
+      ],
+      "sources": [
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "聚焦汉密尔顿回应“信任”猜测",
+          "url": "https://www.motorsport.com/f1/news/lewis-hamilton-insists-there-are-no-trust-problems-at-ferrari/10875582/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "强调汉密尔顿称车队“非常团结”",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cr8683z1wdp2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "提及汉密尔顿与勒克莱尔坦诚交流",
+          "url": "https://www.theguardian.com/sport/2026/nov/19/lewis-hamilton-denies-distrust-ferrari-las-vegas-f1-gp"
+        },
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "突出汉密尔顿否认两次忽略指令导致信任缺失",
+          "url": "https://www.skysports.com/f1/news/12433/13613635/lewis-hamilton-denies-lack-of-trust-with-ferrari-after-ignoring-instructions-from-pit-wall-twice-in-recent-races"
+        }
+      ],
+      "framing": "四家来源角度接近，均报道汉密尔顿否认信任问题，Guardian额外提及与勒克莱尔交流及沟通改进。",
+      "items": [
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Lewis Hamilton addresses speculation around Ferrari \"trust\" issues",
+          "summary": "Lewis Hamilton has insisted there are zero “trust” problems at Ferrari despite him overruling strategic calls becoming a repeated occurrence across recent Formula 1 grands prix. The seven-time world champion has ignored calls to pit in two of the last four rounds - Singapore and Brazil - with both backfiring on the Scuderia driver. In Singapore he elected to keep track position under a ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/lewis-hamilton-insists-there-are-no-trust-problems-at-ferrari/10875582/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "No trust problem with Ferrari team - Hamilton",
+          "summary": "Lewis Hamilton says Ferrari are \"super united\" despite two recent incidents in which the British driver ignored a team call to pit for fresh tyres.",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cr8683z1wdp2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Lewis Hamilton denies lack of trust at ‘super united’ Ferrari before Las Vegas GP",
+          "summary": "British driver says team ‘working on our communication’ Former champion held clear-the-air talks with Leclerc Lewis Hamilton has denied there is a lack of trust with his Ferrari team, insisting they are increasingly working well together, despite having overruled pit calls in two of the last four races. The seven‑time world champion ignored the team’s instruction to take a pit stop under the virtual safety car at the same time as his teammate Charles Leclerc during the Singapore Grand Prix in October . Hamilton bel",
+          "url": "https://www.theguardian.com/sport/2026/nov/19/lewis-hamilton-denies-distrust-ferrari-las-vegas-f1-gp"
+        },
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "Hamilton: No trust problem with Ferrari team",
+          "summary": "Lewis Hamilton has insisted there is no lack of trust between himself and his Ferrari team despite having overridden orders from the pit wall twice in recent races.",
+          "url": "https://www.skysports.com/f1/news/12433/13613635/lewis-hamilton-denies-lack-of-trust-with-ferrari-after-ignoring-instructions-from-pit-wall-twice-in-recent-races"
+        }
+      ],
+      "_score": 66.86
+    },
+    {
+      "id": "A1",
+      "category": "AI",
+      "title": "Anthropic上市引发市场波动与员工财富效应",
+      "facts": [
+        "CNBC称分析师认为Anthropic IPO“正是市场所需”，但警告股价将波动。",
+        "Fox Business称数千名科技员工因IPO一夜成为百万富翁。",
+        "The Verge称Anthropic以810亿美元融资创史上最大IPO，其“好人”声誉面临考验。"
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "称IPO正是市场所需但警告波动",
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html"
+        },
+        {
+          "name": "Fox Business",
+          "lean": "右",
+          "angle": "突出数千员工一夜成为百万富翁",
+          "url": "https://www.foxbusiness.com/markets/anthropic-ipo-turns-thousands-tech-workers-overnight-millionaires-reports-say"
+        },
+        {
+          "name": "The Verge",
+          "lean": "中左",
+          "angle": "讨论Anthropic“好人”声誉面临考验",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure"
+        },
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "报道以111美元开盘，高于IPO价33%",
+          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
+        }
+      ],
+      "framing": "来源角度差异明显：CNBC关注市场波动，Fox Business聚焦员工财富，The Verge讨论声誉与先例，TechCrunch报道开盘价。",
+      "items": [
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
+          "summary": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html"
+        },
+        {
+          "outlet": "Fox Business",
+          "lean": "右",
+          "title": "Anthropic IPO turns thousands of tech workers into overnight millionaires, reports say",
+          "summary": "Thousands of workers at the artificial intelligence giant are reportedly cashing in on a historic stock windfall after Anthropic's public market debut.",
+          "url": "https://www.foxbusiness.com/markets/anthropic-ipo-turns-thousands-tech-workers-overnight-millionaires-reports-say"
+        },
+        {
+          "outlet": "The Verge",
+          "lean": "中左",
+          "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+          "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety […]",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure"
+        },
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+          "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
+        }
+      ],
+      "_score": 69.7
+    },
+    {
+      "id": "A2",
+      "category": "AI",
+      "title": "Anthropic上市首日收涨17%，亚洲市场反应分化",
+      "facts": [
+        "BBC称Anthropic上市首日股价收涨17%。",
+        "SCMP称香港股市跌至19个月低点，Anthropic上市未能缓解AI担忧。",
+        "Fox News报道纽约抗议者封锁纳斯达克入口，四人被拘。"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "总结上市关键点与AI行业后续挑战",
+          "url": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai"
+        },
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "称香港股市因AI担忧跌至19个月低点",
+          "url": "https://www.scmp.com/business/china-business/article/3375145/hong-kong-stocks-head-19-month-low-anthropics-debut-fails-reinvigorate-ai-trade"
+        },
+        {
+          "name": "Fox News",
+          "lean": "右",
+          "angle": "聚焦抗议者封锁纳斯达克入口事件",
+          "url": "https://www.foxnews.com/politics/asra-q-nomani-inside-coordinated-activist-blitz-crashed-anthropic-historic-nasdaq-debut"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "分析上市首日股价收涨17%的过程",
+          "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "来源角度分散：Guardian与BBC聚焦上市表现与行业影响，SCMP关注亚洲市场负面反应，Fox News突出抗议活动。",
+      "items": [
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
+          "summary": "A record breaking IPO has raised billions for the AI frontier lab – but experts say the coming months could prove bumpy, as the industry faces a variety of challenges Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO In the end, Anthropic’s much-anticipated IPO more than lived up to the hype. The market’s embrace of one of the AI industry’s most talked about companies has resulted in the maker of the Claude chatbot becoming one of the world’s most valuable firms after just one ",
+          "url": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Hong Kong stocks head for 19-month low as Anthropic’s debut fails to soothe AI jitters",
+          "summary": "Hong Kong stocks fell on Friday, dragging the benchmark gauge to a 19-month low, as the blockbuster listing of AI frontier lab Anthropic in the US failed to revive confidence in technology stocks among investors rattled by doubts over whether enormous investments in data centres could generate comparable returns. The Hang Seng Index dropped 1.7 per cent to 22,451.91 at the noon break, on track for the lowest close since April last year, while the Hang Seng Tech Index slid 3.1 per cent....",
+          "url": "https://www.scmp.com/business/china-business/article/3375145/hong-kong-stocks-head-19-month-low-anthropics-debut-fails-reinvigorate-ai-trade"
+        },
+        {
+          "outlet": "Fox News",
+          "lean": "右",
+          "title": "ASRA Q. NOMANI: Inside the coordinated activist blitz that crashed Anthropic’s historic Nasdaq debut",
+          "summary": "As Anthropic rang the Nasdaq opening bell in Times Square, NYPD zip-tied four protesters who blocked the doors with linked arms and pre-printed banners.",
+          "url": "https://www.foxnews.com/politics/asra-q-nomani-inside-coordinated-activist-blitz-crashed-anthropic-historic-nasdaq-debut"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "How did Anthropic's stock market debut unfold?",
+          "summary": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
+          "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 69.48
+    },
+    {
+      "id": "A3",
+      "category": "AI",
+      "title": "Anthropic上市后亚洲科技股遭抛售，软银大跌",
+      "facts": [
+        "CNBC称软银股价暴跌超16%，亚洲科技股遭AI抛售。",
+        "CNBC称纳斯达克综合指数在Anthropic上市后一夜下跌超2%。",
+        "《卫报》称Anthropic首日收于97美元，估值1.3万亿美元。"
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "突出软银暴跌16%及亚洲科技股抛售",
+          "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "报道首日收于97美元、估值1.3万亿",
+          "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "称Anthropic成为全球最有价值上市公司之一",
+          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "三家来源角度不同：CNBC聚焦亚洲市场抛售与软银大跌，Guardian与BBC聚焦Anthropic估值与上市地位。",
+      "items": [
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+          "summary": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut.",
+          "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
+          "summary": "AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97 Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry Anthropic closed its first day of trading on the US stock market about 17% higher than its initial public offering price. At the close of market on Thursday, Anthropic shares were trading at just over $97 with a nearly $1.3tn total market capitalization, $1.75tn fully diluted. While the fin",
+          "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+          "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 53.47
+    },
+    {
+      "id": "A4",
+      "category": "AI",
+      "title": "Nvidia股价持续下跌，六日市值蒸发6690亿美元",
+      "facts": [
+        "MarketWatch称Nvidia股价进一步下跌，六个交易日市值蒸发6690亿美元。",
+        "The Verge称Nvidia股价较近期高点下跌近40%，徘徊在150美元左右。",
+        "TechCrunch称Nvidia未按时提交10-Q季报引发市场猜测。"
+      ],
+      "sources": [
+        {
+          "name": "The Verge",
+          "lean": "中左",
+          "angle": "回顾Nvidia近期股价波动与跌幅",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
+        },
+        {
+          "name": "MarketWatch",
+          "lean": "中",
+          "angle": "强调六日蒸发6690亿美元市值",
+          "url": "WP-MKTW-0005359273"
+        },
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "聚焦Nvidia未提交10-Q季报引发猜测",
+          "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/"
+        }
+      ],
+      "framing": "三家来源角度互补：MarketWatch聚焦市值损失规模，The Verge回顾股价波动，TechCrunch关注未提交季报的异常。",
+      "items": [
+        {
+          "outlet": "The Verge",
+          "lean": "中左",
+          "title": "A brief history of Nvidia’s recent stock fluctuations",
+          "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
+        },
+        {
+          "outlet": "MarketWatch",
+          "lean": "中",
+          "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
+          "summary": "There are only 20 companies in the world with a market capitalization of $669 billion or higher",
+          "url": "WP-MKTW-0005359273"
+        },
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+          "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+          "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/"
+        }
+      ],
+      "_score": 52.55
+    }
+  ],
+  "stats": {
+    "feeds_ok": 42,
+    "feeds_failed": 2,
+    "items": 417,
+    "clusters": 262,
+    "stories": 16,
+    "feeds_total": 44,
+    "errors": 2,
+    "elapsed_sec": 3.1
+  },
+  "errors": [
+    {
+      "source": "Arab News",
+      "feed": "arabnews",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "VentureBeat",
+      "feed": "venturebeat-ai",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "warnings": [],
+  "llm_used": true,
+  "llm_provider": "deepseek",
+  "lede": "今日四条线均呈现“高调开场、落地存疑”的特征：深圳三方峰会外交象征意义被多方讨论但成果有限，Anthropic上市创纪录却引发市场波动与监管关注，F1在拉斯维加斯雨战中推进裁判制度改革，AI芯片出口与网络安全人事变动则显示政策与产业交织。",
+  "takeaways": [
+    "深圳峰会虽为首次三方会晤，但多家媒体指出缺乏具体协议，象征意义大于实质突破。",
+    "Anthropic上市创纪录融资与估值，但首日股价波动及亚洲市场反应显示AI投资情绪并不稳固。",
+    "F1全职裁判改革回应长期争议，但2027年才实施，短期内赛道判罚争议仍难平息。"
+  ]
+}
