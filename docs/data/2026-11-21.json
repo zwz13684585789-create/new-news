@@ -1,0 +1,1009 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T06:33:17+00:00",
+  "stories": [
+    {
+      "id": "P1",
+      "category": "政治",
+      "title": "泽连斯基称普京是“杀手” 回应特朗普“朋友”说法",
+      "facts": [
+        "BBC报道，泽连斯基在特朗普称普京为朋友后，称普京是“杀手”。",
+        "特朗普本周在中国一场会晤前迎接普京，并称两人有“很好的关系”。",
+        "福克斯新闻称，深圳峰会产出核风险承诺，但乌克兰问题未取得突破。"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "突出泽连斯基用“杀手”一词回应特朗普的“朋友”说法。",
+          "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "聚焦特朗普为对俄关系辩护，并提AI数据中心须留美国。",
+          "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss"
+        },
+        {
+          "name": "Fox News",
+          "lean": "右",
+          "angle": "强调习普会后特朗普见记者，核风险有承诺但乌克兰无突破。",
+          "url": "https://www.foxnews.com/politics/trump-face-reporters-historic-xi-putin-talks-war-questions-linger"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "lean": "中",
+          "angle": "报道泽连斯基称普京“杀手”，并提特朗普赞扬与习近平关系。",
+          "url": "https://www.channelnewsasia.com/world/ukraine-russia-volodymyr-zelenskyy-vladimir-putin-6571101"
+        }
+      ],
+      "framing": "各来源均聚焦特朗普与普京关系及泽连斯基回应，角度接近，但福克斯强调峰会成果与战争问题并存。",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+          "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship.",
+          "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+          "summary": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
+          "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss"
+        },
+        {
+          "outlet": "Fox News",
+          "lean": "右",
+          "title": "Trump will face reporters after historic Xi-Putin talks as war questions linger",
+          "summary": "President Donald Trump faces reporters Friday after Shenzhen summit with Xi Jinping and Putin yielded a nuclear risk pledge but no Ukraine breakthrough.",
+          "url": "https://www.foxnews.com/politics/trump-face-reporters-historic-xi-putin-talks-war-questions-linger"
+        },
+        {
+          "outlet": "Channel NewsAsia",
+          "lean": "中",
+          "title": "Zelenskyy says Putin a 'killer' after Trump calls him his 'friend'",
+          "summary": "US President Donald Trump on Friday also praised his ties with Chinese leader Xi Jinping during a press conference at the White House.",
+          "url": "https://www.channelnewsasia.com/world/ukraine-russia-volodymyr-zelenskyy-vladimir-putin-6571101"
+        }
+      ],
+      "_score": 69.78
+    },
+    {
+      "id": "P2",
+      "category": "政治",
+      "title": "特朗普问米勒是否想选总统 白宫发布会成继任猜想场",
+      "facts": [
+        "Channel NewsAsia报道，特朗普问斯蒂芬·米勒是否想竞选总统，并称其为“世界上最有权势的人”。",
+        "福克斯新闻称，特朗普在简报室问米勒是否想选总统，万斯与鲁比奥在场。",
+        "《卫报》称，特朗普把发布会变成2028年继任者的“试镜”，米勒意外抢镜。"
+      ],
+      "sources": [
+        {
+          "name": "Channel NewsAsia",
+          "lean": "中",
+          "angle": "突出特朗普问米勒是否选总统，并称其为最有权势的人。",
+          "url": "https://www.channelnewsasia.com/world/donald-trump-us-presidency-stephen-miller-6571076"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "以“2028继任试镜”框架描述发布会，称米勒意外抢镜。",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio"
+        },
+        {
+          "name": "Fox News",
+          "lean": "右",
+          "angle": "强调特朗普抛出意外人选，鲁比奥与万斯在旁。",
+          "url": "https://www.foxnews.com/politics/trump-floats-unexpected-name-successor-powerhouses-rubio-vance-stand"
+        },
+        {
+          "name": "NPR",
+          "lean": "中左",
+          "angle": "仅称特朗普亚洲行后举行广泛发布会，未展开继任话题。",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser"
+        }
+      ],
+      "framing": "各来源均注意到米勒被点名，但《卫报》以“继任试镜”框架解读，福克斯强调“意外名字”，角度略有差异。",
+      "items": [
+        {
+          "outlet": "Channel NewsAsia",
+          "lean": "中",
+          "title": "'Do you wanna run for president?' Trump floats chief of staff for 2028",
+          "summary": "US President Donald Trump hailed Stephen Miller - a longtime loyalist and architect of the administration's harsh deportation crackdown - as \"the most powerful man in the world\".",
+          "url": "https://www.channelnewsasia.com/world/donald-trump-us-presidency-stephen-miller-6571076"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Trump turns White House press conference into a 2028 succession audition",
+          "summary": "The president appeared to put Vance and Rubio through their paces as potential successors, though Stephen Miller unexpectedly stole the spotlight “Which of you shall we say doth love us most?” The ageing King Lear’s question to his daughters, expecting them to compete for his favour and carve up his kingdom, hovered in the White House press briefing room on Friday. Continue reading...",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio"
+        },
+        {
+          "outlet": "Fox News",
+          "lean": "右",
+          "title": "Trump floats an unexpected name to be his successor as powerhouses Rubio and Vance stand by",
+          "summary": "Donald Trump stunned the White House press briefing room by asking Stephen Miller if he wants to run for president, as JD Vance and Marco Rubio looked on.",
+          "url": "https://www.foxnews.com/politics/trump-floats-unexpected-name-successor-powerhouses-rubio-vance-stand"
+        },
+        {
+          "outlet": "NPR",
+          "lean": "中左",
+          "title": "The latest from Trump's press conference",
+          "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser"
+        }
+      ],
+      "_score": 69.3
+    },
+    {
+      "id": "P3",
+      "category": "政治",
+      "title": "特朗普呼吁Nvidia让黄仁勋回归 称应给“第二次机会”",
+      "facts": [
+        "Al Jazeera报道，特朗普呼吁Nvidia让“杰出的”黄仁勋回归，称应给“第二次机会”并“郑重道歉”。",
+        "Channel NewsAsia称，黄仁勋上周辞去Nvidia首席执行官，此前曝出与一名疑似中国间谍有染。",
+        "CNBC称，特朗普表示与习近平讨论过黄仁勋，但贝森特称芯片出口政策未变。"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "突出特朗普称黄仁勋“杰出”，呼吁给第二次机会并道歉。",
+          "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "lean": "中",
+          "angle": "交代黄仁勋辞职背景，涉与疑似中国间谍有染。",
+          "url": "https://www.channelnewsasia.com/world/nvidia-jensen-huang-affair-espionage-donald-trump-6570976"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "称特朗普与习近平谈过黄仁勋，但芯片出口政策未变。",
+          "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
+        },
+        {
+          "name": "Wired",
+          "lean": "中左",
+          "angle": "聚焦黄仁勋“撒谎”令Nvidia董事会警觉，发生在其辞职前。",
+          "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/"
+        }
+      ],
+      "framing": "各来源均报道特朗普呼吁黄仁勋回归，但CNBC补充政策未变与中方讨论，Wired聚焦董事会对其“撒谎”的警觉，角度差异明显。",
+      "items": [
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+          "summary": "US president calls tech giant to give former CEO 'a second chance' and urges him to 'make a big apology'.",
+          "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss"
+        },
+        {
+          "outlet": "Channel NewsAsia",
+          "lean": "中",
+          "title": "Trump calls for Nvidia's Huang to be given 'second chance'",
+          "summary": "Jensen Huang resigned last week as chief of Nvidia after revelations of an affair with an alleged Chinese spy who may have funnelled restricted chips to that country.",
+          "url": "https://www.channelnewsasia.com/world/nvidia-jensen-huang-affair-espionage-donald-trump-6570976"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
+          "summary": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
+          "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
+        },
+        {
+          "outlet": "Wired",
+          "lean": "中左",
+          "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+          "summary": "",
+          "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/"
+        }
+      ],
+      "_score": 63.21
+    },
+    {
+      "id": "P4",
+      "category": "政治",
+      "title": "沙特称拦截三枚胡塞导弹 利雅得连续第三夜警报",
+      "facts": [
+        "Al Jazeera报道，沙特领导的联盟拦截三枚射向利雅得的胡塞导弹，利雅得连续第三夜发布紧急警报。",
+        "Channel NewsAsia称，沙特称拦截三枚针对利雅得的胡塞导弹，此前11月20日跨境打击升级。",
+        "France 24称，胡塞在沙特联盟“特别行动”后对利雅得发动打击，跨境袭击数月来持续升级。"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "强调利雅得连续第三夜警报，胡塞威胁港口与电站。",
+          "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "lean": "中",
+          "angle": "突出沙特称拦截三枚导弹，并提11月20日荷台达打击。",
+          "url": "https://www.channelnewsasia.com/world/saudi-arabia-yemen-houthi-missiles-riyadh-6571176"
+        },
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "称胡塞在沙特联盟“特别行动”后打击利雅得，跨境袭击升级。",
+          "url": "https://www.france24.com/en/middle-east/20261120-yemen-s-houthis-target-riyadh-after-saudi-coalition-s-special-operation"
+        }
+      ],
+      "framing": "各来源均报道拦截与升级背景，角度接近，France 24更强调“特别行动”后的报复链条。",
+      "items": [
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
+          "summary": "Saudi Arabia issues emergency alerts in Riyadh for third night in row, as the Houthis threaten ports and power station.",
+          "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss"
+        },
+        {
+          "outlet": "Channel NewsAsia",
+          "lean": "中",
+          "title": "Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh",
+          "summary": "The latest attack followed an escalation in cross-border strikes on Nov 20, when the Saudi-led coalition said it had struck the Red Sea port of Hodeidah,",
+          "url": "https://www.channelnewsasia.com/world/saudi-arabia-yemen-houthi-missiles-riyadh-6571176"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "Yemen's Houthis target Riyadh after Saudi coalition's 'special operation'",
+          "summary": "Yemen's Houthi rebels launched strikes on Riyadh on Saturday after Saudi-led coalition air raids on Yemen, escalating a months-long surge in cross-border attacks.",
+          "url": "https://www.france24.com/en/middle-east/20261120-yemen-s-houthis-target-riyadh-after-saudi-coalition-s-special-operation"
+        }
+      ],
+      "_score": 53.66
+    },
+    {
+      "id": "E1",
+      "category": "经济",
+      "title": "Anthropic上市首日股价回落 科技股抛售拖累美股",
+      "facts": [
+        "BBC报道，科技股抛售拖累市场，标普500与道指被推入回调区间。",
+        "CNBC称，Anthropic首个完整交易日跌近9%，收于97.17美元，仍高于83美元IPO价。",
+        "《卫报》称，Anthropic首日交易收于97美元，估值1.3万亿美元，华尔街大幅收低。"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "以科技股抛售拖累市场为主，提Anthropic股价下滑。",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "突出Anthropic首日收于97美元、1.3万亿美元估值。",
+          "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates"
+        },
+        {
+          "name": "Fox Business",
+          "lean": "右",
+          "angle": "聚焦Anthropic上市，问谁从重磅IPO中受益。",
+          "url": "https://www.foxbusiness.com/markets/anthropic-makes-stock-market-debut-who-could-gain-from-blockbuster-ipo"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "强调Anthropic首日跌近9%，科技股遭重挫。",
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html"
+        }
+      ],
+      "framing": "各来源均报道Anthropic首日回落与科技股抛售，但《卫报》强调估值与IPO纪录，福克斯商业聚焦谁受益，角度略有差异。",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+          "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened",
+          "summary": "All ⁠three major US stock indexes ⁠ended the session ​sharply lower after record-breaking IPO by maker behind AI agent Claude Anthropic closes first day of public trading at $1.3tn valuation Protesters rally in New York and San Francisco Who are Anthropic’s seven co-founders, now worth $180bn? Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant IPO and its trillion dollar plus valuation is more typical of a mature company that has a history of ",
+          "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates"
+        },
+        {
+          "outlet": "Fox Business",
+          "lean": "右",
+          "title": "Anthropic makes stock market debut: Who stands to gain from the blockbuster IPO?",
+          "summary": "Anthropic stock is now on the Nasdaq under ticker ANT, and experts say index funds and 401(k) plans could soon give Americans exposure to the AI developer.",
+          "url": "https://www.foxbusiness.com/markets/anthropic-makes-stock-market-debut-who-could-gain-from-blockbuster-ipo"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Anthropic falls nearly 9% in first full day of trading as tech stocks get shellacked",
+          "summary": "Anthropic opened at $111.50 per share on Thursday, but closed at $97.17, which was 17% above the $83 IPO price.",
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html"
+        }
+      ],
+      "_score": 68.69
+    },
+    {
+      "id": "E2",
+      "category": "经济",
+      "title": "Anthropic股价大幅回落 仍守住IPO发行价",
+      "facts": [
+        "MarketWatch称，Anthropic股价大幅下滑，但仍高于IPO价格，有观点认为这对科技板块不利。",
+        "《卫报》称，Anthropic完成史上最大IPO，首日收于1.3万亿美元估值，专家预计未来数月可能颠簸。",
+        "南华早报称，Anthropic 810亿美元IPO领衔本周市场，拖累美亚科技股。"
+      ],
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "lean": "中",
+          "angle": "强调股价剧烈下滑但仍高于IPO价，称对科技不利。",
+          "url": "WP-MKTW-0005361226"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "以“历史性上市”为框架，提1.3万亿美元估值与后续挑战。",
+          "url": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai"
+        },
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "突出810亿美元IPO与美亚科技股下滑，列投资者关注数字。",
+          "url": "https://www.scmp.com/business/china-business/article/3375169/anthropics-us81b-ipo-gold-price-drops-5-figures-investors-are-watching-week"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "以问答形式拆解上市首日，称收盘较IPO价高17%。",
+          "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "各来源均关注Anthropic上市后股价与估值，MarketWatch强调“守住了IPO价”，《卫报》与南华早报更重行业影响，角度接近但侧重不同。",
+      "items": [
+        {
+          "outlet": "MarketWatch",
+          "lean": "中",
+          "title": "Anthropic’s stock sees dramatic slide but manages to stay above its IPO price",
+          "summary": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”",
+          "url": "WP-MKTW-0005361226"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
+          "summary": "A record breaking IPO has raised billions for the AI frontier lab – but experts say the coming months could prove bumpy, as the industry faces a variety of challenges Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO In the end, Anthropic’s much-anticipated IPO more than lived up to the hype. The market’s embrace of one of the AI industry’s most talked about companies has resulted in the maker of the Claude chatbot becoming one of the world’s most valuable firms after just one ",
+          "url": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Anthropic’s US$81b IPO, gold price drops: 5 figures investors are watching this week",
+          "summary": "A record-breaking IPO from Anthropic capped off this week’s market headlines, sending US and Asian tech stocks sliding in its wake and adding new fuel to the artificial intelligence race, following the meeting between Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin at the Apec summit in Shenzhen. Here are some of the figures that have drawn the most market attention this week. A record US$81.3 billion IPO for Anthropic Anthropic set a global record...",
+          "url": "https://www.scmp.com/business/china-business/article/3375169/anthropics-us81b-ipo-gold-price-drops-5-figures-investors-are-watching-week"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "How did Anthropic's stock market debut unfold?",
+          "summary": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
+          "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 62.48
+    },
+    {
+      "id": "E3",
+      "category": "经济",
+      "title": "南华早报：中国电动车渗透率将超70% 燃油车承压",
+      "facts": [
+        "南华早报称，本月中国内地每10名购车者中7人将选电动车，燃油车进一步失宠。",
+        "该报道援引行业 consortium 数据，称中国车企预计交付量将下降。",
+        "《经济学人》称，全球债券收益率普遍上升，唯独中国例外，中国央行降息。"
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "突出中国电动车渗透率将超70%，燃油车销量承压。",
+          "url": "https://www.scmp.com/business/china-business/article/3375236/chinas-ev-adoption-rate-top-70-petrol-cars-take-brunt-drop-overall-sales"
+        },
+        {
+          "name": "The Economist",
+          "lean": "中右",
+          "angle": "称全球债券收益率上升唯独中国例外，央行降息。",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china"
+        }
+      ],
+      "framing": "两条来源主题不同，南华早报聚焦中国电动车渗透率，经济学人聚焦中国债券收益率例外，角度差异大，非同一事件。",
+      "items": [
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "China’s EV adoption rate to top 70% as petrol cars take brunt of drop in overall sales",
+          "summary": "Seven out of 10 car buyers in mainland China this month will opt for electric vehicles (EVs), as petrol-guzzling options fall further out of favour in the world’s largest market, according to an industry consortium. The country’s carmakers were expected to deliver 1.15 million EVs – comprising pure-electric and plug-in hybrids – to mainland customers in November, equal to 70.6 per cent of total car sales, the China Passenger Car Association (CPCA) said in a statement on Thursday. If the...",
+          "url": "https://www.scmp.com/business/china-business/article/3375236/chinas-ev-adoption-rate-top-70-petrol-cars-take-brunt-drop-overall-sales"
+        },
+        {
+          "outlet": "The Economist",
+          "lean": "中右",
+          "title": "Bond yields are rising everywhere—except China",
+          "summary": "The Chinese central bank has cut interest rates despite itself",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china"
+        }
+      ],
+      "_score": 43.91
+    },
+    {
+      "id": "E4",
+      "category": "经济",
+      "title": "MarketWatch：科技中断频发 美国人囤现金与物资",
+      "facts": [
+        "MarketWatch报道，科技中断频发令美国人不安，部分人开始囤积现金与物资。",
+        "该报道称，世界领导人缺乏明确表态，促使一些人做最坏准备。",
+        "细节有限，未提供具体囤积规模或调查数据。"
+      ],
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "lean": "中",
+          "angle": "称科技中断令美国人不安，部分人囤现金与物资。",
+          "url": "WP-MKTW-0005358330"
+        }
+      ],
+      "framing": "单一来源，仅MarketWatch报道，角度聚焦科技中断引发的民众预防性行为。",
+      "items": [
+        {
+          "outlet": "MarketWatch",
+          "lean": "中",
+          "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
+          "summary": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
+          "url": "WP-MKTW-0005358330"
+        }
+      ],
+      "_score": 27.46
+    },
+    {
+      "id": "F1",
+      "category": "F1",
+      "title": "F1拉斯维加斯站：安东内利最快但罚退 维斯塔潘获杆位",
+      "facts": [
+        "BBC称，梅赛德斯安东内利排位最快，但罚退使红牛维斯塔潘获得杆位。",
+        "《卫报》称，安东内利排位最快但将从第六起步，维斯塔潘与拉塞尔头排。",
+        "Motorsport.com称，拉塞尔在拉斯维加斯练习中与维斯塔潘发生碰撞后公开批评。"
+      ],
+      "sources": [
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "突出拉塞尔在练习碰撞后向维斯塔潘发起挑战。",
+          "url": "https://www.motorsport.com/f1/news/george-russell-slams-verstappen-over-las-vegas-clash-somebodys-got-to-stand-up-to-that-guy/10876278/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "称安东内利最快但罚退，维斯塔潘与拉塞尔头排起步。",
+          "url": "https://www.theguardian.com/sport/2026/nov/21/max-verstappen-las-vegas-gp-f1-pole-position-qualifying-kimi-antonelli"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "强调安东内利最快但罚退，维斯塔潘获杆位。",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "以直播形式记录安东内利最快、维斯塔潘夺杆。",
+          "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-las-vegas-2026.3qo462s7hxQdJeGbqctMAV"
+        }
+      ],
+      "framing": "各来源均报道安东内利最快但罚退、维斯塔潘获杆位，角度接近；Motorsport.com与The Race更聚焦拉塞尔与维斯塔潘的冲突。",
+      "items": [
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "George Russell challenges Max Verstappen following Las Vegas practice clash",
+          "summary": "Any hope that George Russell and Max Verstappen had buried the hatchet evaporated at Turn 14 on Friday night. Hours after banging wheels with the Red Bull driver in final practice at the Las Vegas Grand Prix, Russell unleashed a blistering post-qualifying critique - just as the pair locked out the front row for Saturday night’s race. The flashpoint came late in FP3 when Verstappen passed ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/george-russell-slams-verstappen-over-las-vegas-clash-somebodys-got-to-stand-up-to-that-guy/10876278/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Max Verstappen takes pole for Las Vegas Grand Prix after Kimi Antonelli penalty",
+          "summary": "Antonelli quickest in qualifying but will start from sixth on grid Verstappen starts on front row alongside Mercedes’ George Russell Kimi Antonelli was quickest in qualifying for the Las Vegas Grand Prix, but the newly-crowned world champion will not be on pole for Sunday’s race as he has a five-place grid penalty for taking a new engine for this meeting. Red Bull’s Max Verstappen, who was second, will take pole – his first in Las Vegas – and Mercedes’ George Russell will line up alongside him on the front row of t",
+          "url": "https://www.theguardian.com/sport/2026/nov/21/max-verstappen-las-vegas-gp-f1-pole-position-qualifying-kimi-antonelli"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Antonelli fastest but penalty leaves Verstappen on pole",
+          "summary": "Mercedes' Kimi Antonelli is fastest in qualifying for the Las Vegas Grand Prix but a grid penalty hands pole position to Red Bull's Max Verstappen.",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "AS IT HAPPENED: Antonelli fastest as Verstappen takes Vegas pole",
+          "summary": "Live coverage of Friday's Qualifying session for the 2026 Las Vegas Grand Prix.",
+          "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-las-vegas-2026.3qo462s7hxQdJeGbqctMAV"
+        }
+      ],
+      "_score": 75.97
+    },
+    {
+      "id": "F2",
+      "category": "F1",
+      "title": "Larsen holds off Palmowski to win opening Las Vegas race",
+      "facts": [
+        "Larsen holds off Palmowski to win opening Las Vegas race"
+      ],
+      "sources": [
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-las-vegas-gp-10876215/10876215/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.theguardian.com/sport/2026/nov/20/super-bowl-formula-one-las-vegas-grand-prix-jackpot"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-las-vegas-2026.50OIQwa2hcjUWGKsiu3h5L"
+        }
+      ],
+      "framing": "4 家来源 · 一手 / 专业 / 中 / 左",
+      "items": [
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "F1 2026 qualifying head-to-head: Las Vegas GP",
+          "summary": "After every Formula 1 qualifying session, Motorsport.com publishes each team's qualifying record in terms of team-mate battles. This record is based exclusively on qualifying results so that grid penalties don't alter the statistics. When a driver can't put in a representative lap time due to a technical issue or an incident, this will be mentioned in the ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-las-vegas-gp-10876215/10876215/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "Larsen holds off Palmowski to win opening Las Vegas race",
+          "summary": "",
+          "url": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "The Super Bowl of F1: how Las Vegas GP has hit the jackpot after turbulent start",
+          "summary": "George Russell calls it the biggest race on the Formula One calendar bar Monaco – and the numbers back him up That Formula One has achieved a palpable success in hosting a race in Las Vegas is impossible to ignore. Even with this year’s outing a dead rubber and with the city in perhaps its least flattering light, the cold drizzle of a Thursday afternoon beneath gunmetal-grey skies, the fans who have flocked to Nevada were irrepressibly enthusiastic. Long queues stretched out into the streets before the gates were e",
+          "url": "https://www.theguardian.com/sport/2026/nov/20/super-bowl-formula-one-las-vegas-grand-prix-jackpot"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "AS IT HAPPENED: Final practice for the Las Vegas GP",
+          "summary": "Live coverage of Friday's third practice session for the 2026 Las Vegas Grand Prix.",
+          "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-las-vegas-2026.50OIQwa2hcjUWGKsiu3h5L"
+        }
+      ],
+      "_score": 75.77
+    },
+    {
+      "id": "F3",
+      "category": "F1",
+      "title": "Russell fastest in Las Vegas practice after rain",
+      "facts": [
+        "Mercedes' George Russell topped a second practice session at the Las Vegas Grand Prix run on a wet but slowly drying track."
+      ],
+      "sources": [
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.motorsport.com/f1/news/george-russell-las-vegas-qualifying-tow-was-too-difficult-to-orchestrate/10876314/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.formula1.com/en/latest/article/fp3-russell-goes-fastest-from-antonelli-and-norris-during-final-practice-in-las-vegas.3qwe57vQf1Qjrm2tdp7Vfy"
+        },
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.the-race.com/formula-1/russell-wont-accept-being-screwed-over-by-verstappen/"
+        }
+      ],
+      "framing": "5 家来源 · 一手 / 专业 / 中",
+      "items": [
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "George Russell: Las Vegas qualifying tow was \"too difficult to orchestrate\"",
+          "summary": "Mercedes Formula 1 driver George Russell claimed that getting the perfect tow in Las Vegas qualifying was \"too difficult to orchestrate\" after he missed out on pole position. Russell set the third-fastest time in Q3, 0.331 seconds behind team-mate Kimi Antonelli and 0.073s off Red Bull's Max Verstappen. He will start second, alongside Verstappen, after Antonelli's five-place grid penalty for ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/george-russell-las-vegas-qualifying-tow-was-too-difficult-to-orchestrate/10876314/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Russell fastest in Las Vegas practice after rain",
+          "summary": "Mercedes' George Russell topped a second practice session at the Las Vegas Grand Prix run on a wet but slowly drying track.",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "Russell goes fastest during final practice in Las Vegas",
+          "summary": "Mercedes' George Russell set the quickest time during an action-packed third and final practice session at the Las Vegas Grand Prix.",
+          "url": "https://www.formula1.com/en/latest/article/fp3-russell-goes-fastest-from-antonelli-and-norris-during-final-practice-in-las-vegas.3qwe57vQf1Qjrm2tdp7Vfy"
+        },
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "Russell won't accept being 'screwed over' by Verstappen",
+          "summary": "George Russell says he refuses to be 'screwed over' by Max Verstappen after they clashed in practice at F1’s Las Vegas Grand Prix",
+          "url": "https://www.the-race.com/formula-1/russell-wont-accept-being-screwed-over-by-verstappen/"
+        }
+      ],
+      "_score": 69.99
+    },
+    {
+      "id": "F4",
+      "category": "F1",
+      "title": "Hamilton: Ferrari need to 'react quickly' after wet start in Las Vegas",
+      "facts": [
+        "Hamilton: Ferrari need to 'react quickly' after wet start in Las Vegas"
+      ],
+      "sources": [
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.motorsport.com/f1/news/lewis-hamilton-reveals-floor-damage-cost-him-in-f1-las-vegas-qualifying/10876261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.theguardian.com/sport/2026/nov/20/lewis-hamilton-formula-one-activism-gaza"
+        },
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.skysports.com/f1/live-blog/12433/13613211/f1-las-vegas-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-the-usa"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cr8683z1wdp2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "4 家来源 · 专业 / 中 / 左",
+      "items": [
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Lewis Hamilton reveals floor damage cost him in F1 Las Vegas qualifying",
+          "summary": "Seven-time Formula 1 champion Lewis Hamilton says floor damage and a lack of energy deployment cost him a place in Q3 in the Las Vegas Grand Prix qualifying session. The Ferrari driver qualified 12th, just 0.167 seconds away from making the top 10, one place behind team-mate Charles Leclerc. It was Ferrari's first double Q2 exit since Imola last year. Hamilton, who is currently fighting for ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/lewis-hamilton-reveals-floor-damage-cost-him-in-f1-las-vegas-qualifying/10876261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Lewis Hamilton is now the apex sports protester as US athletes stay silent",
+          "summary": "The Ferrari driver has always used his fame to highlight causes he cares about. Now he stands out as other athletes tone down their rhetoric Most Formula One drivers might slip away to the beach or the golf course on a week off between races. Lewis Hamilton is not most drivers, though. Instead he went to the Rafah border crossing between Egypt and Gaza. He greeted aid workers in Arabic, toured the checkpoint and visited the Egyptian Red Crescent warehouses in nearby El-Arish, where relief supplies are prepared for ",
+          "url": "https://www.theguardian.com/sport/2026/nov/20/lewis-hamilton-formula-one-activism-gaza"
+        },
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "Hamilton: Ferrari need to 'react quickly' after wet start in Las Vegas",
+          "summary": "",
+          "url": "https://www.skysports.com/f1/live-blog/12433/13613211/f1-las-vegas-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-the-usa"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "No trust problem with Ferrari team - Hamilton",
+          "summary": "Lewis Hamilton says Ferrari are \"super united\" despite two recent incidents in which the British driver ignored a team call to pit for fresh tyres.",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cr8683z1wdp2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 69.88
+    },
+    {
+      "id": "A1",
+      "category": "AI",
+      "title": "Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence",
+      "facts": [
+        "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record."
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html"
+        },
+        {
+          "name": "Fox Business",
+          "lean": "右",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.foxbusiness.com/markets/anthropic-ipo-turns-thousands-tech-workers-overnight-millionaires-reports-say"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"
+        },
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+        }
+      ],
+      "framing": "5 家来源 · 中 / 右 / 左",
+      "items": [
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence",
+          "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html"
+        },
+        {
+          "outlet": "Fox Business",
+          "lean": "右",
+          "title": "Anthropic IPO turns thousands of tech workers into overnight millionaires, reports say",
+          "summary": "Thousands of workers at the artificial intelligence giant are reportedly cashing in on a historic stock windfall after Anthropic's public market debut.",
+          "url": "https://www.foxbusiness.com/markets/anthropic-ipo-turns-thousands-tech-workers-overnight-millionaires-reports-say"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
+          "summary": "AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97 Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry Anthropic closed its first day of trading on the US stock market about 17% higher than its initial public offering price. At the close of market on Thursday, Anthropic shares were trading at just over $97 with a nearly $1.3tn total market capitalization, $1.75tn fully diluted. While the fin",
+          "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"
+        },
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+          "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+        }
+      ],
+      "_score": 68.43
+    },
+    {
+      "id": "A2",
+      "category": "AI",
+      "title": "Nvidia faces further blow after shock US export permit data release: analysts",
+      "facts": [
+        "US lawmakers have thrown the cross-border semiconductor trade into fresh turmoil after releasing confidential licensing records showing Washington approved the sale of nearly 880,000 advanced AI chips to Chinese tech companies earlier this year. The disclosures, made by a US House committee on Thursday, could prompt Chinese buyers to pivot from Nvidia to Advanced Micro Devices (AMD) in the short term and accelerate their transition to home-made chips over the long run, analysts said. The filing..."
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts"
+        },
+        {
+          "name": "The Verge",
+          "lean": "中左",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
+        },
+        {
+          "name": "MarketWatch",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "WP-MKTW-0005361317"
+        }
+      ],
+      "framing": "4 家来源 · 中 / 中左",
+      "items": [
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Nvidia faces further blow after shock US export permit data release: analysts",
+          "summary": "US lawmakers have thrown the cross-border semiconductor trade into fresh turmoil after releasing confidential licensing records showing Washington approved the sale of nearly 880,000 advanced AI chips to Chinese tech companies earlier this year. The disclosures, made by a US House committee on Thursday, could prompt Chinese buyers to pivot from Nvidia to Advanced Micro Devices (AMD) in the short term and accelerate their transition to home-made chips over the long run, analysts said. The filing...",
+          "url": "https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts"
+        },
+        {
+          "outlet": "The Verge",
+          "lean": "中左",
+          "title": "A brief history of Nvidia’s recent stock fluctuations",
+          "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+          "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
+          "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
+        },
+        {
+          "outlet": "MarketWatch",
+          "lean": "中",
+          "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
+          "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
+          "url": "WP-MKTW-0005361317"
+        }
+      ],
+      "_score": 63.07
+    },
+    {
+      "id": "A3",
+      "category": "AI",
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "facts": [
+        "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time."
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Verge",
+          "lean": "中左",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video"
+        }
+      ],
+      "framing": "5 家来源 · 中 / 中左 / 左",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+          "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Verge",
+          "lean": "中左",
+          "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+          "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment",
+          "summary": "The AI company sold an aggregate of 1,127,000,000 shares at $83 per share in the record IPO.",
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
+          "summary": "Anthropic's CEO, Dario Amodei, issued a warning about the dangers of AI, saying it has 'very real' but 'avoidable' risks, shortly before the company rang the opening bell at Nasdaq Anthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live Continue reading...",
+          "url": "https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video"
+        }
+      ],
+      "_score": 62.77
+    },
+    {
+      "id": "A4",
+      "category": "AI",
+      "title": "Can AI really help spot Black Friday deals? We put it to the test",
+      "facts": [
+        "We put four AI models to the test to see if they could save us money on a new TV."
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.theguardian.com/business/2026/nov/20/black-friday-uk-bargain-cashback-gift-cards-savings"
+        }
+      ],
+      "framing": "2 家来源 · 中 / 左",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Can AI really help spot Black Friday deals? We put it to the test",
+          "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "How to get a bigger Black Friday bargain: cashback, price matches and gift cards",
+          "summary": "From cashback on what you buy to cut-price gift cards, we offer tips on how to maximise savings on your shopping With Black Friday on the horizon, retailers are already offering discounts, and over the next few weeks you can expect to see more price cuts as they attempt to entice us to open our wallets. It could be a great time to snap up the things on your Christmas list or buy household items you need yourself. And there are ways to maximise your savings on Black Friday – which this year falls on 27 November – by",
+          "url": "https://www.theguardian.com/business/2026/nov/20/black-friday-uk-bargain-cashback-gift-cards-savings"
+        }
+      ],
+      "_score": 42.92
+    }
+  ],
+  "stats": {
+    "feeds_ok": 42,
+    "feeds_failed": 2,
+    "items": 409,
+    "clusters": 253,
+    "stories": 16,
+    "feeds_total": 44,
+    "errors": 2,
+    "elapsed_sec": 3.4
+  },
+  "errors": [
+    {
+      "source": "Arab News",
+      "feed": "arabnews",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "VentureBeat",
+      "feed": "venturebeat-ai",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "warnings": [
+    "经济 单一来源条目：E4"
+  ],
+  "llm_used": true,
+  "llm_provider": "deepseek",
+  "lede": "今日四条线均呈现权力与市场的高度联动：特朗普的外交与人事表态牵动盟友与继任叙事，Anthropic上市与Nvidia波动折射AI资本狂热与监管风险，F1拉斯维加斯站则在场内竞争与场外商业之间并行。",
+  "takeaways": [
+    "特朗普围绕普京、米勒与黄仁勋的公开表态，正把外交、人事与科技政策压缩进同一场发布会叙事。",
+    "Anthropic创纪录IPO与Nvidia持续承压并存，显示AI板块的资本盛宴与估值焦虑同步放大。",
+    "拉斯维加斯站排位因罚退改写，说明F1的竞技结果与规则执行、商业包装已难以分开解读。"
+  ]
+}
