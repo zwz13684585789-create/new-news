@@ -1,0 +1,898 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T06:00:18+00:00",
+  "stories": [
+    {
+      "id": "P1",
+      "category": "政治",
+      "title": "特朗普批科宁阻挠德州法官提名并威胁科技企业海外建数据中心",
+      "facts": [
+        "特朗普称参议员约翰·科宁阻挠司法部律师埃利奥特·盖泽的联邦法官提名是“极大的损害”。",
+        "特朗普威胁对在海外建设数据中心的美国科技公司征收“巨额罚款”，但未提供政策细节。",
+        "BBC称特朗普团队中有人首次听说该政策；纽约邮报引述特朗普称“激进左翼疯子会进入那里”。"
+      ],
+      "sources": [
+        {
+          "name": "New York Post",
+          "lean": "右",
+          "angle": "突出特朗普对科宁的批评及“激进左翼”警告。",
+          "url": "https://nypost.com/2026/11/22/us-news/trump-says-sen-john-cornyn-is-doing-a-tremendous-disservice-by-blocking-texas-judicial-pick/"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "强调特朗普威胁科技企业海外建数据中心。",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "指出政策细节匮乏，团队首次听闻。",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox News",
+          "lean": "右",
+          "angle": "聚焦科宁阻挠盖泽法官提名。",
+          "url": "https://www.foxnews.com/politics/trump-sen-cornyn-tremendous-disservice-blocking-texas-judicial-pick"
+        }
+      ],
+      "framing": "右翼来源聚焦科宁阻挠提名，中左来源突出数据中心威胁缺乏细节，角度差异明显。",
+      "items": [
+        {
+          "outlet": "New York Post",
+          "lean": "右",
+          "title": "Trump says Sen. John Cornyn is doing a ‘tremendous disservice’ by blocking Texas judicial pick",
+          "summary": "\"We're going to have a radical left lunatic get in there, and we don't want that,\" the president said.",
+          "url": "https://nypost.com/2026/11/22/us-news/trump-says-sen-john-cornyn-is-doing-a-tremendous-disservice-by-blocking-texas-judicial-pick/"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+          "summary": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he had not yet informed his own officials about the plan. In a discursive press conference from the White House briefing room, Trump also said he would “look into” the report that Iran had been planning to possibly detonate ",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Trump threatens ban on US firms building AI data centres overseas",
+          "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Fox News",
+          "lean": "右",
+          "title": "Trump says Sen Cornyn is doing a 'tremendous disservice' by blocking Texas judicial pick",
+          "summary": "President Donald Trump says Sen. John Cornyn is doing a \"tremendous disservice\" by blocking DOJ lawyer Elliot Gaiser's federal judge nomination in Dallas.",
+          "url": "https://www.foxnews.com/politics/trump-sen-cornyn-tremendous-disservice-blocking-texas-judicial-pick"
+        }
+      ],
+      "_score": 69.99
+    },
+    {
+      "id": "P2",
+      "category": "政治",
+      "title": "欧洲多国数千人抗议生活成本与住房问题",
+      "facts": [
+        "法国和葡萄牙等地数千人示威，抗议生活成本、教育及经济困难。",
+        "法国迎来连续第六个周六抗议，民众不满生活成本上升及政府处理社会动荡的方式。",
+        "BBC称示威者周五在欧洲多城市游行，抗议生活成本及其他议题。"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "突出法国葡萄牙示威及青年主导抗议。",
+          "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss"
+        },
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "强调法国第六个周六抗议及选举前社会动荡。",
+          "url": "https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "概括欧洲多城市游行抗议生活成本。",
+          "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "三家来源角度接近，均聚焦生活成本抗议，法国24额外提及教育、军费及选举背景。",
+      "items": [
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "Thousands protest across Europe over living costs and housing",
+          "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
+          "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "Thousands protest overs prices, education, military spending in France and Europe",
+          "summary": "France is bracing for a sixth consecutive Saturday of protests, with demonstrators expected to rally over the rising cost of living and the government's handling of weeks of social unrest ahead of next year's presidential election. France 24 journalist Antonia Kerrigan tells us the latest from Paris.",
+          "url": "https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Cost of living protests sweep across Europe",
+          "summary": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
+          "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 52.47
+    },
+    {
+      "id": "P3",
+      "category": "政治",
+      "title": "丹麦驱逐俄外交官指其策划暗杀美乌说唱歌手",
+      "facts": [
+        "丹麦外长称将驱逐俄罗斯驻哥本哈根国防武官，因俄涉嫌策划暗杀音乐人基辅斯顿纳。",
+        "丹麦当局称9月挫败俄罗斯杀害乌克兰说唱歌手的计划。",
+        "俄驻丹麦使馆否认指控；冯德莱恩称俄威胁“越来越不混合”。"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "详述丹麦驱逐俄武官及暗杀图谋。",
+          "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing"
+        },
+        {
+          "name": "Politico",
+          "lean": "中",
+          "angle": "引冯德莱恩称俄威胁不再“混合”。",
+          "url": "https://www.politico.eu/article/russian-threats-less-hybrid-von-der-leyen-says-assassination-plot-ukrainian-rapper-kyivstoner-denmark/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "报道丹麦指控及俄使馆否认。",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "卫报与BBC聚焦事件本身，Politico突出冯德莱恩对俄威胁定性，角度略有差异。",
+      "items": [
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Denmark to expel Russian diplomat over alleged plot to kill US-Ukrainian rapper",
+          "summary": "Moscow intelligence thought to be behind plan to kill musician Kyivstoner before concert in Denmark Denmark’s foreign minister has said Russia’s defence attache in Copenhagen would be expelled after Moscow was suspected of being behind an attempted killing of a US-Ukrainian rapper. “We have just summoned the Russian ambassador to the ministry of foreign affairs and notified him of the government’s decision to expel the Russian defence attache from Denmark,” Lars Løkke Rasmussen told a news conference. The expulsion",
+          "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing"
+        },
+        {
+          "outlet": "Politico",
+          "lean": "中",
+          "title": "Russian threats ‘less and less hybrid,’ Von der Leyen says after assassination plot in Denmark",
+          "summary": "Danish authorities said they thwarted a Russian plan to kill a Ukrainian rapper in September.",
+          "url": "https://www.politico.eu/article/russian-threats-less-hybrid-von-der-leyen-says-assassination-plot-ukrainian-rapper-kyivstoner-denmark/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+          "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 51.34
+    },
+    {
+      "id": "P4",
+      "category": "政治",
+      "title": "特朗普令联邦承包商回应国会前须咨询白宫",
+      "facts": [
+        "特朗普签署行政令，要求联邦承包商在回应国会问询前咨询白宫，并扣留涉特权材料。",
+        "Fox News称承包商若违反可能面临合同损失，民主党正准备调查。",
+        "NPR称特朗普指示承包商就国会问询咨询白宫并扣留特权通讯。"
+      ],
+      "sources": [
+        {
+          "name": "NPR",
+          "lean": "中左",
+          "angle": "强调承包商须咨询白宫并扣留特权通讯。",
+          "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress"
+        },
+        {
+          "name": "Fox News",
+          "lean": "右",
+          "angle": "突出承包商扣留材料及合同损失风险。",
+          "url": "https://www.foxnews.com/politics/trump-orders-federal-contractors-alert-white-house-congressional-record-requests"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "称行政令旨在阻挠民主党监督。",
+          "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order"
+        }
+      ],
+      "framing": "三家来源角度接近，均报道行政令内容，卫报与NPR强调阻碍监督，Fox提合同风险。",
+      "items": [
+        {
+          "outlet": "NPR",
+          "lean": "中左",
+          "title": "Trump orders federal contractors to check with White House before responding to Congress",
+          "summary": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.",
+          "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress"
+        },
+        {
+          "outlet": "Fox News",
+          "lean": "右",
+          "title": "Trump orders federal contractors to alert White House on congressional record requests",
+          "summary": "President Donald Trump's executive order tells federal contractors to withhold material deemed privileged, risking contract loss as Democrats ready probes.",
+          "url": "https://www.foxnews.com/politics/trump-orders-federal-contractors-alert-white-house-congressional-record-requests"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Trump orders contractors to check with White House over any congressional inquiries",
+          "summary": "Anticipating flood of Democratic requests, US president issues executive order in attempt to stymie oversight efforts Donald Trump is directing federal contractors and subcontractors to consult with his administration about inquiries they receive from Congress and to withhold any communications that the White House considers privileged, according to an executive order issued late Friday. The companies must also coordinate with the White House and US agencies on “appropriate responses” to any such requests, the orde",
+          "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order"
+        }
+      ],
+      "_score": 48.78
+    },
+    {
+      "id": "E1",
+      "category": "经济",
+      "title": "科技股抛售拖累市场，Anthropic股价下滑",
+      "facts": [
+        "BBC称科技股抛售拖累市场，Anthropic股价下滑，标普500和道指进入回调区间。",
+        "CNBC称近期技术故障引发对AI网络攻击和美国电网的担忧，末日经济升温。",
+        "两家来源均未提供具体跌幅数字。"
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "探讨技术故障催生末日经济担忧。",
+          "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "报道科技股抛售致市场进入回调。",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "CNBC聚焦技术故障催生末日经济，BBC聚焦科技股抛售与市场回调，角度不同。",
+      "items": [
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Tech outages are fueling a new doomsday economy",
+          "summary": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
+          "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+          "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 35.51
+    },
+    {
+      "id": "E2",
+      "category": "经济",
+      "title": "卡尼人气与特朗普加密财富引关注",
+      "facts": [
+        "卫报分析加拿大总理卡尼人气高，但质疑若贸易战结束其支持能否持续。",
+        "NPR解释特朗普第二任期通过加密货币获利数十亿美元，民主党誓言调查。",
+        "两条故事均未提供具体支持率或金额细节。"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "分析卡尼高人气能否经受贸易战变化。",
+          "url": "https://www.theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada"
+        },
+        {
+          "name": "NPR",
+          "lean": "中左",
+          "angle": "解释特朗普如何通过加密货币致富。",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer"
+        }
+      ],
+      "framing": "两家来源分别聚焦卡尼与特朗普，主题不同，角度无直接可比性。",
+      "items": [
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?",
+          "summary": "Canadians have put a lot of trust in their prime minister but some question if it can last if the trade wars were to end In the hours after polls in the US midterm elections closed and it became clear that Donald Trump had been rebuked in historic fashion, Canadian politicians were elated. “I was doing cartwheels down the street, and have you ever seen a big guy like me doing cartwheels?” said Ontario premier Doug Ford, a prominent critic of American tariffs. Continue reading...",
+          "url": "https://www.theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada"
+        },
+        {
+          "outlet": "NPR",
+          "lean": "中左",
+          "title": "How exactly did Trump get so rich on crypto? We explain",
+          "summary": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year.",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer"
+        }
+      ],
+      "_score": 31.0
+    },
+    {
+      "id": "E3",
+      "category": "经济",
+      "title": "分析师对中国楼市复苏前景看法分歧",
+      "facts": [
+        "南华早报称分析师对中国内地楼市前景看法分歧，房价下跌仍是核心问题。",
+        "地方政府财政收入严重依赖土地出让，楼市低迷持续影响经济。",
+        "报道未提供具体房价跌幅或复苏时间预测。"
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "呈现分析师对楼市复苏前景的分歧。",
+          "url": "https://www.scmp.com/business/china-business/article/3375239/recovery-last-analysts-divided-chinas-home-market-outlook"
+        }
+      ],
+      "framing": "单一来源，南华早报呈现分析师分歧，未给出明确结论。",
+      "items": [
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Recovery at last? Analysts divided on China’s home market outlook",
+          "summary": "How long the property slump in mainland China will continue remains an ominous question for the world’s second-largest economy, where local governments’ fiscal revenue largely hinges on land sales. While economists agree that falling home prices – the “enemy within” for the economy – continue to wreak havoc on consumer spending, employment, fixed-asset investment and business confidence, they are still divided on when the property sector will truly hit bottom. The slumbering home market...",
+          "url": "https://www.scmp.com/business/china-business/article/3375239/recovery-last-analysts-divided-chinas-home-market-outlook"
+        }
+      ],
+      "_score": 27.5
+    },
+    {
+      "id": "E4",
+      "category": "经济",
+      "title": "妻子资助家人纽约旅行引发家庭财务争议",
+      "facts": [
+        "MarketWatch读者来信称妻子资助家人纽约旅行，酒店每晚可达400美元，正消耗储蓄。",
+        "来信者询问是否应要求妻子停止资助。",
+        "报道未提供家庭收入或储蓄总额细节。"
+      ],
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "lean": "中",
+          "angle": "以读者来信形式讨论家庭旅行开支矛盾。",
+          "url": "WP-MKTW-0005357557"
+        }
+      ],
+      "framing": "单一来源，MarketWatch以个人理财问答形式呈现家庭财务矛盾。",
+      "items": [
+        {
+          "outlet": "MarketWatch",
+          "lean": "中",
+          "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+          "summary": "“Hotel rooms can cost as much as $400 per night.”",
+          "url": "WP-MKTW-0005357557"
+        }
+      ],
+      "_score": 27.01
+    },
+    {
+      "id": "F1",
+      "category": "F1",
+      "title": "维斯塔潘赢得拉斯维加斯站，法拉利车手相撞",
+      "facts": [
+        "维斯塔潘赢得拉斯维加斯大奖赛，诺里斯第二，皮亚斯特里第三。",
+        "The Race称拉塞尔撞车，法拉利车手互相碰撞。",
+        "卫报称皮亚斯特里从第17位超车至第12位。"
+      ],
+      "sources": [
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "突出维斯塔潘大师级表现及法拉利碰撞。",
+          "url": "https://www.the-race.com/formula-1/f1-las-vegas-gp-max-verstappen-wins-ferrari-drivers-collide/"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "报道维斯塔潘夺冠及诺里斯皮亚斯特里名次。",
+          "url": "https://www.theguardian.com/sport/live/2026/nov/22/las-vegas-grand-prix-formula-one-2026-race-updates-live"
+        },
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "提供比赛集锦。",
+          "url": "https://www.skysports.com/watch/video/13615112/las-vegas-grand-prix-race-highlights"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "直播覆盖维斯塔潘夺冠。",
+          "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-heineken-las-vegas-grand-prix-2026.5lbMAk1JxHBbBVelEl2kyc"
+        }
+      ],
+      "framing": "专业与综合来源均聚焦维斯塔潘夺冠及事故，角度接近，Sky Sports仅提供集锦。",
+      "items": [
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "Verstappen wins breathless Las Vegas GP as Ferraris collide",
+          "summary": "Max Verstappen delivered a masterclass to win a peloton-style Las Vegas GP, while George Russell crashed and the Ferrari drivers collided",
+          "url": "https://www.the-race.com/formula-1/f1-las-vegas-gp-max-verstappen-wins-ferrari-drivers-collide/"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Max Verstappen wins Las Vegas Grand Prix: Formula One 2026 – reaction",
+          "summary": "Lando Norris finishes second and Oscar Piastri third Any thoughts? Get in touch with an email Lap 2/50 Oscar Piastri has done some fast overtaking, moving himself up from 17 to 12, now sitting behind Carlos Sainz . Continue reading...",
+          "url": "https://www.theguardian.com/sport/live/2026/nov/22/las-vegas-grand-prix-formula-one-2026-race-updates-live"
+        },
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "Las Vegas Grand Prix - Race highlights",
+          "summary": "Highlights from the 2026 Las Vegas Grand Prix.",
+          "url": "https://www.skysports.com/watch/video/13615112/las-vegas-grand-prix-race-highlights"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "LIVE COVERAGE: Verstappen wins thrilling Las Vegas Grand Prix",
+          "summary": "Live coverage of Saturday's Formula 1 Heineken Las Vegas Grand Prix 2026.",
+          "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-heineken-las-vegas-grand-prix-2026.5lbMAk1JxHBbBVelEl2kyc"
+        }
+      ],
+      "_score": 75.99
+    },
+    {
+      "id": "F2",
+      "category": "F1",
+      "title": "帕尔莫夫斯基拉斯维加斯赛季收官战击败拉森",
+      "facts": [
+        "帕尔莫夫斯基在拉斯维加斯赛季收官战中击败拉森，取得本赛季第六场胜利。",
+        "Sky Sports称两人展开史诗级对决。",
+        "The Race称正赛发车格因五次罚退与排位赛结果大不相同。"
+      ],
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "称帕尔莫夫斯基与拉森史诗对决后获胜。",
+          "url": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season"
+        },
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "聚焦五次罚退后的发车格变化。",
+          "url": "https://www.the-race.com/formula-1/f1-2026-las-vegas-gp-starting-grid-after-five-penalties/"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "分析拉斯维加斯站从动荡起步到成功。",
+          "url": "https://www.theguardian.com/sport/2026/nov/20/super-bowl-formula-one-las-vegas-grand-prix-jackpot"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "报道帕尔莫夫斯基第六胜。",
+          "url": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-fends-off-larsen-for-victory-as-campos-racing-claim-teams-title-in-las-vegas.6Fw8vZsWjOFWzvtWp4diBW"
+        }
+      ],
+      "framing": "Sky与F1官网聚焦帕尔莫夫斯基胜利，The Race关注发车格罚退，卫报分析赛事成功，角度分散。",
+      "items": [
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "Palmowski wins season-finale in Las Vegas after epic battle with Larsen",
+          "summary": "",
+          "url": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season"
+        },
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "F1 2026 Las Vegas GP starting grid after five penalties",
+          "summary": "The starting grid for Formula 1's 2026 Las Vegas Grand Prix is a very different picture from the qualifying result thanks to multiple grid penalties",
+          "url": "https://www.the-race.com/formula-1/f1-2026-las-vegas-gp-starting-grid-after-five-penalties/"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "The Super Bowl of F1: how Las Vegas GP has hit the jackpot after turbulent start",
+          "summary": "George Russell calls it the biggest race on the Formula One calendar bar Monaco – and the numbers back him up That Formula One has achieved a palpable success in hosting a race in Las Vegas is impossible to ignore. Even with this year’s outing a dead rubber and with the city in perhaps its least flattering light, the cold drizzle of a Thursday afternoon beneath gunmetal-grey skies, the fans who have flocked to Nevada were irrepressibly enthusiastic. Long queues stretched out into the streets before the gates were e",
+          "url": "https://www.theguardian.com/sport/2026/nov/20/super-bowl-formula-one-las-vegas-grand-prix-jackpot"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "Palmowski fends off Larsen for victory in Las Vegas",
+          "summary": "Alisha Palmowski came out on top in a back-and-forth battle with Alba Larsen to secure her sixth victory of the season in Las Vegas.",
+          "url": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-fends-off-larsen-for-victory-as-campos-racing-claim-teams-title-in-las-vegas.6Fw8vZsWjOFWzvtWp4diBW"
+        }
+      ],
+      "_score": 75.15
+    },
+    {
+      "id": "F3",
+      "category": "F1",
+      "title": "拉斯维加斯站五大看点与赛道分析",
+      "facts": [
+        "Motorsport.com称拉斯维加斯站呈现pack race，早期赛季的拉锯战回归。",
+        "Sky Sports的Audi飞驰圈由戴维森解析赛道线路与刹车点。",
+        "F1官网发布最终投注预测，The Race提供完整比赛结果。"
+      ],
+      "sources": [
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "总结拉斯维加斯站五大看点。",
+          "url": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-las-vegas-gp/10876667/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "用Audi飞驰圈解析赛道。",
+          "url": "https://www.skysports.com/watch/video/13614666/audi-flying-lap-las-vegas"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "发布最终投注预测。",
+          "url": "https://www.formula1.com/en/latest/article/our-final-las-vegas-grand-prix-betting-predictions-before-lights-out-on-the-strip.4jYqIilNqAOjx4y3poORZX"
+        },
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "提供完整比赛结果。",
+          "url": "https://www.the-race.com/formula-1/f1-2026-las-vegas-grand-prix-race-result/"
+        }
+      ],
+      "framing": "各来源角度分散，分别聚焦赛事看点、赛道解析、投注预测与比赛结果。",
+      "items": [
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Five quick takeaways from Las Vegas GP",
+          "summary": "Las Vegas gets the pack race it craved In America's artificial entertainment capital, F1 put the most artificial and entertaining spectacle. How fitting. The yo-yo racing from the early days of the 2026 season was back on full display, with the lack of electric energy available on the Strip's mile long straight bring back battery driven overtaking. For a while it felt like we were watching ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-las-vegas-gp/10876667/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "Audi Flying Lap: Las Vegas",
+          "summary": "Powered by Audi: Anthony Davidson takes us round the sensational Las Vegas track in a high-performance Audi, combining real laps with advanced sim data to break down racing lines, braking points and elite-level performance.",
+          "url": "https://www.skysports.com/watch/video/13614666/audi-flying-lap-las-vegas"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "Our final Las Vegas Grand Prix betting predictions",
+          "summary": "Our expert betting writers bring you their final predictions and latest odds before the Las Vegas Grand Prix.",
+          "url": "https://www.formula1.com/en/latest/article/our-final-las-vegas-grand-prix-betting-predictions-before-lights-out-on-the-strip.4jYqIilNqAOjx4y3poORZX"
+        },
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "F1 2026 Las Vegas Grand Prix race result",
+          "summary": "The complete race result from the 50-lap F1 2026 Las Vegas GP",
+          "url": "https://www.the-race.com/formula-1/f1-2026-las-vegas-grand-prix-race-result/"
+        }
+      ],
+      "_score": 69.96
+    },
+    {
+      "id": "F4",
+      "category": "F1",
+      "title": "维斯塔潘与拉塞尔拉斯维加斯再起冲突",
+      "facts": [
+        "BBC称维斯塔潘与拉塞尔 rivalry 在拉斯维加斯再次爆发，两人将在头排发车。",
+        "Motorsport.com称三练中维斯塔潘超车后在拉塞尔前减速并改变方向。",
+        "Sky Sports称拉塞尔喊“他把我推向护栏”，两人在三练中碰撞。"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "称需有人站出来对抗维斯塔潘。",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c34gnrvl9zvro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "报道维斯塔潘回应拉塞尔及减速变向。",
+          "url": "https://www.motorsport.com/f1/news/max-verstappen-responds-to-george-russell-after-vegas-clash-never-seen-such-an-agreement/10876331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "分析拉斯维加斯站轮胎策略。",
+          "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-las-vegas-gp.4k41CN1CbogRoqk1kkOb9C"
+        },
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "引拉塞尔称被推向护栏。",
+          "url": "https://www.skysports.com/watch/video/13614584/las-vegas-gp-george-russell-and-max-verstappen-crash-into-each-other-during-p3"
+        }
+      ],
+      "framing": "三家来源均聚焦维斯塔潘与拉塞尔冲突，角度接近，F1官网转向轮胎策略。",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "'Somebody has to stand up to that guy' - Verstappen-Russell rivalry blows up again",
+          "summary": "The George Russell-Max Verstappen feud surfaced again in Las Vegas, adding spice to a race where they will start on the front row.",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c34gnrvl9zvro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Max Verstappen responds to George Russell after Vegas clash",
+          "summary": "During the final practice session for the Formula 1 Las Vegas Grand Prix, Max Verstappen and George Russell crossed paths once again. The Dutchman overtook the Mercedes driver, but then slowed down in front of him and, according to the stewards, changed direction several times. Russell subsequently went down the inside of the four-time world champion, leading to contact between the two at Turn ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/max-verstappen-responds-to-george-russell-after-vegas-clash-never-seen-such-an-agreement/10876331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "What are the tyre strategy options for the Las Vegas GP?",
+          "summary": "Matt Youson takes a look at the different pit stop and tyre options that are available to the teams on race day under the Las Vegas lights.",
+          "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-las-vegas-gp.4k41CN1CbogRoqk1kkOb9C"
+        },
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "'He's pushed me into the barrier!' - Russell and Verstappen collide in final practice",
+          "summary": "George Russell and Max Verstappen collided with one another during final practice at the Las Vegas Grand Prix.",
+          "url": "https://www.skysports.com/watch/video/13614584/las-vegas-gp-george-russell-and-max-verstappen-crash-into-each-other-during-p3"
+        }
+      ],
+      "_score": 66.37
+    },
+    {
+      "id": "A1",
+      "category": "AI",
+      "title": "Anthropic上市次日遇AI抛售，纳斯达克回吐年内涨幅",
+      "facts": [
+        "Anthropic在纳斯达克上市，The Verge讨论其能否负担安全优先。",
+        "卫报称纳斯达克回吐2026年全部涨幅，Anthropic上市第二日股价下跌。",
+        "BBC称Anthropic一名数学家称用AI证明黎曼假设，验证需时间。"
+      ],
+      "sources": [
+        {
+          "name": "The Verge",
+          "lean": "中左",
+          "angle": "讨论Anthropic能否坚持安全优先。",
+          "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "报道员工称AI或证明黎曼假设。",
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "称纳斯达克回吐年内涨幅。",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "称科技股拖累Anthropic次日转跌。",
+          "url": "https://www.cnbc.com/2026/11/20/tech-wreck-drags-anthropic-into-the-red-on-its-second-day-of-trading.html"
+        }
+      ],
+      "framing": "卫报与CNBC聚焦市场抛售，The Verge关注安全投入，BBC报道数学突破，角度差异大。",
+      "items": [
+        {
+          "outlet": "The Verge",
+          "lean": "中左",
+          "title": "Can Anthropic afford to put safety first?",
+          "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]",
+          "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
+          "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+          "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped with it. On Friday, the Nasdaq Composite erased all its gains for 2026 and closed down 5% from its value on 1 January. The Dow Jones Industrial Average and S&P 500 closed in correction territory. Anthropic’s record-breaking IPO",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Tech wreck drags Anthropic into the red on its second day of trading",
+          "summary": "Nasdaq futures trade lower after steep declines extend across global tech stocks",
+          "url": "https://www.cnbc.com/2026/11/20/tech-wreck-drags-anthropic-into-the-red-on-its-second-day-of-trading.html"
+        }
+      ],
+      "_score": 61.25
+    },
+    {
+      "id": "A2",
+      "category": "AI",
+      "title": "英伟达遭出口许可数据冲击，股价周线连跌",
+      "facts": [
+        "南华早报称美国议员公布机密许可记录，显示年初批准向中国科技公司出售近88万枚先进AI芯片。",
+        "CNBC称英伟达股价周四大跌14%，创2008年以来最长周线连跌。",
+        "The Verge称英伟达股价较近期高点下跌近40%，至约150美元。"
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "称出口许可数据令英伟达再受打击。",
+          "url": "https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts"
+        },
+        {
+          "name": "The Verge",
+          "lean": "中左",
+          "angle": "回顾英伟达近期股价波动。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "报道英伟达周跌14%及连跌纪录。",
+          "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
+        }
+      ],
+      "framing": "南华早报聚焦出口许可数据，CNBC与The Verge聚焦股价跌幅，角度互补。",
+      "items": [
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Nvidia faces further blow after shock US export permit data release: analysts",
+          "summary": "US lawmakers have thrown the cross-border semiconductor trade into fresh turmoil after releasing confidential licensing records showing Washington approved the sale of nearly 880,000 advanced AI chips to Chinese tech companies earlier this year. The disclosures, made by a US House committee on Thursday, could prompt Chinese buyers to pivot from Nvidia to Advanced Micro Devices (AMD) in the short term and accelerate their transition to home-made chips over the long run, analysts said. The filing...",
+          "url": "https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts"
+        },
+        {
+          "outlet": "The Verge",
+          "lean": "中左",
+          "title": "A brief history of Nvidia’s recent stock fluctuations",
+          "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+          "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
+          "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
+        }
+      ],
+      "_score": 49.17
+    },
+    {
+      "id": "A3",
+      "category": "AI",
+      "title": "Anthropic创纪录IPO撞上科技股最差周",
+      "facts": [
+        "CNBC称Anthropic在纳斯达克历史性上市，次日英伟达结束2008年以来最长周线连跌。",
+        "南华早报称Anthropic的810亿美元IPO领跑本周市场头条，拖累美亚科技股。",
+        "报道提及习近平与特朗普会面为AI竞赛添新动力。"
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "称Anthropic IPO撞上科技股最差周。",
+          "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "列投资者关注的五大数字含Anthropic IPO。",
+          "url": "https://www.scmp.com/business/china-business/article/3375169/anthropics-us81b-ipo-gold-price-drops-5-figures-investors-are-watching-week"
+        }
+      ],
+      "framing": "两家来源均将Anthropic IPO与科技股抛售联系，角度接近。",
+      "items": [
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+          "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+          "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Anthropic’s US$81b IPO, gold price drops: 5 figures investors are watching this week",
+          "summary": "A record-breaking IPO from Anthropic capped off this week’s market headlines, sending US and Asian tech stocks sliding in its wake and adding new fuel to the artificial intelligence race, following the meeting between Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin at the Apec summit in Shenzhen. Here are some of the figures that have drawn the most market attention this week. A record US$81.3 billion IPO for Anthropic Anthropic set a global record...",
+          "url": "https://www.scmp.com/business/china-business/article/3375169/anthropics-us81b-ipo-gold-price-drops-5-figures-investors-are-watching-week"
+        }
+      ],
+      "_score": 35.78
+    },
+    {
+      "id": "A4",
+      "category": "AI",
+      "title": "特朗普称与习近平讨论黄仁勋，贝森特称芯片出口政策未变",
+      "facts": [
+        "特朗普称与中国国家主席习近平讨论了黄仁勋；贝森特告诉CNBC称被解职的英伟达CEO未在访华会谈中提及。",
+        "TechCrunch称英伟达CEO黄仁勋被解职风波持续，公司财报增长健康但将停止销售部分产品。",
+        "CNBC称贝森特表示英伟达芯片出口政策未变。"
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "报道特朗普提及黄仁勋及贝森特称政策未变。",
+          "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
+        },
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "称黄仁勋被解职风波持续发酵。",
+          "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+        }
+      ],
+      "framing": "CNBC聚焦政策未变与高层讨论，TechCrunch聚焦黄仁勋风波与公司应对，角度不同。",
+      "items": [
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
+          "summary": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
+          "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
+        },
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+          "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
+          "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+        }
+      ],
+      "_score": 32.69
+    }
+  ],
+  "stats": {
+    "feeds_ok": 41,
+    "feeds_failed": 3,
+    "items": 336,
+    "clusters": 215,
+    "stories": 16,
+    "feeds_total": 44,
+    "errors": 3,
+    "elapsed_sec": 2.9
+  },
+  "errors": [
+    {
+      "source": "Arab News",
+      "feed": "arabnews",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "Express",
+      "feed": "express-f1",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "VentureBeat",
+      "feed": "venturebeat-ai",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "warnings": [
+    "经济 单一来源条目：E3, E4"
+  ],
+  "llm_used": true,
+  "llm_provider": "deepseek",
+  "lede": "今日四条线均呈现政策与市场的高度联动：特朗普在人事与科技投资上施压，欧洲生活成本抗议蔓延，丹麦指控俄罗斯暗杀图谋，F1拉斯维加斯站维斯塔潘夺冠，AI领域Anthropic上市与英伟达出口风波交织。",
+  "takeaways": [
+    "特朗普第二任期行政手段更趋主动，从司法提名到企业投资均直接干预。",
+    "欧洲抗议浪潮显示生活成本与军费开支正成为多国政治压力源。",
+    "AI资本市场波动加剧，Anthropic上市与英伟达出口政策相互放大风险。"
+  ]
+}
