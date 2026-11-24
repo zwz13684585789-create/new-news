@@ -1,0 +1,1011 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T09:20:36+00:00",
+  "stories": [
+    {
+      "id": "P1",
+      "category": "政治",
+      "title": "黄仁勋重返英伟达引发华盛顿不同反应",
+      "facts": [
+        "特朗普称赞英伟达周一决定恢复黄仁勋首席执行官职务，民主党领袖则誓言展开调查。",
+        "部分知名共和党人质疑黄仁勋回归是否构成国家安全风险。",
+        "英伟达董事会11月23日一致投票恢复黄仁勋总裁、首席执行官及董事职务。"
+      ],
+      "sources": [
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "突出特朗普赞扬与民主党调查誓言的对立。",
+          "url": "https://www.france24.com/en/video/20261124-jensen-huang-s-surprise-return-to-nvidia-sparks-mixed-reactions-in-washington"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "聚焦共和党议员在芯片走私指控上与特朗普决裂。",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates"
+        },
+        {
+          "name": "The Jerusalem Post",
+          "lean": "中右",
+          "angle": "以解释性报道梳理董事会六天内立场反转。",
+          "url": "https://www.jpost.com/business-and-innovation/article-915861"
+        },
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "直接引述英伟达关于董事会投票的声明。",
+          "url": "https://www.scmp.com/plus/tech/big-tech/article/3375546/what-nvidia-said-about-jensen-huangs-return"
+        }
+      ],
+      "framing": "法国24与耶路撒冷邮报侧重政治反应与董事会反转，卫报强调共和党人与特朗普的分歧，南华早报聚焦公司公告本身。",
+      "items": [
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "Jensen Huang's surprise return to Nvidia sparks mixed reactions in Washington",
+          "summary": "US President Donald Trump praised Nvidia's decision Monday to reinstate Jensen Huang as chief executive, as Democratic leaders vowed investigations and prominent Republicans questioned whether his return posed a national security risk.",
+          "url": "https://www.france24.com/en/video/20261124-jensen-huang-s-surprise-return-to-nvidia-sparks-mixed-reactions-in-washington"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – as it happened",
+          "summary": "This live blog is now closed. Jensen Huang reinstated as Nvidia CEO after Trump intervenes Sign up to the Breaking News US email Nvidia ’s shares have surged by 31% at the start of trading following the news. The S+P 500 jumped 4.5% and is recovering nearly half of its brutal losses from last week, which was one of its worst since the 2008 financial crisis. Rallies for AI stocks had the Nasdaq composite up a market-leading 6.5%, while the Dow Jones Industrial Average rose 1,117 points. Here’s Trump ’s full social m",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates"
+        },
+        {
+          "outlet": "The Jerusalem Post",
+          "lean": "中右",
+          "title": "What stands behind Nvidia's decision to reinstate Jensen Huang as company's CEO - explainer",
+          "summary": "On November 17, board chairman Harvey Jones declared that the company had no intention of reinstating Huang. Now, just six days later, the same board has voted unanimously to approve his return.",
+          "url": "https://www.jpost.com/business-and-innovation/article-915861"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "What Nvidia said about Jensen Huang’s return",
+          "summary": "Nvidia’s board of directors unanimously voted to reinstate Jensen Huang as president, chief executive officer, and board director on November 23, 2026. Following the decision, the company announced that Colette Kress would continue as chief financial officer, Harvey C. Jones would remain board chair, an independent investigation into foreign intelligence efforts would proceed, and a search for a new chief compliance officer would commence. Below is the full text of the press release from Nvidia:",
+          "url": "https://www.scmp.com/plus/tech/big-tech/article/3375546/what-nvidia-said-about-jensen-huangs-return"
+        }
+      ],
+      "_score": 68.99
+    },
+    {
+      "id": "P2",
+      "category": "政治",
+      "title": "中国航天迎外籍宇航员与官员间谍案并报",
+      "facts": [
+        "巴基斯坦的穆罕默德·泽山·阿里将成首位登上中国天宫空间站的外国宇航员。",
+        "阿里表示他将带着“2.5亿巴基斯坦人的希望”升空。",
+        "一名中国官员因向外国泄露国家秘密并收受逾15万美元付款被判处死刑。"
+      ],
+      "sources": [
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "强调首位外国宇航员进入中国空间站。",
+          "url": "https://www.france24.com/en/asia-pacific/20261124-china-to-launch-first-space-mission-with-a-foreign-astronaut"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "详述官员泄密与收受逾15万美元付款。",
+          "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "lean": "中",
+          "angle": "简讯式报道官员因间谍罪被判死刑。",
+          "url": "https://www.channelnewsasia.com/east-asia/china-sentences-official-death-spying-report-6577496"
+        },
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "聚焦日企在中日关系紧张下仍依赖中国市场。",
+          "url": "https://www.scmp.com/business/china-business/article/3375430/major-japanese-firms-still-rely-heavily-china-revenue-amid-beijing-tokyo-rift-report"
+        }
+      ],
+      "framing": "法国24聚焦航天合作，卫报与亚洲新闻台聚焦间谍案判决，南华早报则报道日企对华营收依赖，角度分散。",
+      "items": [
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "China to launch first space mission with a foreign astronaut",
+          "summary": "Pakistan's Muhammad Zeeshan Ali will become the first foreign astronaut to board China's Tiangong space station when the latest crew blasts off Wednesday. Ali said he would be carrying \"the hopes of 250 million Pakistanis\" with him.",
+          "url": "https://www.france24.com/en/asia-pacific/20261124-china-to-launch-first-space-mission-with-a-foreign-astronaut"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "China sentences official to death for spying for foreign country",
+          "summary": "Accused official leaked national secrets to unnamed country and received payments worth over $150,000, state-linked publisher says A Chinese official has been sentenced to death for spying for a foreign country, a government-linked publisher has said. Gold Wall Press, a publishing company associated with China’s national administration of state secrets protection, said the convicted person was surnamed Ma and was approached and recruited by an unnamed foreign intelligence service while working abroad. Continue read",
+          "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets"
+        },
+        {
+          "outlet": "Channel NewsAsia",
+          "lean": "中",
+          "title": "China sentences official to death for spying: Report",
+          "summary": "",
+          "url": "https://www.channelnewsasia.com/east-asia/china-sentences-official-death-spying-report-6577496"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Major Japanese firms still rely heavily on China revenue amid Beijing-Tokyo rift: report",
+          "summary": "Japanese companies continue to have significant exposure to the Chinese market, with some major manufacturers deriving more than one-third of their revenue from the mainland, even as diplomatic tensions between Beijing and Tokyo raise concerns over their business prospects. A recent report by Goldman Sachs showed that China remained an important market for several Japanese manufacturers, although their exposure varied significantly across industries. The latest report, published on November 18,...",
+          "url": "https://www.scmp.com/business/china-business/article/3375430/major-japanese-firms-still-rely-heavily-china-revenue-amid-beijing-tokyo-rift-report"
+        }
+      ],
+      "_score": 63.92
+    },
+    {
+      "id": "P3",
+      "category": "政治",
+      "title": "特朗普涉英伟达股票获利与亚洲科技股上涨",
+      "facts": [
+        "卫报称特朗普在黄仁勋回归后从其英伟达持股中获利至多1500万美元。",
+        "CNBC报道亚洲英伟达相关股票跳涨，台湾股市接近涨停。",
+        "法国24称参议院民主党领袖舒默誓言调查潜在不当行为。"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "强调特朗普持股获利至多1500万美元。",
+          "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "聚焦亚洲英伟达相关股跳涨与台湾接近涨停。",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html"
+        },
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "突出舒默调查誓言与国家安全担忧。",
+          "url": "https://www.france24.com/en/trump-backs-nvidia-boss-s-return-but-top-democrat-vows-probe"
+        },
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "引述特朗普称致电董事会并“说服”他们。",
+          "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+        }
+      ],
+      "framing": "卫报突出特朗普个人获利，CNBC聚焦市场反应，法国24与TechCrunch侧重政治介入方式，角度差异明显。",
+      "items": [
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Trump made up to $15m on Nvidia stock after Huang’s return",
+          "summary": "Asia-Pacific stock markets rise after US president says he ‘convinced’ chipmaker’s board to reinstate CEO Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates Donald Trump made up to $15m (£11.5m) on his holdings of Nvidia stock after the US chipmaker’s share price soared on the surprise return of Jensen Huang as chief executive . Huang, who co-founded the company in 1993, was ousted by the board after allegations that he had three affairs, including one with a suspec",
+          "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+          "summary": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board.",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "Trump backs Nvidia boss's return but top Democrat vows probe",
+          "summary": "US President Donald Trump praised Nvidia's decision Monday to reinstate Jensen Huang as chief executive, as top Senate Democrat Chuck Schumer vowed to investigate potential wrongdoing amid mounting national security concerns. Trump also posted a doctored version of the famous photograph of him raising his fist after surviving a 2024 assassination attempt, replacing himself with Huang, who brandished a red bra beneath an Nvidia flag. FRANCE 24's Fraser Jackson reports from Washington.",
+          "url": "https://www.france24.com/en/trump-backs-nvidia-boss-s-return-but-top-democrat-vows-probe"
+        },
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+          "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+          "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+        }
+      ],
+      "_score": 63.85
+    },
+    {
+      "id": "P4",
+      "category": "政治",
+      "title": "乌克兰称在利比亚附近击沉俄军舰",
+      "facts": [
+        "乌克兰安全部门称从母船发射七架无人机，击沉俄方护卫舰“水星”号。",
+        "袭击发生在周日利比亚班加西港附近，涉及两艘俄罗斯船只。",
+        "波兰情报部长警告，即使乌克兰实现和平，俄对欧洲的混合战也可能持续。"
+      ],
+      "sources": [
+        {
+          "name": "Politico",
+          "lean": "中",
+          "angle": "聚焦波兰警告和平不会终止俄式破坏。",
+          "url": "https://www.politico.eu/article/ukraine-peace-wont-end-russian-sabotage-in-europe-poland-warns/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "详述七架无人机从母船发射并击沉军舰。",
+          "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
+        },
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "强调这是俄乌战争的又一外溢事件。",
+          "url": "https://www.france24.com/en/ukraine-claims-it-sank-russian-warship-off-libya"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "突出泽连斯基称俄军舰被击沉、货船被击中。",
+          "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "卫报、法国24与BBC均报道乌方说法，波兰警告提供另一视角，整体角度接近。",
+      "items": [
+        {
+          "outlet": "Politico",
+          "lean": "中",
+          "title": "Peace in Ukraine won’t end Russian sabotage in Europe, Poland warns",
+          "summary": "Poland’s intelligence minister says Moscow's hybrid campaign against Europe could persist whether the war goes Russia’s way or not.",
+          "url": "https://www.politico.eu/article/ukraine-peace-wont-end-russian-sabotage-in-europe-poland-warns/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+          "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s newest vessels. Ukraine’s security service, the SBU, said seven domestically made naval drones were launched from a mothership in the operation, which Volodymyr Zelenskyy described as “exemplary”. Continue reading...",
+          "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "Ukraine claims it sank Russian warship off Libya",
+          "summary": "Ukraine on Monday claimed it was behind strikes on two Russian vessels off Libya, including one that sank a modern warship, in the latest spillover from Moscow's invasion. The attacks on Sunday near the Libyan port of Benghazi come at a time when Ukraine has stepped up its daring strikes against Russia far from the frontlines in retaliation for Moscow's deadly invasion. FRANCE 24's Gulliver Cragg reports from Kyiv.",
+          "url": "https://www.france24.com/en/ukraine-claims-it-sank-russian-warship-off-libya"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Ukraine shares video of strikes on Russian ships off Libya",
+          "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
+          "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 62.94
+    },
+    {
+      "id": "E1",
+      "category": "经济",
+      "title": "港股回吐涨幅而黄仁勋回归仍存AI疑虑",
+      "facts": [
+        "恒生指数周二下跌0.7%至22219.65点，回吐黄仁勋回归带来的涨幅。",
+        "南华早报称回归未能消散人工智能行业面临的逆风。",
+        "耶路撒冷邮报报道以色列总统赫尔佐格与总理内塔尼亚胡称赞黄仁勋回归。"
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "强调港股因AI疑虑回吐涨幅。",
+          "url": "https://www.scmp.com/business/china-business/article/3375538/hong-kong-stocks-surge-jensen-huangs-surprising-comeback-revives-ai-trade"
+        },
+        {
+          "name": "The Verge",
+          "lean": "中左",
+          "angle": "追问黄仁勋回归后英伟达走向。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+        },
+        {
+          "name": "The Jerusalem Post",
+          "lean": "中右",
+          "angle": "突出以色列领导人称其回归有“巨大价值”。",
+          "url": "https://www.jpost.com/business-and-innovation/article-915893"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "引述Jim Cramer看好英伟达股价上行空间。",
+          "url": "https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html"
+        }
+      ],
+      "framing": "南华早报聚焦港股回吐，Verge追问后续，耶路撒冷邮报与CNBC分别呈现以色列政界与市场人士的正面评价。",
+      "items": [
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Hong Kong stocks erase gains as Jensen Huang’s CEO comeback is offset by AI jitters",
+          "summary": "Hong Kong stocks fell on Tuesday, reversing the gains spurred by the return of Jensen Huang to Nvidia, as the reinstatement fell short of dissipating headwinds for the artificial-intelligence industry. The Hang Seng Index dropped 0.7 per cent to 22,219.65 at the close, and the Hang Seng Tech Index slid 1.2 per cent. Chinese mainland-listed stocks edged up, with the CSI 300 Index rising 0.1 per cent. The chip-heavy Star 50 index climbed nearly 2 per cent and the ChiNext 50 gauge of key makers of...",
+          "url": "https://www.scmp.com/business/china-business/article/3375538/hong-kong-stocks-surge-jensen-huangs-surprising-comeback-revives-ai-trade"
+        },
+        {
+          "outlet": "The Verge",
+          "lean": "中左",
+          "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+          "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended […]",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+        },
+        {
+          "outlet": "The Jerusalem Post",
+          "lean": "中右",
+          "title": "'Enormous value for Israel': Herzog, Netanyahu laud Jensen Huang's reinstatement as Nvidia's CEO",
+          "summary": "In his statement, Herzog wished Huang success going forward, and said that he hoped the two could meet soon either in Israel or abroad.",
+          "url": "https://www.jpost.com/business-and-innovation/article-915893"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
+          "summary": "CNBC's Jim Cramer said Jensen Huang's return as Nvidia CEO could help revive the chipmaker's battered stock.",
+          "url": "https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html"
+        }
+      ],
+      "_score": 68.73
+    },
+    {
+      "id": "E2",
+      "category": "经济",
+      "title": "黄仁勋回归英伟达背后的游说与反弹",
+      "facts": [
+        "黄仁勋周一回到英伟达总部时受到英雄式欢迎，并称将做更好的CEO。",
+        "亚洲新闻台称其回归令公司最资深高管也感到意外。",
+        "美国商务部将新加坡云计算公司Megaspeed列入贸易黑名单。"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "以视频报道黄仁勋称将做更好的CEO。",
+          "url": "https://www.theguardian.com/technology/video/2026/nov/24/jensen-huang-rejoins-nvidia-after-trump-intervention-video"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "lean": "中",
+          "angle": "揭秘游说特朗普的“作战室”。",
+          "url": "https://www.channelnewsasia.com/world/jensen-huang-nvidia-affair-donald-trump-6577351"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "突出特朗普称“说服”英伟达后面临反弹。",
+          "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "报道Megaspeed被列入贸易黑名单。",
+          "url": "https://www.scmp.com/tech/tech-war/article/3375556/us-places-megaspeed-blacklist-jensen-huang-returns-helm-nvidia"
+        }
+      ],
+      "framing": "卫报与亚洲新闻台侧重回归过程与内部反应，BBC聚焦特朗普引发的反弹，南华早报补充Megaspeed被列黑名单。",
+      "items": [
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "'I'm going to be a better CEO': Jensen Huang rejoins Nvidia after Trump intervention – video",
+          "summary": "Jensen Huang received a hero's welcome during his return to Nvidia’s headquarters on Monday. Hours earlier he’d been reinstated as the CEO of the world’s most valuable chip company, after a whiplash series of events that involved a romantic affair with a suspected Chinese spy, a drastic plummet in the stock market, and an intervention from Donald Trump Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap Jensen Huang reinstated as Nvidia CEO after Trump intervenes Continue reading...",
+          "url": "https://www.theguardian.com/technology/video/2026/nov/24/jensen-huang-rejoins-nvidia-after-trump-intervention-video"
+        },
+        {
+          "outlet": "Channel NewsAsia",
+          "lean": "中",
+          "title": "Inside the ‘war room’ that lobbied Donald Trump to bring back Nvidia’s Jensen Huang",
+          "summary": "The spectacular reinstatement of the chief executive of Nvidia, less than two weeks after he resigned in a scandal over multiple affairs, caught even the company’s most senior executives by surprise.",
+          "url": "https://www.channelnewsasia.com/world/jensen-huang-nvidia-affair-donald-trump-6577351"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+          "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+          "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "US places Megaspeed on blacklist as Jensen Huang returns to helm of Nvidia",
+          "summary": "The US Department of Commerce has added Megaspeed, the Singapore-based cloud computing firm at the centre of the ongoing Nvidia saga, to its trade blacklist, hours after the chip giant reinstated co-founder Jensen Huang as CEO following his abrupt departure 11 days prior. In a filing released on Monday, the department’s Bureau of Industry and Security placed Megaspeed International and six other entities in Southeast Asia – widely regarded as Megaspeed’s affiliates – on its Entity List. The...",
+          "url": "https://www.scmp.com/tech/tech-war/article/3375556/us-places-megaspeed-blacklist-jensen-huang-returns-helm-nvidia"
+        }
+      ],
+      "_score": 63.76
+    },
+    {
+      "id": "E3",
+      "category": "经济",
+      "title": "美股因黄仁勋回归上涨而财长表态留余地",
+      "facts": [
+        "福克斯商业频道称美国主要股指周一走高，投资者关注英伟达复苏与周三PCE通胀报告。",
+        "南华早报称美国财长贝森特对黄仁勋重返英伟达持开放态度。",
+        "贝森特是在CBS周日节目中软化立场的。"
+      ],
+      "sources": [
+        {
+          "name": "Fox Business",
+          "lean": "右",
+          "angle": "强调主要股指走高与PCE通胀报告。",
+          "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026"
+        },
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "聚焦贝森特为黄仁勋回归留门。",
+          "url": "https://www.scmp.com/tech/tech-war/article/3375427/us-treasury-secretary-leaves-door-open-jensen-huangs-return-nvidia"
+        }
+      ],
+      "framing": "两家来源角度不同：福克斯聚焦股市上涨，南华早报聚焦财长表态；单一来源信息有限。",
+      "items": [
+        {
+          "outlet": "Fox Business",
+          "lean": "右",
+          "title": "Stocks soar on Jensen Huang’s return to Nvidia",
+          "summary": "Major U.S. equity indexes are higher Monday after last week's steep AI sell-off, with investors eyeing Nvidia's recovery and Wednesday's PCE inflation report.",
+          "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "US Treasury Secretary leaves door open for Jensen Huang’s return to Nvidia",
+          "summary": "US Treasury Secretary Scott Bessent has opened the door to former Nvidia CEO Jensen Huang returning to the chipmaker, softening his stance in the latest twist to the company’s leadership turmoil. Speaking with American broadcaster CBS on Sunday, Bessent sidestepped the apparent friction between his earlier call for Nvidia’s board to recruit an external leader and US President Donald Trump’s recent public backing of Huang. “I said they should go to the outside, but he’s on the outside now,”...",
+          "url": "https://www.scmp.com/tech/tech-war/article/3375427/us-treasury-secretary-leaves-door-open-jensen-huangs-return-nvidia"
+        }
+      ],
+      "_score": 40.71
+    },
+    {
+      "id": "E4",
+      "category": "经济",
+      "title": "赛诺菲410亿美元收购美国生物科技公司",
+      "facts": [
+        "法国药企赛诺菲周二同意以410亿美元收购美国生物科技公司Insmed。",
+        "MarketWatch称这是近三年来最大生物科技交易。",
+        "该交易将帮助赛诺菲抵消一款关键药物的专利到期影响。"
+      ],
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "lean": "中",
+          "angle": "突出410亿美元价码与专利到期压力。",
+          "url": "WP-MKTW-0005366539"
+        }
+      ],
+      "framing": "单一来源，MarketWatch聚焦交易金额与专利到期背景。",
+      "items": [
+        {
+          "outlet": "MarketWatch",
+          "lean": "中",
+          "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
+          "summary": "French drugmaker Sanofi on Tuesday agreed to pay $41 billion for U.S. biotech Insmed, a hefty price that will help the pharma giant offset the patent expiration on a key drug.",
+          "url": "WP-MKTW-0005366539"
+        }
+      ],
+      "_score": 27.98
+    },
+    {
+      "id": "F1",
+      "category": "F1",
+      "title": "维斯塔潘与拉塞尔骂战在拉斯维加斯再起",
+      "facts": [
+        "维斯塔潘在拉斯维加斯站夺冠后称拉塞尔“远低于我的水平”。",
+        "前哈斯车队负责人施泰纳警告拉塞尔不要“戳熊”。",
+        "天空体育称这场长期恩怨在2026赛季末重燃，对拉塞尔时机不利。"
+      ],
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "追问恩怨重燃对拉塞尔是否时机不利。",
+          "url": "https://www.skysports.com/f1/news/12433/13615702/max-verstappen-and-george-russell-has-feud-reignited-at-wrong-time-for-mercedes-driver-after-difficult-2026-f1-season"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "引述施泰纳警告不要“戳熊”。",
+          "url": "https://www.motorsport.com/f1/news/guenther-steiner-warns-george-russell-do-not-poke-the-bear-max-verstappen/10877209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "突出维斯塔潘称拉塞尔“远低于我的水平”。",
+          "url": "https://www.theguardian.com/sport/2026/nov/22/max-verstappen-george-russell-las-vegas-gp-formula-one"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "按时间线梳理两人长期 rivalry。",
+          "url": "https://www.formula1.com/en/latest/article/timeline-how-the-verstappen-vs-russell-rivalry-has-unfolded-over-several-years.4Y4Vmh0tOMo60qq4D2uXPN"
+        }
+      ],
+      "framing": "天空体育与Motorsport关注对拉塞尔的影响，卫报突出维斯塔潘的贬低言论，F1官网梳理恩怨时间线，角度接近但侧重不同。",
+      "items": [
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "Has Verstappen feud reignited at wrong time for Russell?",
+          "summary": "The reignition of the long-running feud between George Russell and Max Verstappen has added an entertaining twist to the end of the 2026 Formula 1 season, but it may not be what the Mercedes driver needed at this moment.",
+          "url": "https://www.skysports.com/f1/news/12433/13615702/max-verstappen-and-george-russell-has-feud-reignited-at-wrong-time-for-mercedes-driver-after-difficult-2026-f1-season"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Guenther Steiner warns George Russell: Do not \"poke the bear\" Max Verstappen",
+          "summary": "Former Haas Formula 1 team principal Guenther Steiner has urged Mercedes driver George Russell not to \"poke the bear\" with Max Verstappen, after their war of words at the Las Vegas Grand Prix. Russell hit out at Verstappen after the pair clashed in final practice, saying the Red Bull driver walks around \"like they're bigger and better than everyone else\" and that \"somebody's got to stand up to ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/guenther-steiner-warns-george-russell-do-not-poke-the-bear-max-verstappen/10877209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Max Verstappen says George Russell is ‘so far below my level’ after Vegas win",
+          "summary": "Red Bull driver delighted rival crashed out of grand prix Leclerc and Hamilton relationship is ‘unmanageable’ Max Verstappen escalated his feud with George Russell after a stunning victory at the Las Vegas Grand Prix , stating the British driver was barely worth consideration because he was “so far below my level”. The Dutchman competed with Russell for much of the race in Nevada but it was the Red Bull driver who came out on top and Russell ultimately fell to ninth after he suffered a lock-up late in the race. Con",
+          "url": "https://www.theguardian.com/sport/2026/nov/22/max-verstappen-george-russell-las-vegas-gp-formula-one"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "The timeline of Verstappen and Russell’s long rivalry",
+          "summary": "F1.com charts how tensions first flared – and have since been reignited – between Max Verstappen and George Russell.",
+          "url": "https://www.formula1.com/en/latest/article/timeline-how-the-verstappen-vs-russell-rivalry-has-unfolded-over-several-years.4Y4Vmh0tOMo60qq4D2uXPN"
+        }
+      ],
+      "_score": 73.53
+    },
+    {
+      "id": "F2",
+      "category": "F1",
+      "title": "汉密尔顿与勒克莱尔碰撞引发法拉利内部质疑",
+      "facts": [
+        "拉斯维加斯站勒克莱尔在与汉密尔顿争夺第六名时打转汉密尔顿。",
+        "勒克莱尔承认对法拉利感到“相当尴尬”。",
+        "前哈斯负责人施泰纳预计法拉利董事会将作出反应。"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "以问答探讨汉密尔顿与勒克莱尔组合是否可持续。",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cw30gq2633ljo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "预计法拉利董事会将有所反应。",
+          "url": "https://www.motorsport.com/f1/news/guenther-steiner-expects-ferrari-board-to-react-after-lewis-hamilton-charles-leclerc-clash/10877259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "以新角度视频呈现碰撞瞬间。",
+          "url": "https://www.skysports.com/watch/video/13615583/las-vegas-gp-new-angles-lewis-hamilton-spins-after-contact-with-ferrari-team-mate-charles-leclerc"
+        },
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "引述法拉利称勒克莱尔失误“完全不可接受”。",
+          "url": "https://www.the-race.com/formula-1/ferrari-reaction-unacceptable-f1-driver-clash-las-vegas/"
+        }
+      ],
+      "framing": "BBC以问答形式讨论组合可持续性，Motorsport与The Race聚焦车队反应，天空体育突出碰撞画面，角度接近。",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Is Hamilton and Leclerc's Ferrari partnership sustainable? F1 Q&A",
+          "summary": "BBC F1 correspondent Andrew Benson answers your latest questions after the Las Vegas Grand Prix.",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cw30gq2633ljo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Guenther Steiner expects Ferrari board to react after Lewis Hamilton-Charles Leclerc clash",
+          "summary": "Former Haas Formula 1 team principal Guenther Steiner believes Ferrari will make changes after Lewis Hamilton and Charles Leclerc clashed again at the Las Vegas Grand Prix. Leclerc spun Hamilton around while the pair fought over sixth place around the streets of Las Vegas, only three weeks after another clash at the Mexican Grand Prix. Leclerc was penalised and finished 10th, with Hamilton ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/guenther-steiner-expects-ferrari-board-to-react-after-lewis-hamilton-charles-leclerc-clash/10877259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "NEW ANGLES! Hamilton spins after contact with Ferrari team-mate Leclerc!",
+          "summary": "Watch new angles of the collision between Lewis Hamilton and Ferrari teammate Charles Leclerc at the Las Vegas Grand Prix.",
+          "url": "https://www.skysports.com/watch/video/13615583/las-vegas-gp-new-angles-lewis-hamilton-spins-after-contact-with-ferrari-team-mate-charles-leclerc"
+        },
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "Leclerc mistake 'completely unacceptable' - Ferrari",
+          "summary": "Charles Leclerc admits he \"felt quite embarrassed\" for Ferrari after clashing with F1 team-mate Lewis Hamilton in the Las Vegas GP",
+          "url": "https://www.the-race.com/formula-1/ferrari-reaction-unacceptable-f1-driver-clash-las-vegas/"
+        }
+      ],
+      "_score": 63.8
+    },
+    {
+      "id": "F3",
+      "category": "F1",
+      "title": "维斯塔潘批评拉斯维加斯站超车过多",
+      "facts": [
+        "维斯塔潘从杆位起步赢得第75个分站冠军，也是第三次在拉斯维加斯夺冠。",
+        "维斯塔潘称这场比赛“不是F1”，并批评352次超车不符合他想要的比赛方式。",
+        "F1官网分析称多种因素造就了352次超车的比赛。"
+      ],
+      "sources": [
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "突出维斯塔潘玩笑称上次这样赢是“马里奥赛车”。",
+          "url": "https://www.motorsport.com/f1/news/max-verstappen-the-last-time-i-won-a-race-like-las-vegas-was-on-mario-kart/10877295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "强调维斯塔潘批评超车过多“不是F1”。",
+          "url": "https://www.theguardian.com/sport/2026/nov/23/max-verstappen-red-bull-f1-formula-one-las-vegas-grand-prix"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "分析352次超车背后的成因。",
+          "url": "https://www.formula1.com/en/latest/article/the-ingredients-that-created-a-grand-prix-with-352-overtakes.3IEhw6LQ9NQG9sF0orRKqV"
+        },
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "发布拉斯维加斯站车手排名。",
+          "url": "https://www.the-race.com/formula-1/edd-straws-f1-2026-las-vegas-grand-prix-driver-rankings/"
+        }
+      ],
+      "framing": "Motorsport突出其玩笑，卫报突出批评，F1官网与The Race侧重赛事分析，角度差异明显。",
+      "items": [
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Max Verstappen jokes last time he won a race like F1 Las Vegas GP it was \"Mario Kart\"",
+          "summary": "Four-time Formula 1 champion Max Verstappen says the last time he won a race like the Las Vegas Grand Prix was when he was playing Mario Kart. The Red Bull driver converted pole position into his 75th grand prix win, and his third in Las Vegas, in a race that featured 352 overtakes and 35 lead changes. Asked during the post-race press conference when he had last won a race like it, the ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/max-verstappen-the-last-time-i-won-a-race-like-las-vegas-was-on-mario-kart/10877295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "‘This isn’t F1’: Max Verstappen criticises overtake-heavy Las Vegas Grand Prix",
+          "summary": "Red Bull driver says race ‘isn’t how it should be’ Race in Nevada featured 352 overtakes Max Verstappen has said his outstanding victory at the Las Vegas Grand Prix on Saturday was not really true to the spirit of Formula One and how he wants to race. Verstappen took a remarkable win, defending his lead and retaking it time and time again after it changed hands 35 times in a race dominated by the cars slipstreaming each other. Continue reading...",
+          "url": "https://www.theguardian.com/sport/2026/nov/23/max-verstappen-red-bull-f1-formula-one-las-vegas-grand-prix"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "The ingredients that created a Grand Prix with 352 overtakes",
+          "summary": "Michael Lamonato dissects the circumstances behind a record-breaking Las Vegas Grand Prix.",
+          "url": "https://www.formula1.com/en/latest/article/the-ingredients-that-created-a-grand-prix-with-352-overtakes.3IEhw6LQ9NQG9sF0orRKqV"
+        },
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "Edd Straw's F1 2026 Las Vegas Grand Prix driver rankings",
+          "summary": "Who actually did the best (and worst) job in Formula 1’s wild overtaking-fest Las Vegas Grand Prix?",
+          "url": "https://www.the-race.com/formula-1/edd-straws-f1-2026-las-vegas-grand-prix-driver-rankings/"
+        }
+      ],
+      "_score": 63.78
+    },
+    {
+      "id": "F4",
+      "category": "F1",
+      "title": "哈斯确认卡马拉完成F1赛季最后两站",
+      "facts": [
+        "巴西车手拉斐尔·卡马拉将继续代表哈斯参加F1赛季最后两场大奖赛。",
+        "这意味着他将放弃争夺F2年度冠军的机会。",
+        "卡马拉已于10月被确认为2027年全职接替奥康的车手。"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "简讯确认卡马拉将参加最后两站。",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cwe9k29y7z44o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "强调此举终结其2026年F2争冠。",
+          "url": "https://www.motorsport.com/f1/news/rafael-camara-gives-up-f2-title-chance-to-finish-2026-f1-season-with-haas/10877028/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "称其“牺牲”F2冠军机会。",
+          "url": "https://www.the-race.com/formula-1/camara-to-complete-f1-season-with-haas-sacrificing-f2-title-shot/"
+        },
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "突出为完成F1赛季而放弃F2争冠。",
+          "url": "https://www.skysports.com/f1/news/12433/13615376/rafael-camara-haas-confirm-brazilian-will-race-in-final-two-rounds-of-f1-season-rather-than-chase-f2-championship"
+        }
+      ],
+      "framing": "四家来源角度接近，均聚焦卡马拉为F1席位牺牲F2争冠。",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Camara to continue with Haas for final two races",
+          "summary": "Brazilian Rafael Camara will continue to race for the Haas team for the final two grands prix of the Formula 1 season.",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cwe9k29y7z44o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Haas keeps Rafael Camara in F1, ending his 2026 F2 title bid",
+          "summary": "Haas rookie Rafael Camara will see out the season with Haas in Qatar and Abu Dhabi, effectively ending his F2 championship challenge. Camara was confirmed in October as a full-time replacement for Esteban Ocon in 2027, and was fast-tracked into the seat after Ocon's relationship with the US-owned team deteriorated. After test driver Ryo Hirakawa took over Ocon's car midway through the ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/rafael-camara-gives-up-f2-title-chance-to-finish-2026-f1-season-with-haas/10877028/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "Camara to complete F1 season with Haas, sacrificing F2 title shot",
+          "summary": "Rafael Camara will complete the 2026 Formula 1 season with Haas, effectively sacrificing his Formula 2 championship shot",
+          "url": "https://www.the-race.com/formula-1/camara-to-complete-f1-season-with-haas-sacrificing-f2-title-shot/"
+        },
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "Camara to sacrifice F2 title bid to finish F1 season with Haas",
+          "summary": "Haas have confirmed Rafael Camara will continue to feature for the team in the final two Formula 1 races of the season, rather than challenge for the Formula 2 championship.",
+          "url": "https://www.skysports.com/f1/news/12433/13615376/rafael-camara-haas-confirm-brazilian-will-race-in-final-two-rounds-of-f1-season-rather-than-chase-f2-championship"
+        }
+      ],
+      "_score": 57.75
+    },
+    {
+      "id": "A1",
+      "category": "AI",
+      "title": "黄仁勋回归引发AI板块与政治双重反应",
+      "facts": [
+        "南华早报称黄仁勋在辞职11天后回归，特朗普称“我做了这笔交易”。",
+        "卫报称英伟达盘前下跌，因共和党与民主党均反对特朗普介入。",
+        "CNBC引述分析师称黄仁勋“大到不能解雇”，公司治理受关注。"
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "称中国股市错过黄仁勋回归引发的AI反弹。",
+          "url": "https://www.scmp.com/plus/tech/tech-war/article/3375612/china-stocks-miss-out-huangs-nvidia-return-sparks-ai-rally"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "突出两党对特朗普介入的反对与盘前下跌。",
+          "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates"
+        },
+        {
+          "name": "New York Post",
+          "lean": "右",
+          "angle": "引述特朗普称“公众已经发声”并淡化安全担忧。",
+          "url": "https://nypost.com/2026/11/24/us-news/trump-shrugs-off-gop-concerns-that-jensen-huang-is-a-national-security-risk-hails-his-return-as-nvidia-ceo-the-public-has-spoken/"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "聚焦“大到不能解雇”与公司治理。",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html"
+        }
+      ],
+      "framing": "南华早报聚焦中国股市错过AI反弹，卫报与纽约邮报呈现政治对立，CNBC转向治理分析，角度差异大。",
+      "items": [
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "China stocks miss out as Huang’s Nvidia return sparks AI rally",
+          "summary": "Jensen Huang returned to Nvidia 11 days after stepping down as chief executive officer amid a sex and spying scandal, aided by US President Donald Trump lobbying the chipmaker’s board. “I made the deal,” Trump said on Monday in an interview with broadcaster CNBC. Chinese President Xi Jinping is “probably not thrilled at the news” of Huang’s return, Trump said, adding that China could have tried to hire the 63-year-old CEO had he not rejoined Nvidia. Shares of Nvidia surged 32 per cent on Huang’s...",
+          "url": "https://www.scmp.com/plus/tech/tech-war/article/3375612/china-stocks-miss-out-huangs-nvidia-return-sparks-ai-rally"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
+          "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Jensen Huang’s return to Nvidia, despite concerns over his conduct and the supply of AI chips to China, may show that AI – and Huang himself – are ‘too big to fail’. That phrase was on everyone’s lips almost 20 years ago when the Global Financial Crisis struck, and several major banks were bailed out. Give",
+          "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates"
+        },
+        {
+          "outlet": "New York Post",
+          "lean": "右",
+          "title": "Trump shrugs off GOP concerns that Jensen Huang is a national security risk, hails his return as Nvidia CEO: ‘The public has spoken’",
+          "summary": "President Trump brushed aside concerns made by a number of Republican lawmakers that Nvidia CEO Jensen Huang poses a national security risk – as he celebrated how the exec’s dramatic comeback sent company stocks surging.",
+          "url": "https://nypost.com/2026/11/24/us-news/trump-shrugs-off-gop-concerns-that-jensen-huang-is-a-national-security-risk-hails-his-return-as-nvidia-ceo-the-public-has-spoken/"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+          "summary": "Jensen Huang’s return has underscored Nvidia’s deep reliance on its founder, putting the company's board oversight and corporate governance under scrutiny.",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html"
+        }
+      ],
+      "_score": 69.98
+    },
+    {
+      "id": "A2",
+      "category": "AI",
+      "title": "黄仁勋回归英伟达总部获欢呼与掌声",
+      "facts": [
+        "BBC报道黄仁勋回到英伟达总部时现场欢呼与鼓掌。",
+        "卫报称其回归巩固了关键AI人物地位，白宫则庆祝胜利。",
+        "南华早报称凯西·伍德因担忧领导层而减持逾1.07亿美元英伟达股票，错过31%反弹。"
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "提出董事会反转与特朗普介入等六大问题。",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "称英伟达欢庆“第二次降临”而白宫庆祝胜利。",
+          "url": "https://www.theguardian.com/technology/2026/nov/23/nvidia-jensen-huang-return-ceo"
+        },
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "报道凯西·伍德减持后错过31%反弹。",
+          "url": "https://www.scmp.com/business/china-business/article/3375569/cathie-woods-nvidia-bet-misses-32-rally-jensen-huangs-return"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "从总部现场报道欢呼与掌声。",
+          "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "BBC与卫报侧重现场氛围与白宫反应，CNBC提出六大疑问，南华早报聚焦投资者错失反弹，角度分散。",
+      "items": [
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+          "summary": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap",
+          "summary": "Huang receives hero’s welcome at firm’s Silicon Valley headquarters as return cements role as key AI figure Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates Jensen Huang made his return to Nvidia’s headquarters with a hero’s welcome on Monday. Hours earlier he’d been reinstated as the CEO of the world’s most valuable chip company, following a whiplash series of events that involved a romantic affair with a suspected Chinese spy, a drastic plummet in the stock mark",
+          "url": "https://www.theguardian.com/technology/2026/nov/23/nvidia-jensen-huang-return-ceo"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Cathie Wood’s Nvidia bet misses the 31% rally on Jensen Huang’s return",
+          "summary": "Cathie Wood’s decision to dump almost US$107 million worth of Nvidia shares over fears about the company’s leadership with Jensen Huang’s departure has backfired, after the chipmaker’s decision to reinstate Huang sent shares to their biggest single-day rally in years. Ark Investment Management, the asset manager founded by Wood, sold a combined 712,282 Nvidia shares between November 16 and November 20 through its managed exchange-traded funds, according to its daily trading disclosures. The...",
+          "url": "https://www.scmp.com/business/china-business/article/3375569/cathie-woods-nvidia-bet-misses-32-rally-jensen-huangs-return"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
+          "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+          "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 63.64
+    },
+    {
+      "id": "A3",
+      "category": "AI",
+      "title": "Anthropic推出Claude Ship自动审查代码",
+      "facts": [
+        "Anthropic推出Claude Ship，允许AI代理审查、修复并批准代码变更。",
+        "该工具旨在应对AI生成代码堆积带来的审批瓶颈。",
+        "工程师此前已可使用Claude部分功能。"
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "强调AI代理处理常规审批以消除瓶颈。",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+        },
+        {
+          "name": "The Verge",
+          "lean": "中左",
+          "angle": "称Claude现在可自行审查拉取请求并提交修复。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+        }
+      ],
+      "framing": "两家来源角度接近，均聚焦Claude可自主审查与修复拉取请求。",
+      "items": [
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+          "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+        },
+        {
+          "outlet": "The Verge",
+          "lean": "中左",
+          "title": "Claude AI can review pull requests and ship fixes on its own now",
+          "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was […]",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+        }
+      ],
+      "_score": 42.13
+    },
+    {
+      "id": "A4",
+      "category": "AI",
+      "title": "俄勒冈与弗吉尼亚就Grok深度伪造起诉SpaceX",
+      "facts": [
+        "俄勒冈与弗吉尼亚两州总检察长周一分別起诉SpaceX。",
+        "诉讼指控SpaceX忽视行业安全标准并虚假宣传Grok安全性。",
+        "两州寻求民事罚款与禁令，阻止Grok和X生成及传播非自愿性化图像。"
+      ],
+      "sources": [
+        {
+          "name": "The Verge",
+          "lean": "中左",
+          "angle": "详述两州指控其违反消费者保护法。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "强调两州寻求民事罚款与禁令。",
+          "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html"
+        }
+      ],
+      "framing": "两家来源角度接近，均聚焦州级诉讼与Grok深度伪造 porn 安全指控。",
+      "items": [
+        {
+          "outlet": "The Verge",
+          "lean": "中左",
+          "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+          "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses Musk of willfully […]",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+          "summary": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
+          "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html"
+        }
+      ],
+      "_score": 41.52
+    }
+  ],
+  "stats": {
+    "feeds_ok": 42,
+    "feeds_failed": 2,
+    "items": 361,
+    "clusters": 239,
+    "stories": 16,
+    "feeds_total": 44,
+    "errors": 2,
+    "elapsed_sec": 3.5
+  },
+  "errors": [
+    {
+      "source": "Arab News",
+      "feed": "arabnews",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "VentureBeat",
+      "feed": "venturebeat-ai",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "warnings": [
+    "经济 单一来源条目：E4"
+  ],
+  "llm_used": true,
+  "llm_provider": "deepseek",
+  "lede": "今天四条线都围绕同一位企业高管展开：黄仁勋重返英伟达既牵动华盛顿政治博弈与市场涨跌，也外溢到亚洲股市和AI板块；与此同时，中国航天与反间谍案、乌克兰无人机战果、F1维斯塔潘与拉塞尔的骂战同样呈现多方叙事拉扯。",
+  "takeaways": [
+    "黄仁勋回归已从公司治理事件升级为政治与国家安全议题，特朗普的介入让争议更难收场。",
+    "市场对回归反应分化：美股与亚洲相关股上涨，港股却因AI疑虑回吐涨幅，说明情绪并不稳固。",
+    "F1两条主线都是队内或车手间冲突，拉斯维加斯站的高超车数反而放大了对赛事质量的质疑。",
+    "中国航天与反间谍案并列出现，显示对外合作与安全审查两条叙事线同时推进。"
+  ]
+}
