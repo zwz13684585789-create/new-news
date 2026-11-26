@@ -1,0 +1,990 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T07:44:35+00:00",
+  "stories": [
+    {
+      "id": "P1",
+      "category": "政治",
+      "title": "巴西称美国新关税威胁不可接受，中国批其毫无依据",
+      "facts": [
+        "美国周三公布对包括欧盟和中国在内的14个经济体拟议关税，此前进行了数月调查。",
+        "巴西表示不会屈服于美国新关税威胁，目标是寻求谈判解决。",
+        "中国谴责新关税为政治操弄，巴西对糖和飞机拟议关税表示愤慨。"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "突出巴西称关税威胁不可接受，中国批其毫无依据。",
+          "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat"
+        },
+        {
+          "name": "New York Post",
+          "lean": "右",
+          "angle": "聚焦El-Sayed在感恩节团结致辞中批评特朗普。",
+          "url": "https://nypost.com/2026/11/25/us-news/abdul-el-sayed-rips-trump-in-thanksgiving-message-about-unity/"
+        },
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "引述专家称特朗普“无差别攻击”，关注14个经济体。",
+          "url": "https://www.france24.com/en/tv-shows/a-propos/20261125-new-us-tariffs-trump-lashing-out-really-indiscriminately-expert-says"
+        },
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "强调巴西总统办公室称不会屈服，寻求谈判解决。",
+          "url": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss"
+        }
+      ],
+      "framing": "各来源均聚焦美国关税提案，但侧重点不同： Guardian与Al Jazeera突出巴西的强硬回应，France 24引述专家批评“无差别攻击”，New York Post则转向国内政治人物言论。",
+      "items": [
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+          "summary": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including China and EU Brazil has said it will not bend to the new US tariff “threat” and China accused Washington of “political manipulation” in the wake of Donald Trump’s latest economic salvo against 14 major trading partners. Brazil’s government said on Wednesday: “Brazil will not yield to this type of threat”, adding in its statement that the",
+          "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat"
+        },
+        {
+          "outlet": "New York Post",
+          "lean": "右",
+          "title": "Abdul El-Sayed rips Trump — in Thanksgiving message about unity",
+          "summary": "“You know, Donald Trump has one neat trick. It's the ability to tear us apart, to become the subject of every conversation, and to force us to take sides.”",
+          "url": "https://nypost.com/2026/11/25/us-news/abdul-el-sayed-rips-trump-in-thanksgiving-message-about-unity/"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "New US tariffs: 'Trump lashing out really indiscriminately', expert says",
+          "summary": "The United States on Wednesday unveiled proposed tariffs on 14 economies including the European Union and China, after a months-long probe into alleged excess production. Speaking with FRANCE 24's Sharon Gaffney, Dean Baker, Senior Economist at the Centre for Economic and Policy Research, says that \"there has to be some mechanism for better coordinating China's involvement in the world trade system and ideally the US, the EU, Canada would have a common front, some clear ground rules that we could agree to, that Chi",
+          "url": "https://www.france24.com/en/tv-shows/a-propos/20261125-new-us-tariffs-trump-lashing-out-really-indiscriminately-expert-says"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "Brazil blasts ‘unacceptable’ new US tariff proposals",
+          "summary": "President Lula’s office says Brazil will not yield to threats and aims for a negotiated resolution.",
+          "url": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss"
+        }
+      ],
+      "_score": 69.74
+    },
+    {
+      "id": "P2",
+      "category": "政治",
+      "title": "特朗普与北约秘书长敦促俄罗斯勿扩大乌克兰战争",
+      "facts": [
+        "特朗普与北约秘书长吕特在佛罗里达会谈后发表联合声明，敦促俄罗斯避免扩大乌克兰战争。",
+        "双方呼吁迅速解决冲突，声明由白宫发布，称会谈“出色”且“非常有影响力”。",
+        "欧盟领导人周四将在布鲁塞尔就向乌克兰提供450亿欧元贷款提案展开讨论。"
+      ],
+      "sources": [
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "直播报道特朗普与北约秘书长呼吁莫斯科勿扩大战争。",
+          "url": "https://www.france24.com/en/europe/20261126-live-eu-leaders-face-showdown-over-ukraine-funding-as-divisions-deepen"
+        },
+        {
+          "name": "New York Post",
+          "lean": "右",
+          "angle": "强调会谈“出色”，引述白宫联合声明。",
+          "url": "https://nypost.com/2026/11/26/us-news/russia-must-avoid-any-actions-expanding-war-in-ukraine-trump-nato-chief-say-after-mar-a-lago-meeting/"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "报道英国投资950万英镑助乌克兰重建风电场。",
+          "url": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "lean": "中",
+          "angle": "简洁报道特朗普与北约秘书长敦促俄避免扩大战争。",
+          "url": "https://www.channelnewsasia.com/world/trump-and-nato-chief-urge-russia-avoid-actions-widen-ukraine-war-6584126"
+        }
+      ],
+      "framing": "多数来源聚焦特朗普与吕特的联合呼吁，France 24另提欧盟贷款分歧，Guardian则单独报道英国对乌能源投资，角度差异明显。",
+      "items": [
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "Live: Trump, NATO chief urge Moscow to not 'expand' Ukraine war",
+          "summary": "US President Donald Trump and NATO chief Mark Rutte urged Russia not to escalate its war with Ukraine, calling for swift resolution after talks in Florida on Wednesday. EU leaders are set to clash in Brussels on Thursday over a proposed €45 billion loan to fund Ukraine in 2027, with Germany pressing members to contribute and others seeking exemption. Follow our liveblog for all the latest updates.",
+          "url": "https://www.france24.com/en/europe/20261126-live-eu-leaders-face-showdown-over-ukraine-funding-as-divisions-deepen"
+        },
+        {
+          "outlet": "New York Post",
+          "lean": "右",
+          "title": "Russia must avoid ‘any actions’ expanding war in Ukraine — Trump, NATO chief say after Mar-a-Lago meeting",
+          "summary": "The meeting was \"outstanding\" and “very impactful,” Trump and Rutte said in a joint statement released by the White House.",
+          "url": "https://nypost.com/2026/11/26/us-news/russia-must-avoid-any-actions-expanding-war-in-ukraine-trump-nato-chief-say-after-mar-a-lago-meeting/"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "UK to invest £9.5m in Ukraine windfarm to bolster war-hit energy system",
+          "summary": "Project capable of powering 300,000 homes, with Britain having offered more than £770m to rebuild energy sector Britain will add to its multimillion pound investments in rebuilding Ukraine’s energy system by funding a windfarm project capable of powering 300,000 Ukrainian households. Ed Miliband, the UK foreign secretary, said Britain would invest £9.5m to build a 200 megawatt windfarm in an undisclosed location to bolster Ukraine’s energy reserves as its war with Russia approaches the five-year mark. Continue read",
+          "url": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system"
+        },
+        {
+          "outlet": "Channel NewsAsia",
+          "lean": "中",
+          "title": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war",
+          "summary": "",
+          "url": "https://www.channelnewsasia.com/world/trump-and-nato-chief-urge-russia-avoid-actions-widen-ukraine-war-6584126"
+        }
+      ],
+      "_score": 69.67
+    },
+    {
+      "id": "P3",
+      "category": "政治",
+      "title": "金正恩要求扩大战术核武器部署，朝鲜驱逐瑞士外交官",
+      "facts": [
+        "金正恩在视察核材料生产与武器研究设施时称，朝鲜核国家地位“绝对不可侵犯”。",
+        "金正恩警告，否认朝鲜核地位将被视为“公开宣战”，并要求扩大战术核武器部署。",
+        "朝鲜在制裁争端中驱逐瑞士外交官，瑞士称将通过驻伯尔尼和北京使馆保持关系。"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "突出金正恩称否认核地位即“公开宣战”。",
+          "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss"
+        },
+        {
+          "name": "The Jerusalem Post",
+          "lean": "中右",
+          "angle": "强调金正恩视察设施时称核地位“绝对不可侵犯”。",
+          "url": "https://www.jpost.com/international/article-916163"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "报道朝鲜在制裁争端中驱逐瑞士外交官。",
+          "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "lean": "中",
+          "angle": "探讨朝鲜是否暂缓向俄罗斯增派 troops。",
+          "url": "https://www.dw.com/en/is-north-korea-holding-back-on-sending-russia-more-troops/a-80033025?maca=en-rss-en-world-4025-rdf"
+        }
+      ],
+      "framing": "各来源分别聚焦核部署、外交驱逐与对俄派兵问题，角度分散，无两家来源对同一事件做相近展开。",
+      "items": [
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+          "summary": "North Korean leader warns attempts to deny country's nuclear status will be seen as \"an open declaration of war\".",
+          "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss"
+        },
+        {
+          "outlet": "The Jerusalem Post",
+          "lean": "中右",
+          "title": "North Korea's Kim calls for wider deployment of tactical nuclear weapons",
+          "summary": "Kim, who spoke during an inspection of nuclear material production and weapons research facilities, also said North Korea's status as a nuclear weapons state was \"absolutely inviolable.\"",
+          "url": "https://www.jpost.com/international/article-916163"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "North Korea expels Swiss diplomat in sanctions row",
+          "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+          "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Deutsche Welle",
+          "lean": "中",
+          "title": "Is North Korea holding back on sending Russia more troops?",
+          "summary": "A North Korean troop buildup Ukraine warned about months ago has yet to materialize, even as strategic cooperation continues. Analysts say Pyongyang is balancing its ties with Moscow and Beijing.",
+          "url": "https://www.dw.com/en/is-north-korea-holding-back-on-sending-russia-more-troops/a-80033025?maca=en-rss-en-world-4025-rdf"
+        }
+      ],
+      "_score": 69.05
+    },
+    {
+      "id": "P4",
+      "category": "政治",
+      "title": "以色列法官建议检方撤销内塔尼亚胡腐败案部分指控",
+      "facts": [
+        "以色列法官裁定，本雅明·内塔尼亚胡腐败案中一项指控定罪前景渺茫。",
+        "法官建议检方撤销三起案件中的一起，涉及贿赂指控，内塔尼亚胡称审判应结束。",
+        "内塔尼亚胡称其审判应终止，法官建议对其辩护方构成重大提振。"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "称法官裁定内塔尼亚胡定罪前景渺茫，建议结束腐败案。",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss"
+        },
+        {
+          "name": "The Jerusalem Post",
+          "lean": "中右",
+          "angle": "以解释性报道梳理三起刑案指控与法官建议。",
+          "url": "https://www.jpost.com/israel-news/article-916160"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "强调法官建议撤销最严重指控，内塔尼亚胡称审判应结束。",
+          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "称法官质疑腐败审判指控，对内塔尼亚胡构成提振。",
+          "url": "https://www.france24.com/en/in-boost-for-netanyahu-judges-question-corruption-trial-charges"
+        }
+      ],
+      "framing": "各来源均报道法官建议，但BBC与France 24强调对内塔尼亚胡的提振，Al Jazeera称建议结束腐败案，Jerusalem Post以解释性报道梳理三案指控。",
+      "items": [
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "Judges recommend prosecutors end corruption case against Netanyahu",
+          "summary": "Israeli judges have ruled there is little prospect Benjamin Netanyahu will be convicted of corruption.",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss"
+        },
+        {
+          "outlet": "The Jerusalem Post",
+          "lean": "中右",
+          "title": "What are the criminal cases against Netanyahu now coming into question? - explainer",
+          "summary": "What are the allegations involved in the three criminal cases against Prime Minister Benjamin Netanyahu, and what have the judges recommended?",
+          "url": "https://www.jpost.com/israel-news/article-916160"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+          "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "In boost for Netanyahu, judges question corruption trial charges",
+          "summary": "Judges in the long-running corruption trial of Israeli caretaker Prime Minister Benjamin Netanyahu handed his defence a major boost on Wednesday in recommending the prosecution drop one of the cases in which he is accused of bribery. The recommendations, which came as Israel's longest-serving prime minister fights for his political survival, were immediately cheered by Netanyahu's right-wing allies who demanded the trial be brought to an end. FRANCE 24's Noga Tarnopolsky reports from Jerusalem.",
+          "url": "https://www.france24.com/en/in-boost-for-netanyahu-judges-question-corruption-trial-charges"
+        }
+      ],
+      "_score": 68.9
+    },
+    {
+      "id": "E1",
+      "category": "经济",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "facts": [
+        "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
+      ],
+      "sources": [
+        {
+          "name": "NPR",
+          "lean": "中左",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping"
+        },
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.theguardian.com/money/2026/nov/25/half-price-only-two-left-how-to-resist-the-bargains-you-just-dont-need-this-black-friday-and-beyond"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html"
+        }
+      ],
+      "framing": "4 家来源 · 中 / 中左 / 左",
+      "items": [
+        {
+          "outlet": "NPR",
+          "lean": "中左",
+          "title": "What to know before using AI agents for Black Friday shopping",
+          "summary": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping"
+        },
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+          "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+          "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "‘Half price!’ ‘Only two left!’ How to resist the bargains you just don’t need – this Black Friday and beyond",
+          "summary": "Everywhere you look, there’s another unrepeatable deal at an unmissable price. What’s on offer will make you happier, smarter and sexier. Except, of course, it won’t. Let us help you ignore the ‘consumption noise’ The other morning a parcel arrived and I was momentarily mystified by its contents. Peering at what appeared to be a shiny maroon and pink cushion cover, the penny eventually dropped. It was the fancy “Sweat Bag” I had bought on impulse when it popped up on Instagram after a particularly trying day. The b",
+          "url": "https://www.theguardian.com/money/2026/nov/25/half-price-only-two-left-how-to-resist-the-bargains-you-just-dont-need-this-black-friday-and-beyond"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+          "summary": "Meta doesn't serve ads in its Muse personal agent, but the tool is already boosting the company's ad business, a senior executive told CNBC.",
+          "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html"
+        }
+      ],
+      "_score": 61.02
+    },
+    {
+      "id": "E2",
+      "category": "经济",
+      "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
+      "facts": [
+        "Based on where retail investors bought Nvidia shares on the dip last week, their gains are now nearly all gone, according to Vanda Research."
+      ],
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "WP-MKTW-0005369228"
+        },
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.scmp.com/tech/big-tech/article/3375795/nvidias-jensen-huang-back-will-he-still-be-regular-visitor-china"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html"
+        },
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
+        }
+      ],
+      "framing": "5 家来源 · 中",
+      "items": [
+        {
+          "outlet": "MarketWatch",
+          "lean": "中",
+          "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
+          "summary": "Based on where retail investors bought Nvidia shares on the dip last week, their gains are now nearly all gone, according to Vanda Research.",
+          "url": "WP-MKTW-0005369228"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Nvidia’s Jensen Huang is back – but will he still be a regular visitor to China?",
+          "summary": "While Jensen Huang has reclaimed his seat atop Nvidia, his days as Silicon Valley’s most visible and frequent emissary to China are likely over as the United States tightens its chip export controls, according to analysts. Following the 63-year-old’s brief departure amid internal and congressional probes into his extramarital affairs and China ties, observers are questioning whether Huang can maintain the Beijing-friendly posture that defined his recent tenure. Over the past two years, Huang has...",
+          "url": "https://www.scmp.com/tech/big-tech/article/3375795/nvidias-jensen-huang-back-will-he-still-be-regular-visitor-china"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+          "summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+          "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html"
+        },
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+          "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
+          "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
+        }
+      ],
+      "_score": 56.41
+    },
+    {
+      "id": "E3",
+      "category": "经济",
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "facts": [
+        "The discount chain has fallen into administration after its owners failed to find a buyer."
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers"
+        }
+      ],
+      "framing": "2 家来源 · 中 / 左",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Poundland collapses putting 11,000 jobs at risk",
+          "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Poundland collapses, putting more than 10,000 jobs at risk",
+          "summary": "Budget retail chain expected to be broken up, with store closures, after US owner rejected at least two last-ditch bids Do you work for Poundland? Tell us how you’re affected Poundland has collapsed into administration, putting more than 10,000 jobs at risk in “devastating news” for staff in the run-up to Christmas. Administrators at AlixPartners have been appointed to the retailer, which has 600 stores in the UK and Ireland, by Poundland’s directors. The chain is now expected to be broken up, with significant job ",
+          "url": "https://www.theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers"
+        }
+      ],
+      "_score": 43.99
+    },
+    {
+      "id": "E4",
+      "category": "经济",
+      "title": "Is the stock market open for Thanksgiving? The answer might surprise you.",
+      "facts": [
+        "The answer to the question of whether the stock market is open on Thanksgiving isn’t a simple yes or no, as the major exchanges are closed, but trading of equity futures is open for part of the day."
+      ],
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "WP-MKTW-0005370809"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/thanksgiving-food-costs-prices"
+        }
+      ],
+      "framing": "2 家来源 · 中 / 左",
+      "items": [
+        {
+          "outlet": "MarketWatch",
+          "lean": "中",
+          "title": "Is the stock market open for Thanksgiving? The answer might surprise you.",
+          "summary": "The answer to the question of whether the stock market is open on Thanksgiving isn’t a simple yes or no, as the major exchanges are closed, but trading of equity futures is open for part of the day.",
+          "url": "WP-MKTW-0005370809"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "High prices force many across the US to scale back for Thanksgiving: ‘We can’t afford the food’",
+          "summary": "Americans are opting for smaller gatherings, reconsidering travel or swapping expensive ingredients for cheaper alternatives Thanksgiving is just one day away, but for some Americans, the holiday may look a little different this year as higher costs for food, drinks , household goods, air travel and gasoline have prompted some families to rethink their plans and spending. The Guardian recently asked readers across the United States how they were marking the holiday this year and whether higher prices had affected t",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/thanksgiving-food-costs-prices"
+        }
+      ],
+      "_score": 43.92
+    },
+    {
+      "id": "F1",
+      "category": "F1",
+      "title": "What impact will tyre-limit rule have on Qatar GP?",
+      "facts": [
+        "Formula 1 returns to the Middle East this weekend for the first time since pre-season testing in February for back-to-back races to finish the 2026 campaign."
+      ],
+      "sources": [
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.the-race.com/formula-1/f1-drivers-face-highest-tyre-pressure-orders-yet-in-qatar/"
+        },
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.skysports.com/f1/news/12433/13615090/qatar-gp-explaining-2026-tyre-limit-rule-and-what-impact-it-will-have-on-f1-race-weekend-at-lusail-international-circuit"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.formula1.com/en/latest/article/explained-why-theres-a-27-lap-limit-on-tyres-for-the-qatar-grand-prix.4oeu38BqJh1h7llxUeILBe"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-f1s-qatar-gp/10877727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "framing": "4 家来源 · 一手 / 专业 / 中",
+      "items": [
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "F1 drivers face highest tyre pressure orders yet in Qatar",
+          "summary": "Qatar brings the highest minimum front tyre pressures of 2026 - and the highest ever stipulated at the start of a race weekend",
+          "url": "https://www.the-race.com/formula-1/f1-drivers-face-highest-tyre-pressure-orders-yet-in-qatar/"
+        },
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "What impact will tyre-limit rule have on Qatar GP?",
+          "summary": "Formula 1 returns to the Middle East this weekend for the first time since pre-season testing in February for back-to-back races to finish the 2026 campaign.",
+          "url": "https://www.skysports.com/f1/news/12433/13615090/qatar-gp-explaining-2026-tyre-limit-rule-and-what-impact-it-will-have-on-f1-race-weekend-at-lusail-international-circuit"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "EXPLAINED: Why there's a 27-lap tyre limit for the Qatar GP",
+          "summary": "The penultimate race weekend of the 2026 season comes from Qatar, and much like last year, Pirelli have mandated a lap limit on each tyre set for the Lusail International Circuit, due to the unique demands of the track.",
+          "url": "https://www.formula1.com/en/latest/article/explained-why-theres-a-27-lap-limit-on-tyres-for-the-qatar-grand-prix.4oeu38BqJh1h7llxUeILBe"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Five things to look out for at F1’s Qatar GP",
+          "summary": "The 2026 Formula 1 season is nearing its conclusion, with the Qatar Grand Prix taking place this weekend ahead of the Abu Dhabi finale next week. Both titles have already been decided with Kimi Antonelli and Mercedes clinching the drivers’ and constructors’ crowns. However, that doesn’t mean nothing is at stake, so here are five things to watch out for at Lusail. Read ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-f1s-qatar-gp/10877727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "_score": 69.93
+    },
+    {
+      "id": "F2",
+      "category": "F1",
+      "title": "Williams exceeded F1 cost cap by £627,000",
+      "facts": [
+        "Williams \"unintentially\" broke Formula 1's cost cap during the 2025 season, governing body the FIA finds."
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cxj05mv79z0do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.the-race.com/business/williams-and-alpine-breached-f1s-cost-cap-in-2025/"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.formula1.com/en/latest/article/fia-confirm-williams-minor-overspend-breach-in-2025-cost-cap-review.12rGorQ1pzc6aH0LX2WdLZ"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.motorsport.com/f1/news/williams-breaches-2025-f1-cost-cap-reveals-penalty/10877740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "framing": "5 家来源 · 一手 / 专业 / 中",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Williams exceeded F1 cost cap by £627,000",
+          "summary": "Williams \"unintentially\" broke Formula 1's cost cap during the 2025 season, governing body the FIA finds.",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cxj05mv79z0do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "Williams and Alpine breached F1's cost cap in 2025",
+          "summary": "The Williams and Alpine F1 teams both breached the FIA's cost cap rules in 2025, with Williams committing spending and procedural transgressions",
+          "url": "https://www.the-race.com/business/williams-and-alpine-breached-f1s-cost-cap-in-2025/"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "FIA confirm Williams’ minor overspend breach of 2025 Cost Cap",
+          "summary": "The FIA have completed their review of the F1 teams' and power unit manufacturers' compliance with the 2025 Financial Regulations.",
+          "url": "https://www.formula1.com/en/latest/article/fia-confirm-williams-minor-overspend-breach-in-2025-cost-cap-review.12rGorQ1pzc6aH0LX2WdLZ"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Williams, Alpine fall foul of F1's 2025 cost cap",
+          "summary": "The Williams and Alpine F1 teams have fallen foul of Formula 1's 2025 cost cap, reaching an Accepted Breach Agreement with the FIA, with Williams incurring a sporting penalty for overspending and Alpine handed a fine. The FIA announced on Wednesday that Williams overspent the 2025 cost cap by £627,000 or 0.48%. The overspend was found to be unintentional through the way the team interpreted ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/williams-breaches-2025-f1-cost-cap-reveals-penalty/10877740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "_score": 67.65
+    },
+    {
+      "id": "F3",
+      "category": "F1",
+      "title": "Do Ferrari need to make Hamilton their No 1 driver?",
+      "facts": [
+        "Charles Leclerc and Lewis Hamilton's latest run-in at the Las Vegas Grand Prix has ramped up scrutiny on Ferrari and what the team will do to try to avoid more costly on-track incidents between their two drivers."
+      ],
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.skysports.com/f1/news/12433/13616299/what-next-for-ferrari-after-charles-leclerc-lewis-hamiltons-latest-collision-with-no-1-driver-and-consequences-up-for-debate"
+        },
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.the-race.com/formula-1/mclarens-driver-management-lessons-for-ferrari/"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cw30gq2633ljo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "3 家来源 · 专业 / 中",
+      "items": [
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "Do Ferrari need to make Hamilton their No 1 driver?",
+          "summary": "Charles Leclerc and Lewis Hamilton's latest run-in at the Las Vegas Grand Prix has ramped up scrutiny on Ferrari and what the team will do to try to avoid more costly on-track incidents between their two drivers.",
+          "url": "https://www.skysports.com/f1/news/12433/13616299/what-next-for-ferrari-after-charles-leclerc-lewis-hamiltons-latest-collision-with-no-1-driver-and-consequences-up-for-debate"
+        },
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "McLaren's driver management lessons for Ferrari",
+          "summary": "McLaren's F1 drivers don't always appreciate its racing instructions. But they work. And Ferrari should learn from that",
+          "url": "https://www.the-race.com/formula-1/mclarens-driver-management-lessons-for-ferrari/"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Is Hamilton and Leclerc's Ferrari partnership sustainable? F1 Q&A",
+          "summary": "BBC F1 correspondent Andrew Benson answers your latest questions after the Las Vegas Grand Prix.",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cw30gq2633ljo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 51.04
+    },
+    {
+      "id": "F4",
+      "category": "F1",
+      "title": "Max Verstappen admits he would “rather stay at home” ahead of Qatar and Abu Dhabi",
+      "facts": [
+        "Formula 1’s paddock is touching down in Doha for the penultimate round of the 2026 championship, yet Max Verstappen is not pretending the trip sits easily with him. Speaking to Dutch outlet De Telegraaf, the four-time world champion delivered a blunt assessment of finishing the 23-race calendar in Qatar and Abu Dhabi amid ongoing regional hostilities. \"Do I feel comfortable with it? No ... Keep reading"
+      ],
+      "sources": [
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.motorsport.com/f1/news/verstappen-admits-he-would-rather-stay-at-home-ahead-of-qatar-and-abu-dhabi-despite-f1-safety-guara/10877645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-qatar-grand-prix.1bXINUYO8R8X3K7DjINr1A"
+        }
+      ],
+      "framing": "2 家来源 · 一手 / 专业",
+      "items": [
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Max Verstappen admits he would “rather stay at home” ahead of Qatar and Abu Dhabi",
+          "summary": "Formula 1’s paddock is touching down in Doha for the penultimate round of the 2026 championship, yet Max Verstappen is not pretending the trip sits easily with him. Speaking to Dutch outlet De Telegraaf, the four-time world champion delivered a blunt assessment of finishing the 23-race calendar in Qatar and Abu Dhabi amid ongoing regional hostilities. \"Do I feel comfortable with it? No ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/verstappen-admits-he-would-rather-stay-at-home-ahead-of-qatar-and-abu-dhabi-despite-f1-safety-guara/10877645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "5 storylines we're excited about ahead of the Qatar GP",
+          "summary": "Chris Medland runs through the biggest talking points as F1 heads to Qatar for Round 22 of the 2026 season.",
+          "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-qatar-grand-prix.1bXINUYO8R8X3K7DjINr1A"
+        }
+      ],
+      "_score": 38.28
+    },
+    {
+      "id": "A1",
+      "category": "AI",
+      "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+      "facts": [
+        "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored."
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html"
+        },
+        {
+          "name": "Wired",
+          "lean": "中左",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/"
+        },
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+        },
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3375812/us-finds-no-evidence-china-told-tech-exec-spy-nvidias-jensen-huang-report-says"
+        }
+      ],
+      "framing": "5 家来源 · 中 / 中左",
+      "items": [
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+          "summary": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
+          "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html"
+        },
+        {
+          "outlet": "Wired",
+          "lean": "中左",
+          "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+          "summary": "",
+          "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/"
+        },
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+          "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+          "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "US finds no evidence China told Alice Huang to spy on Nvidia’s Jensen Huang, report says",
+          "summary": "US ⁠officials found no evidence ⁠that tech executive Alice Huang was directed by Beijing to spy on Nvidia CEO Jensen Huang, The Wall Street Journal reported on Wednesday, citing people familiar with a classified briefing. The briefing ‌comes after US President Donald Trump cleared the way for Jensen Huang’s reinstatement earlier this week, assuring Nvidia that its CEO posed no national-security threat. The controversy began with concerns over Alice Huang’s alleged Chinese intelligence links and...",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3375812/us-finds-no-evidence-china-told-tech-exec-spy-nvidias-jensen-huang-report-says"
+        }
+      ],
+      "_score": 63.25
+    },
+    {
+      "id": "A2",
+      "category": "AI",
+      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "facts": [
+        "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too."
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html"
+        },
+        {
+          "name": "Wired",
+          "lean": "中左",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/"
+        },
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.scmp.com/opinion/world-opinion/article/3375628/jensen-huang-back-risk-nvidia-and-ai-boom-remains"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang"
+        }
+      ],
+      "framing": "6 家来源 · 中 / 中左 / 左",
+      "items": [
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+          "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+          "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html"
+        },
+        {
+          "outlet": "Wired",
+          "lean": "中左",
+          "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+          "summary": "",
+          "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Jensen Huang is back. The risk to Nvidia and the AI boom remains",
+          "summary": "Jensen Huang resigned as CEO of Nvidia on November 12, yet on November 23 the board reinstated him. In the intervening days, the company lost around a trillion dollars in market value. When the news of Huang’s reinstatement broke on Monday, Nvidia shares jumped more than 30 per cent and recovered nearly all the losses that followed his exit. Staff crowded the Nvidia headquarters lobby in Santa Clara, California, to welcome him back. The trouble began on October 29, when The New York Times...",
+          "url": "https://www.scmp.com/opinion/world-opinion/article/3375628/jensen-huang-back-risk-nvidia-and-ai-boom-remains"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
+          "summary": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat on Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for further volatility in a key sector driving economic growth worldwide. A day after Huang’s reinstatement as CEO drove Nvidia shares up more than 30%, adding more than $900bn to the firm’s market value, the euphoria dissipat",
+          "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang"
+        }
+      ],
+      "_score": 61.12
+    },
+    {
+      "id": "A3",
+      "category": "AI",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "facts": [
+        "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse."
+      ],
+      "sources": [
+        {
+          "name": "The Verge",
+          "lean": "中左",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+        },
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "4 家来源 · 中 / 中左 / 左",
+      "items": [
+        {
+          "outlet": "The Verge",
+          "lean": "中左",
+          "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+          "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, […]",
+          "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+        },
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+          "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
+          "summary": "Users can give agents tasks such as booking travel or buying presents, but glitches have been reported Have you downloaded Meta’s AI assistant Muse or do you plan to? Want to avoid the Christmas shopping hordes? Then let your AI agent do the shopping for you. Mark Zuckerberg’s Meta is launching its Muse AI assistant in the UK and is encouraging users to let it loose on your apps – and the high street. Muse has been a hit in the US and is ranked first and second respectively on Google and Apple’s free app stores, ha",
+          "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+          "summary": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
+          "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 61.08
+    },
+    {
+      "id": "A4",
+      "category": "AI",
+      "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+      "facts": [
+        "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups."
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+        },
+        {
+          "name": "The Verge",
+          "lean": "中左",
+          "angle": "标题与摘要来自该媒体的 RSS。",
+          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+        }
+      ],
+      "framing": "2 家来源 · 中 / 中左",
+      "items": [
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+          "summary": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+        },
+        {
+          "outlet": "The Verge",
+          "lean": "中左",
+          "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+          "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]",
+          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+        }
+      ],
+      "_score": 43.14
+    }
+  ],
+  "stats": {
+    "feeds_ok": 41,
+    "feeds_failed": 3,
+    "items": 380,
+    "clusters": 249,
+    "stories": 16,
+    "feeds_total": 44,
+    "errors": 3,
+    "elapsed_sec": 3.7
+  },
+  "errors": [
+    {
+      "source": "Arab News",
+      "feed": "arabnews",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "Express",
+      "feed": "express-f1",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "VentureBeat",
+      "feed": "venturebeat-ai",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "warnings": [],
+  "llm_used": true,
+  "llm_provider": "deepseek",
+  "lede": "今日四条线均围绕权力与规则的再校准：美国关税威胁引发多方反弹，北约与特朗普就乌克兰战事发声，以色列法官对腐败案提出建议，F1与AI领域则聚焦合规与领导层变动。各来源在事实框架下呈现不同侧重。",
+  "takeaways": [
+    "美国新关税提案遭巴西与中国公开反对，贸易摩擦的外交辞令趋于强硬。",
+    "内塔尼亚胡腐败案出现司法松动信号，但各来源对法官建议的解读存在温差。",
+    "F1成本帽违规与车手管理争议并行，竞技规则与团队治理同时承压。",
+    "英伟达CEO回归引发AI治理与地缘技术竞争的多重追问，市场情绪仍脆弱。"
+  ]
+}
