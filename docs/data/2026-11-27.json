@@ -1,0 +1,1035 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T07:43:49+00:00",
+  "stories": [
+    {
+      "id": "P1",
+      "category": "政治",
+      "title": "特朗普称普京可出席G20 泽连斯基批美施压不足",
+      "facts": [
+        "特朗普表示，如果普京想参加G20，他“当然可以”，并称“我希望他来”。",
+        "特朗普称已敦促普京在歐洲“收手”，但未说明具体希望停止何种行为。",
+        "泽连斯基在BBC采访中批评特朗普与普京的“奇怪”友谊，称美国未在和谈中足够施压俄罗斯。"
+      ],
+      "sources": [
+        {
+          "name": "New York Post",
+          "lean": "右",
+          "angle": "突出特朗普欢迎普京出席G20的表态。",
+          "url": "https://nypost.com/2026/11/27/us-news/trump-says-putin-can-come-to-g20-if-he-wants-id-like-to-have-him/"
+        },
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "聚焦泽连斯基警告俄大规模攻击与特朗普促俄收手。",
+          "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "强调泽连斯基批评特朗普与普京友谊“奇怪”。",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Jerusalem Post",
+          "lean": "中右",
+          "angle": "突出特朗普促俄停止侵略并称俄乌领导人互恨。",
+          "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-916305"
+        }
+      ],
+      "framing": "右翼来源聚焦特朗普对普京出席G20的开放态度；中左与中间来源突出泽连斯基的批评与对俄施压不足；中右来源强调特朗普敦促俄停止侵略但措辞模糊。",
+      "items": [
+        {
+          "outlet": "New York Post",
+          "lean": "右",
+          "title": "Trump says Putin can come to G20 if he wants: ‘I’d like to have him’",
+          "summary": "\"If he wanted to come, ⁠he certainly can,\" Trump said.",
+          "url": "https://nypost.com/2026/11/27/us-news/trump-says-putin-can-come-to-g20-if-he-wants-id-like-to-have-him/"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+          "summary": "Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks.",
+          "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+          "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Jerusalem Post",
+          "lean": "中右",
+          "title": "Trump urges Russia to halt aggression in Europe, says Putin and Zelensky 'really hate each other'",
+          "summary": "Trump did not say what conduct he wanted Putin to halt, but his reference to \"territories throughout Europe\" suggests areas beyond the battlefield in Ukraine.",
+          "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-916305"
+        }
+      ],
+      "_score": 69.71
+    },
+    {
+      "id": "P2",
+      "category": "政治",
+      "title": "新西兰执政联盟最终计票差一席过半",
+      "facts": [
+        "特别票统计后，新西兰中右翼执政联盟赢得65席，距多数所需席位差一席。",
+        "初步结果曾显示该联盟多出两席优势，最终计票逆转了这一差距。",
+        "新成立的Opportunity党处于可左右下一届议会组阁的位置；若无法组阁，新西兰可能重新大选。"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "突出Opportunity党可左右新议会组阁方向。",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/new-zealands-opportunity-party-poised-to-become-election-kingmaker?traffic_source=rss"
+        },
+        {
+          "name": "The Jerusalem Post",
+          "lean": "中右",
+          "angle": "强调最终计票后执政联盟65席差一席过半。",
+          "url": "https://www.jpost.com/international/article-916303"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "报道国家党领导的右翼执政 bloc 未达多数。",
+          "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "lean": "中",
+          "angle": "指出若无法组阁新西兰可能重新大选。",
+          "url": "https://www.channelnewsasia.com/world/new-zealand-ruling-coalition-majority-elections-6586571"
+        }
+      ],
+      "framing": "中左来源聚焦Opportunity党成为造王者；中右与中间来源强调执政联盟差一席未过半及组阁或重选风险。",
+      "items": [
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "New Zealand’s Opportunity Party poised to become election kingmaker",
+          "summary": "The newly-elected Opportunity party is now in a position to swing New Zealand’s next parliament to the left or right.",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/new-zealands-opportunity-party-poised-to-become-election-kingmaker?traffic_source=rss"
+        },
+        {
+          "outlet": "The Jerusalem Post",
+          "lean": "中右",
+          "title": "New Zealand's ruling coalition falls one seat short of majority in final election results",
+          "summary": "The center-right coalition won 65 seats, one short of a majority, after special votes were counted. Preliminary results had given it a two-seat edge.",
+          "url": "https://www.jpost.com/international/article-916303"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+          "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+          "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Channel NewsAsia",
+          "lean": "中",
+          "title": "New Zealand’s ruling coalition falls just short of majority in final election count",
+          "summary": "If Prime Minister Christopher Luxon cannot reach a deal to form a ruling coalition, New Zealand will have to hold fresh elections.",
+          "url": "https://www.channelnewsasia.com/world/new-zealand-ruling-coalition-majority-elections-6586571"
+        }
+      ],
+      "_score": 69.54
+    },
+    {
+      "id": "P3",
+      "category": "政治",
+      "title": "欧盟领导人准备在科技税防务乌克兰问题上与特朗普交锋",
+      "facts": [
+        "Politico报道称，欧洲各国政府现在更愿意直面美国总统，并引述“我们有什么可失去的？”",
+        "特朗普在感恩节帖文中称中期选举前发布的联邦经济数据“虚假”，但未提供证据，并要求调查。",
+        "特朗普与北约秘书长吕特在佛州会面，敦促俄罗斯避免采取扩大乌克兰战争的行为；特朗普政府同时提议对主要贸易伙伴加征新关税。"
+      ],
+      "sources": [
+        {
+          "name": "Politico",
+          "lean": "中",
+          "angle": "称欧洲政府更愿直面特朗普并引述“有何可失”。",
+          "url": "https://www.politico.eu/article/eu-leaders-brave-clash-with-trump-over-tech-tax-defense-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "突出特朗普无证据称中期选举前经济数据“虚假”。",
+          "url": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms"
+        },
+        {
+          "name": "Fox News",
+          "lean": "右",
+          "angle": "强调特朗普与北约秘书长促俄避免扩大乌克兰战争。",
+          "url": "https://www.foxnews.com/politics/trump-nato-chief-push-russia-avoid-actions-expand-war-ukraine"
+        },
+        {
+          "name": "NPR",
+          "lean": "中左",
+          "angle": "报道特朗普政府提议对主要贸易伙伴加征新关税并遇反对。",
+          "url": "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners"
+        }
+      ],
+      "framing": "中间来源突出欧盟与特朗普在科技税、防务、乌克兰上的潜在冲突；左翼来源聚焦特朗普无证据指控经济数据造假；右翼来源强调特朗普与北约促俄避免扩大战争；中左来源关注新关税遭民主党与自由贸易者反对。",
+      "items": [
+        {
+          "outlet": "Politico",
+          "lean": "中",
+          "title": "EU leaders brave clash with Trump over tech tax, defense, Ukraine",
+          "summary": "European governments are now more willing to take on the U.S. president: 'What do we have to lose?'",
+          "url": "https://www.politico.eu/article/eu-leaders-brave-clash-with-trump-over-tech-tax-defense-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
+          "summary": "In a Thanksgiving post, the US president seeks investigation after blue wave of Democrats unseat Republicans Donald Trump has alleged without evidence that economic figures published by the US federal government before this month’s midterm elections were “fake” and demanded an investigation after voters roundly rejected his Republican party. In a holiday message on social media tinged with bitterness, the US president wished a happy thanksgiving “to even those who issued fake Economic Numbers, just prior to the Ele",
+          "url": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms"
+        },
+        {
+          "outlet": "Fox News",
+          "lean": "右",
+          "title": "Trump, NATO chief push Russia to avoid any actions that would 'expand the war' with Ukraine",
+          "summary": "President Donald Trump and NATO chief Mark Rutte, who met Wednesday night at Mar-a-Lago, urged Russia to avoid actions that might expand the Ukraine war.",
+          "url": "https://www.foxnews.com/politics/trump-nato-chief-push-russia-avoid-actions-expand-war-ukraine"
+        },
+        {
+          "outlet": "NPR",
+          "lean": "中左",
+          "title": "Trump administration proposes new tariffs on goods from major U.S. trading partners",
+          "summary": "President Trump's new proposed tariffs are already meeting pushback from Democrats and some free trade advocates.",
+          "url": "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners"
+        }
+      ],
+      "_score": 68.65
+    },
+    {
+      "id": "P4",
+      "category": "政治",
+      "title": "加沙一夜十人死亡 哈马斯权衡回应以色列",
+      "facts": [
+        "据希法医院与阿克萨烈士医院官员，五次以军打击和一次枪击在夜间及周四造成加沙10名巴勒斯坦人死亡。",
+        "哈马斯官员哈亚称，哈马斯正权衡对以色列定点清除高级官员的回应，但未说明具体措施。",
+        "在加沙被以色列炸死的巴勒斯坦记者玛丽亚姆·达加获追授Rory Peck奖，与两名美联社同事共享。"
+      ],
+      "sources": [
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "报道加沙夜间五次打击与枪击致10人死亡。",
+          "url": "https://www.france24.com/en/hamas-weighs-response-after-israel-kills-10-people-in-gaza"
+        },
+        {
+          "name": "The Jerusalem Post",
+          "lean": "中右",
+          "angle": "突出哈马斯权衡对以定点清除高官的回应。",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-916264"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "聚焦遇难以色列空袭的巴记者获Rory Peck奖。",
+          "url": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize"
+        }
+      ],
+      "framing": "中间来源聚焦伤亡数字与哈马斯回应；中右来源突出哈马斯权衡对定点清除的回应；左翼来源关注遇难记者获追授奖项。",
+      "items": [
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "Hamas weighs response after Israel kills 10 people in Gaza",
+          "summary": "Five Israeli strikes and a shooting overnight and on Thursday killed 10 Palestinians across Gaza, according to officials at Shifa and Al-Aqsa Martyrs hospitals, where the casualties were taken. A strike on a residential apartment in Deir Al-Balah in central Gaza killed a man and his wife, the officials said. FRANCE 24's Jennie Shin speaks with journalist Ahmed Dremly, who was in Gaza until six months ago and has extensively covered the humanitarian crisis there.",
+          "url": "https://www.france24.com/en/hamas-weighs-response-after-israel-kills-10-people-in-gaza"
+        },
+        {
+          "outlet": "The Jerusalem Post",
+          "lean": "中右",
+          "title": "Hamas weighs response to Israeli targeted killings of senior officials in Gaza, Hayya says",
+          "summary": "Hayya did not specify what measures Hamas and the other Palestinian factions were considering in response to the Israeli strikes.",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-916264"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
+          "summary": "Mariam Dagga shares award with two of her colleagues from AP for ‘powerful coverage’ of human cost of war Mariam Dagga, the Palestinian war correspondent who was killed at the age of 33 in Gaza in an Israeli strike, has posthumously won the prestigious Rory Peck prize for freelance video journalists, the organisers announced on Wednesday. She shares the award with two of her colleagues from the Associated Press (AP), Abdel Kareem Hana and Jehad Alshrafi, “for their powerful coverage of the human cost of the war” in",
+          "url": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize"
+        }
+      ],
+      "_score": 58.14
+    },
+    {
+      "id": "E1",
+      "category": "经济",
+      "title": "英伟达股价飙升与美对华新关税搅动市场",
+      "facts": [
+        "英伟达股价周一大涨31%，随后美股与亚洲市场经历波动一周，AI交易与新一轮美国关税引发担忧。",
+        "美国宣布对包括中国和欧盟在内的多个主要贸易伙伴加征新关税。",
+        "中国工厂利润恢复增长，但AI相关制造与出口驱动增长，消费与房地产投资滞后。"
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "列举英伟达31%涨幅与对华20-40%关税等五个数字。",
+          "url": "https://www.scmp.com/business/china-business/article/3375991/nvidias-31-surge-20-40-us-tariffs-china-5-figures-investors-are-watching-week"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "突出科技领袖对黄仁勋回归有的欢呼有的沉默。",
+          "url": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "分析中国工厂利润回升但AI繁荣挑选赢家。",
+          "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "报道美国对包括中国和欧盟等多国宣布新关税。",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "中间来源分别聚焦英伟达股价与关税、中国工厂利润的AI分化；左翼来源关注科技领袖对黄仁勋回归的不同反应；中间来源报道美国新关税范围。",
+      "items": [
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Nvidia’s 31% surge, 20-40% US tariffs on China: 5 figures investors are watching this week",
+          "summary": "After Nvidia shares skyrocketed on Monday, capital markets across the United States and Asia experienced another volatile week, paring gains amid widespread concerns over the AI trade and a new round of US tariffs targeting major economies, including China. Below are five figures that captured market attention this week: Nvidia stock rallies 31 per cent Following Jensen Huang’s return to Nvidia as CEO on Monday, the chipmaker’s stock surged more than 31 per cent – its biggest one-day percentage...",
+          "url": "https://www.scmp.com/business/china-business/article/3375991/nvidias-31-surge-20-40-us-tariffs-china-5-figures-investors-are-watching-week"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
+          "summary": "Elon Musk and Sam Altman among those rejoicing but Google, Meta and Apple chiefs have declined to weigh in The phrase “return of the king” rippled across social media on Monday. A vocal subsection of the tech industry was celebrating the resurrection of Jensen Huang as Nvidia’s CEO. Some called him the “imperial and royal majesty”, others anointed him as “our Jesus” and several simply posted a crown emoji. “The mistake has been corrected,” said Elon Musk. “Jensen!” exclaimed OpenAI’s Sam Altman. Continue reading...",
+          "url": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
+          "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while consumption, real estate investment lag.",
+          "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "US announces new tariffs on host of countries including China",
+          "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 63.88
+    },
+    {
+      "id": "E2",
+      "category": "经济",
+      "title": "西班牙德科斯将接任欧洲央行行长",
+      "facts": [
+        "西班牙前央行行长巴勃罗·埃尔南德斯·德科斯赢得欧盟最大国家支持，将接替拉加德出任欧洲央行行长。",
+        "德科斯将在政治不确定与增长波动时期领导欧洲央行。",
+        "欧洲领导人已同意提名德科斯，欧洲央行面临应对高通胀与借贷压力的挑战。"
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "称德科斯将领导欧洲央行进入政治不确定期。",
+          "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "报道德科斯赢得欧盟最大国家支持接任行长。",
+          "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president"
+        },
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "称欧洲领导人同意提名德科斯接替拉加德。",
+          "url": "https://www.france24.com/en/spain-s-de-cos-chosen-as-next-ecb-president"
+        }
+      ],
+      "framing": "中间与左翼来源角度接近，均聚焦德科斯赢得支持并接替拉加德，仅措辞详略不同。",
+      "items": [
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+          "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+          "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
+          "summary": "Former Bank of Spain governor chosen to succeed Christine Lagarde after winning support of EU’s biggest countries Spain’s Pablo Hernández de Cos has been chosen as the next president of the European Central Bank, to succeed Christine Lagarde, after winning support from the EU’s biggest countries. The economist and monetary policymaker will become the first Spaniard to lead the ECB, defeating his rival candidate Klaas Knot, the former head of the Dutch central bank. Continue reading...",
+          "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "Spain's De Cos chosen as next ECB president",
+          "summary": "European leaders have agreed to nominate the former head of the Bank of Spain as the next president of the European Central Bank. Pablo ​Hernandez ‌de ⁠Cos will replace the outgoing Christine Lagarde as the bank faces pressure to tackle high inflation, borrowing costs, and government debt. Also in the show - US regulators give SpaceX the green light to send satellites for data centers into space, and American households face higher costs for their Thanksgiving celebrations.",
+          "url": "https://www.france24.com/en/spain-s-de-cos-chosen-as-next-ecb-president"
+        }
+      ],
+      "_score": 53.85
+    },
+    {
+      "id": "E3",
+      "category": "经济",
+      "title": "英伟达暂停东南亚服务器出货 亚洲AI押注承压",
+      "facts": [
+        "英伟达已告知制造伙伴暂停向马来西亚、新加坡、泰国和印度尼西亚出货服务器，因美国收紧对华AI芯片限制。",
+        "亚洲股市在黄仁勋重返英伟达CEO后经历剧烈波动。",
+        "德国之声报道，中国企业常利用东南亚离岸算力规避美国芯片限制，美国正试图阻止。"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "问亚洲对英伟达的大押注在黄仁勋回归后走向何方。",
+          "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "报道英伟达暂停向东南亚四国出货服务器。",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+        },
+        {
+          "name": "Deutsche Welle",
+          "lean": "中",
+          "angle": "解析中国企业如何利用东南亚规避芯片制裁。",
+          "url": "https://www.dw.com/en/how-chinese-companies-circumvent-chips-sanctions-in-southeast-asia/a-80041002?maca=en-rss-en-world-4025-rdf"
+        }
+      ],
+      "framing": "中间来源分别聚焦亚洲AI押注风险与英伟达暂停出货；中间来源德国之声从中国规避制裁角度补充背景。",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Asia made a big AI bet on Nvidia. What happens now?",
+          "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+          "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+        },
+        {
+          "outlet": "Deutsche Welle",
+          "lean": "中",
+          "title": "How Chinese companies circumvent chips sanctions in Southeast Asia",
+          "summary": "High-tech AI chips are hard to get in China because of US restrictions. To get around this, Chinese companies often use offshore computing capacity, particularly in Southeast Asia. The US is also trying to stop it.",
+          "url": "https://www.dw.com/en/how-chinese-companies-circumvent-chips-sanctions-in-southeast-asia/a-80041002?maca=en-rss-en-world-4025-rdf"
+        }
+      ],
+      "_score": 46.57
+    },
+    {
+      "id": "E4",
+      "category": "经济",
+      "title": "港交所倾向保留午休 延长早晚交易时段",
+      "facts": [
+        "据多个消息源，港交所倾向在延长早晚交易时段的同时保留传统午间休市。",
+        "港交所运营商正考虑延长交易日两端时间，而非取消午休。",
+        "另据BBC报道，香港一场翻新工程引发的火灾造成168人死亡，一年后家属仍在等待正义。"
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "称港交所倾向保留午休并延长早晚交易。",
+          "url": "https://www.scmp.com/business/markets/article/3375915/lets-keep-doing-lunch-hong-kong-exchange-leans-towards-keeping-noon-break-sources-say"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "报道香港翻新火灾致168人死亡一年后家属等正义。",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "两条来源主题不同：中间来源报道港交所交易时段调整倾向；中间来源报道火灾后续追责。角度不重叠。",
+      "items": [
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Let’s keep doing lunch: Hong Kong exchange leans towards keeping noon break, sources say",
+          "summary": "Lunch is likely to remain on the menu for Hong Kong stock brokers, as the city’s bourse operator leans towards extending trading hours at either end of the day while keeping the market’s traditional mid-day break intact, according to multiple sources. Hong Kong Exchanges and Clearing (HKEX) will not highlight the idea of cancelling the current hour-long noon break when it issues a discussion paper on its operating hours as early as next week, sources with knowledge of the matter told the South...",
+          "url": "https://www.scmp.com/business/markets/article/3375915/lets-keep-doing-lunch-hong-kong-exchange-leans-towards-keeping-noon-break-sources-say"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+          "summary": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 36.55
+    },
+    {
+      "id": "F1",
+      "category": "F1",
+      "title": "拉塞尔称对维斯塔潘批评觉得“挺有趣”",
+      "facts": [
+        "拉塞尔表示无意继续与维斯塔潘的争执，称其可避免且不必要，但承认“挺有趣”。",
+        "维斯塔潘此前在拉斯维加斯大奖赛后称拉塞尔“低于我的水平”。",
+        "天空体育评论员称两人之争“对这项运动真的很酷”，拉斯维加斯周末重新点燃了红牛与梅赛德斯车手间的紧张。"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "突出拉塞尔称争执可避免且“挺有趣”。",
+          "url": "https://www.theguardian.com/sport/2026/nov/26/ill-do-my-talking-on-the-track-says-russell-after-verstappen-jibe"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "引评论员称维斯塔潘与拉塞尔之争对F1很酷。",
+          "url": "https://www.motorsport.com/f1/news/george-russell-gets-under-max-verstappens-skin-more-than-any-other-driver-says-f1-pundit/10877980/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "报道拉塞尔觉得维斯塔潘批评“挺有趣”。",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "称拉塞尔回应维斯塔潘拉斯维加斯言论。",
+          "url": "https://www.formula1.com/en/latest/article/it-was-quite-amusing-russell-shares-his-reaction-to-verstappens-las-vegas-comments.6sv6Xkop4lBcCxge8ZgxXv"
+        }
+      ],
+      "framing": "左翼与中间来源聚焦拉塞尔淡化争执并称有趣；专业来源强调 rivalry 对运动是谈资；一手来源仅称拉塞尔回应拉斯维加斯言论。",
+      "items": [
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "George Russell cools Max Verstappen feud by admitting: ‘It was quite amusing’",
+          "summary": "‘I don’t want to have poor relationships with people’ Dutchman said Mercedes driver was ‘below my level’ George Russell has insisted he has no interest in continuing his feud with Max Verstappen, describing it as avoidable and unnecessary, but also noting that he has no intention of backing down from comments he made at last week’s Las Vegas Grand Prix. Russell and Verstappen, who have long endured a testy relationship, were once more at loggerheads at the meeting in Nevada . Russell had called out the Dutchman aft",
+          "url": "https://www.theguardian.com/sport/2026/nov/26/ill-do-my-talking-on-the-track-says-russell-after-verstappen-jibe"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Max Verstappen and George Russell rivalry \"really cool for the sport\", says F1 pundit",
+          "summary": "The Las Vegas Grand Prix weekend reignited the long-running tension between Red Bull and Mercedes drivers, Max Verstappen and George Russell, and it was the talking point of Sky's F1 Show podcast this week. Three-time W Series champion and Sky Sports pundit Jamie Chadwick discussed the reignited rivalry on the podcast, claiming that no other driver gets under Verstappen's skin as much as ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/george-russell-gets-under-max-verstappens-skin-more-than-any-other-driver-says-f1-pundit/10877980/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Russell finds Verstappen's criticism 'quite amusing'",
+          "summary": "George Russell says Max Verstappen can \"say what he wants\" and that he found the Red Bull driver's criticisms of him after the Las Vegas Grand Prix \"quite amusing\".",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "Russell reacts to Verstappen’s Las Vegas comments",
+          "summary": "After tensions between himself and Max Verstappen resurfaced following the Las Vegas Grand Prix, George Russell has given his take on how the situation stands.",
+          "url": "https://www.formula1.com/en/latest/article/it-was-quite-amusing-russell-shares-his-reaction-to-verstappens-las-vegas-comments.6sv6Xkop4lBcCxge8ZgxXv"
+        }
+      ],
+      "_score": 73.81
+    },
+    {
+      "id": "F2",
+      "category": "F1",
+      "title": "卡塔尔大奖赛预期满座 轮胎规则成焦点",
+      "facts": [
+        "卡塔尔大奖赛组织方预计2026年F1比赛将“满座”，尽管赛前存在地区冲突。",
+        "F1本周末重返中东，进行2026赛季最后两场背靠背比赛。",
+        "倍耐力与FIA在卡塔尔重新实施严格的最大 stint 限制，迈凯伦指出早期进站陷阱。"
+      ],
+      "sources": [
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "称卡塔尔预计2026年F1比赛满座。",
+          "url": "https://www.the-race.com/business/qatar-gp-expects-2026-f1-race-sell-out/"
+        },
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "问轮胎限制规则对卡塔尔大奖赛有何影响。",
+          "url": "https://www.skysports.com/f1/news/12433/13615090/qatar-gp-explaining-2026-tyre-limit-rule-and-what-impact-it-will-have-on-f1-race-weekend-at-lusail-international-circuit"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "回顾卡塔尔围场赛前热议的故事。",
+          "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-qatar-paddock-talking.7oePpDkNxzG1j0359UuyOo"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "指出迈凯伦警示27圈规则下的早停陷阱。",
+          "url": "https://www.motorsport.com/f1/news/mclaren-flags-the-crucial-early-stop-trap-inside-qatars-raised-27-lap-tire-rule/10877828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "framing": "专业来源分别聚焦满座预期与轮胎规则策略陷阱；中间来源关注轮胎限制规则影响；一手来源回顾围场话题。",
+      "items": [
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "Qatar expects its F1 race to be sold out",
+          "summary": "The motorsport body behind the Qatar GP expects the 2026 F1 race to have a \"full house\" despite regional conflict in the lead up to it",
+          "url": "https://www.the-race.com/business/qatar-gp-expects-2026-f1-race-sell-out/"
+        },
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "What impact will tyre-limit rule have on Qatar GP?",
+          "summary": "Formula 1 returns to the Middle East this weekend for the first time since pre-season testing in February for back-to-back races to finish the 2026 campaign.",
+          "url": "https://www.skysports.com/f1/news/12433/13615090/qatar-gp-explaining-2026-tyre-limit-rule-and-what-impact-it-will-have-on-f1-race-weekend-at-lusail-international-circuit"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "All the stories that got the Qatar paddock talking",
+          "summary": "F1.com's Mike Seymour looks back on the stories that got the paddock talking ahead of the 2026 Qatar Grand Prix.",
+          "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-qatar-paddock-talking.7oePpDkNxzG1j0359UuyOo"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "McLaren flags the crucial early-stop trap inside Qatar’s raised 27-lap rule",
+          "summary": "Formula 1 returns to the Losail International Circuit this weekend with a familiar strategic guardrail - and a subtly shifted trap waiting right after lights out. Ahead of the 2026 Qatar Grand Prix, Pirelli and the FIA have reimposed a strict maximum stint limit per tyre set for the third time in four years, raising the ceiling from 25 laps in 2025 to 27 laps across Sunday’s 57-lap ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/mclaren-flags-the-crucial-early-stop-trap-inside-qatars-raised-27-lap-tire-rule/10877828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "_score": 66.96
+    },
+    {
+      "id": "F3",
+      "category": "F1",
+      "title": "贝尔曼确认2027年继续效力哈斯车队",
+      "facts": [
+        "哈斯车队宣布，21岁英国车手奥利弗·贝尔曼将在2027年F1赛季继续效力。",
+        "贝尔曼的续约谈判持续较长时间，最终在卡塔尔大奖赛周末前确认。",
+        "贝尔曼将搭档巴西新秀拉斐尔·卡马拉，2027年车手阵容正式确定。"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "报道贝尔曼2027年继续为哈斯车队比赛。",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2wxyk7343o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "称贝尔曼在拖长续约后终于获2027哈斯合同。",
+          "url": "https://www.the-race.com/formula-1/ollie-bearman-2027-haas-f1-deal-drawn-out-renewal/"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "称贝尔曼谈新哈斯合同与法拉利希望。",
+          "url": "https://www.formula1.com/en/latest/article/im-looking-forward-to-the-future-bearman-reflects-on-new-haas-deal-and-hopes-of-dream-ferrari-drive.2HEQCXu8ItvVTJrmYBR5H1"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "报道贝尔曼锁定哈斯席位2027阵容确定。",
+          "url": "https://www.motorsport.com/f1/news/oliver-bearman-locks-in-haas-f1-seat-as-2027-grid-officially-set/10877802/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "framing": "中间与专业来源均聚焦续约确认，专业来源强调谈判拖长与阵容落定，一手来源补充贝尔曼对法拉利的期望。",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Bearman to continue with Haas in 2027",
+          "summary": "Britain's Oliver Bearman will continue to race for the Haas team in Formula 1 in 2027.",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2wxyk7343o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "Bearman finally gets 2027 Haas deal after drawn-out renewal",
+          "summary": "Ollie Bearman's stay at Haas for the 2027 F1 season has finally been confirmed after a drawn-out renewal",
+          "url": "https://www.the-race.com/formula-1/ollie-bearman-2027-haas-f1-deal-drawn-out-renewal/"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "Bearman reflects on new Haas deal and Ferrari hopes",
+          "summary": "Ollie Bearman arrives into the Qatar Grand Prix weekend with his future finally confirmed, following the announcement that he will continue to drive for Haas in 2027.",
+          "url": "https://www.formula1.com/en/latest/article/im-looking-forward-to-the-future-bearman-reflects-on-new-haas-deal-and-hopes-of-dream-ferrari-drive.2HEQCXu8ItvVTJrmYBR5H1"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Oliver Bearman locks in Haas F1 seat as 2027 grid officially set",
+          "summary": "Oliver Bearman will officially stay at Haas for the 2027 Formula 1 season after he and the team finally put pen to paper on a new deal. The American squad announced the renewal on Thursday, meaning the 21-year-old Briton will partner Brazilian rookie Rafael Camara at Haas next season. It means the 2027 grid is now complete ahead of the final two rounds of the 2026 campaign, one in which ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/oliver-bearman-locks-in-haas-f1-seat-as-2027-grid-officially-set/10877802/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        }
+      ],
+      "_score": 66.3
+    },
+    {
+      "id": "F4",
+      "category": "F1",
+      "title": "威廉姆斯2025赛季超成本帽62.7万英镑",
+      "facts": [
+        "FIA认定威廉姆斯在2025赛季“非故意”违反F1成本帽，超支62.7万英镑。",
+        "威廉姆斯与阿尔派均与FIA达成接受违约协议，威廉姆斯受体育处罚，阿尔派被罚款。",
+        "威廉姆斯因轻微超支被处以财务与空气动力学测试处罚。"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "报道威廉姆斯非故意超成本帽62.7万英镑。",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cxj05mv79z0do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "称威廉姆斯与阿尔派2025年均违反成本帽。",
+          "url": "https://www.the-race.com/business/williams-and-alpine-breached-f1s-cost-cap-in-2025/"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "报道两车队与FIA达成协议威廉姆斯受体育处罚。",
+          "url": "https://www.motorsport.com/f1/news/williams-breaches-2025-f1-cost-cap-reveals-penalty/10877740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "称威廉姆斯因轻微超支受财务与风洞测试处罚。",
+          "url": "https://www.skysports.com/f1/news/12433/13616434/williams-in-minor-breach-of-f1-cost-cap-and-take-financial-and-wind-tunnel-time-penalties"
+        }
+      ],
+      "framing": "中间来源聚焦威廉姆斯超支金额与处罚；专业来源强调两家车队均违规及威廉姆斯程序性违规；中间来源称轻微超支后受罚。",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Williams exceeded F1 cost cap by £627,000",
+          "summary": "Williams \"unintentially\" broke Formula 1's cost cap during the 2025 season, governing body the FIA finds.",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cxj05mv79z0do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "Williams and Alpine breached F1's cost cap in 2025",
+          "summary": "The Williams and Alpine F1 teams both breached the FIA's cost cap rules in 2025, with Williams committing spending and procedural transgressions",
+          "url": "https://www.the-race.com/business/williams-and-alpine-breached-f1s-cost-cap-in-2025/"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Williams, Alpine fall foul of F1's 2025 cost cap",
+          "summary": "The Williams and Alpine F1 teams have fallen foul of Formula 1's 2025 cost cap, reaching an Accepted Breach Agreement with the FIA, with Williams incurring a sporting penalty for overspending and Alpine handed a fine. The FIA announced on Wednesday that Williams overspent the 2025 cost cap by £627,000 or 0.48%. The overspend was found to be unintentional through the way the team interpreted ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/williams-breaches-2025-f1-cost-cap-reveals-penalty/10877740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "Williams handed penalties after minor breach of cost cap",
+          "summary": "Williams have been given financial and aerodynamic testing penalties after committing a minor overspend breach of Formula 1's cost cap for the 2025 season.",
+          "url": "https://www.skysports.com/f1/news/12433/13616434/williams-in-minor-breach-of-f1-cost-cap-and-take-financial-and-wind-tunnel-time-penalties"
+        }
+      ],
+      "_score": 57.65
+    },
+    {
+      "id": "A1",
+      "category": "AI",
+      "title": "SpaceX获准部署百万颗轨道数据中心卫星",
+      "facts": [
+        "SpaceX获FCC批准部署100万颗轨道数据中心卫星，该提案曾遭亚马逊等反对。",
+        "该Starmind星座旨在以最具成本与能源效率的方式满足AI算力增长需求。",
+        "马斯克承诺向每个美国儿童赠送两股SpaceX股票，总价值可能接近180亿美元；SpaceX还将向活跃的Trump Accounts捐赠一股A类普通股，马斯克个人匹配。"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "报道马斯克百万颗SpaceX数据卫星计划获批。",
+          "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "称马斯克承诺给每个美国儿童两股SpaceX。",
+          "url": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us"
+        },
+        {
+          "name": "Fox Business",
+          "lean": "右",
+          "angle": "突出SpaceX向活跃Trump Accounts捐赠股票。",
+          "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "报道SpaceX获FCC批准部署百万轨道数据中心卫星。",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+        }
+      ],
+      "framing": "中间来源聚焦FCC批准与卫星部署；左翼来源突出马斯克向儿童赠股；右翼来源强调向Trump Accounts捐赠股票。",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+          "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+          "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Elon Musk pledges to give two SpaceX shares to every child in the US",
+          "summary": "The total value of the shares could reach almost $18bn and comes as tech companies debate how to share the spoils of the AI boom Elon Musk, the world’s richest person, has pledged to give every child in the US two shares in SpaceX, the space ⁠and AI company he ​runs, worth a total of almost $18bn. In a brief post on X, the social media platform that he owns, Musk said children will receive one share from the company itself, and one from him personally. SpaceX announced earlier on Wednesday that it would ​contribute",
+          "url": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us"
+        },
+        {
+          "outlet": "Fox Business",
+          "lean": "右",
+          "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
+          "summary": "SpaceX will give one share of its Class A common stock to every active Trump Account, with Elon Musk pledging to personally match the donation.",
+          "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+          "summary": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+        }
+      ],
+      "_score": 66.29
+    },
+    {
+      "id": "A2",
+      "category": "AI",
+      "title": "黄仁勋回归英伟达引发深度伪造与行为准则讨论",
+      "facts": [
+        "The Verge报道，黄仁勋在伊维萨岛派对的深度伪造视频在Instagram获近600万次观看。",
+        "TechCrunch称黄仁勋违反英伟达行为准则，员工可能不会忘记。",
+        "CNBC报道丹尼餐厅欢迎黄仁勋回归英伟达CEO，并恢复了一块纪念牌匾。"
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "分析黄仁勋事件如何重置美中科技竞争。",
+          "url": "https://www.scmp.com/tech/tech-war/article/3375909/laila-khawaja-how-jensen-huang-saga-resets-us-china-tech-rivalry"
+        },
+        {
+          "name": "The Verge",
+          "lean": "中左",
+          "angle": "称黄仁勋深度伪造视频成热门AI垃圾内容。",
+          "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "报道丹尼餐厅欢迎黄仁勋回归并恢复牌匾。",
+          "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html"
+        },
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "称黄仁勋违反英伟达行为准则员工或难忘。",
+          "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+        }
+      ],
+      "framing": "中间来源分别聚焦深度伪造、行为准则与餐厅欢迎；中左来源强调深度伪造作为AI垃圾内容；中间来源从美国对华科技竞争角度分析黄仁勋事件。",
+      "items": [
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Laila Khawaja on how the Jensen Huang saga resets the US-China tech rivalry",
+          "summary": "Laila Khawaja is research director at Gavekal Technologies, the financial services and analytics firm’s tech wing. Before her current role, she worked at Gavekal Fathom China from its founding in 2009, developing broad expertise in China’s corporate landscape. A graduate of Beijing Foreign Studies University and Harvard University, she is currently based in Miami. In this interview, Khawaja discusses the whirlwind dismissal and restoration of Nvidia CEO Jensen Huang, how that saga and other...",
+          "url": "https://www.scmp.com/tech/tech-war/article/3375909/laila-khawaja-how-jensen-huang-saga-resets-us-china-tech-rivalry"
+        },
+        {
+          "outlet": "The Verge",
+          "lean": "中左",
+          "title": "Jensen Huang deepfakes are the hot new AI slop",
+          "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he […]",
+          "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+          "summary": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
+          "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html"
+        },
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+          "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+          "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+        }
+      ],
+      "_score": 62.38
+    },
+    {
+      "id": "A3",
+      "category": "AI",
+      "title": "黑色星期五AI购物助手兴起引发责任追问",
+      "facts": [
+        "卫报报道，品牌知道Meta Muse等AI代理使用上升，但不太可能把店铺钥匙交给它们。",
+        "美国零售联合会称，59%的美国购物者计划本周末使用AI进行假日购物。",
+        "MarketWatch报道黑色星期五股市交易安排，指出感恩节次日对华尔街交易的影响。"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "问AI购物助手出错谁担责并称零售商进入未知。",
+          "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse"
+        },
+        {
+          "name": "MarketWatch",
+          "lean": "中",
+          "angle": "说明黑色星期五股市是否开放及交易安排。",
+          "url": "WP-MKTW-0005369026"
+        },
+        {
+          "name": "NPR",
+          "lean": "中左",
+          "angle": "称59%美国购物者计划用AI并给使用建议。",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping"
+        }
+      ],
+      "framing": "左翼来源聚焦AI购物助手出错谁担责；中左来源提供使用比例与注意事项；中间来源仅报道股市是否开放，角度不同。",
+      "items": [
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
+          "summary": "Brands know use of agents such as Meta Muse is on the rise but are unlikely to hand them the keys to the shop They promise to find the best Black Friday deals, source Christmas gifts and find the ingredients for a romantic dinner. This week’s UK launch of the Muse AI assistant by the owner of Facebook and Instagram promises to transform how we shop – and how retailers make money. Continue reading...",
+          "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse"
+        },
+        {
+          "outlet": "MarketWatch",
+          "lean": "中",
+          "title": "Is the stock market open on Black Friday?",
+          "summary": "Here’s how the day after Thanksgiving will affect trading on Wall Street",
+          "url": "WP-MKTW-0005369026"
+        },
+        {
+          "outlet": "NPR",
+          "lean": "中左",
+          "title": "What to know before using AI agents for Black Friday shopping",
+          "summary": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping"
+        }
+      ],
+      "_score": 53.88
+    },
+    {
+      "id": "A4",
+      "category": "AI",
+      "title": "华为在美审判被判10项罪名成立 黄仁勋去职引追问",
+      "facts": [
+        "南华早报汇总称华为在美国审判中被判10项罪名成立。",
+        "CNBC报道黄仁勋因多起 reported 婚外情辞职，其中涉及一名被指为北京间谍的中国女商人。",
+        "TechCrunch称调查核心问题是英伟达对芯片最终去向知道多少，以及黄仁勋与Megaspeed高管的婚外情是否让公司有理由怀疑其保证。"
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "汇总华为被判10项罪名与黄仁勋回归等七条新闻。",
+          "url": "https://www.scmp.com/news/world/article/3375979/huawei-guilty-10-counts-us-trial-nvidias-jensen-huang-returns-scmps-7-highlights"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "称黄仁勋告诉员工英伟达不需要继任计划。",
+          "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html"
+        },
+        {
+          "name": "TechCrunch",
+          "lean": "中",
+          "angle": "追问英伟达对Megaspeed芯片去向知道多少。",
+          "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
+        }
+      ],
+      "framing": "中间来源分别聚焦华为定罪与黄仁勋辞职；专业来源追问英伟达对芯片流向及Megaspeed关系的知情程度。",
+      "items": [
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Huawei guilty on 10 counts in US trial; Nvidia’s Jensen Huang returns: SCMP’s 7 highlights",
+          "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. Chinese astronauts greet first foreign crew member with historic handshake China’s latest crewed space mission, Shenzhou-24, successfully delivered three astronauts to the Tiangong space station on Wednesday, including its first...",
+          "url": "https://www.scmp.com/news/world/article/3375979/huawei-guilty-10-counts-us-trial-nvidias-jensen-huang-returns-scmps-7-highlights"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+          "summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+          "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html"
+        },
+        {
+          "outlet": "TechCrunch",
+          "lean": "中",
+          "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+          "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
+          "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
+        }
+      ],
+      "_score": 47.42
+    }
+  ],
+  "stats": {
+    "feeds_ok": 42,
+    "feeds_failed": 2,
+    "items": 353,
+    "clusters": 242,
+    "stories": 16,
+    "feeds_total": 44,
+    "errors": 2,
+    "elapsed_sec": 3.2
+  },
+  "errors": [
+    {
+      "source": "Arab News",
+      "feed": "arabnews",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "VentureBeat",
+      "feed": "venturebeat-ai",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "warnings": [],
+  "llm_used": true,
+  "llm_provider": "deepseek",
+  "lede": "今日四条线均呈现权力与规则的重塑：特朗普对俄乌与贸易议题同时施压，新西兰与欧洲政坛出现联盟算术变化；英伟达CEO更迭牵动芯片与关税；F1围绕车手关系、成本帽与赛历规则展开；AI则从卫星部署到购物代理引发责任与治理追问。",
+  "takeaways": [
+    "特朗普第二任期外交与贸易动作并行，盟友与对手均需重新计算应对成本。",
+    "英伟达领导层变动成为科技与地缘政治交叉点，芯片流向与关税风险同步上升。",
+    "F1成本帽执行与车手市场落定，显示这项运动在财务与竞技间持续找平衡。",
+    "AI应用加速落地，但责任归属与出口管制漏洞仍是未解难题。"
+  ]
+}
