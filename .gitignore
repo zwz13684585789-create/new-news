@@ -4,3 +4,7 @@ __pycache__/
 docs/email-preview.eml
 docs-sample/
 docs-live/
+build/
+build-*.log
+final_titles.txt
+pages_final.html

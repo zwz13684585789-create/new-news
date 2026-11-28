@@ -52,13 +52,21 @@ jobs:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           MAIL_FROM: ${{ vars.MAIL_FROM }}
           PAGES_URL: ${{ vars.PAGES_URL }}
-        run: python scripts/build_brief.py
+        run: |
+          DATASET="curated/$(date +%F).json"
+          if [ -f "$DATASET" ]; then
+            echo "using curated dataset: $DATASET"
+            python scripts/build_brief.py --dataset "$DATASET"
+          else
+            python scripts/build_brief.py
+          fi
 
       - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs
+          if [ -d curated ]; then git add curated; fi
           if git diff --cached --quiet; then
             echo "no changes to commit"
           else

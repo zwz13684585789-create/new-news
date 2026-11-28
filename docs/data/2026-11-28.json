@@ -1,0 +1,879 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T03:04:04+00:00",
+  "stories": [
+    {
+      "id": "P1",
+      "category": "政治",
+      "title": "伊朗战事外溢：意大利指无人机产自伊朗，美伊海上对峙",
+      "facts": [
+        "意大利外长塔亚尼称，科威特致命袭击所用无人机为伊朗制造。",
+        "美国称一艘试图离开伊朗的船只被瘫痪，船员未受伤；伊朗称港口仍运转并誓言抵抗封锁。",
+        "法国24台引述伊朗抗议者仍面临死刑，国际特赦组织称审判不公且受酷刑污染。",
+        "德国之声称战争、贫困与学业中断可能使更多伊朗女童面临童婚风险。"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "突出意大利外长对无人机产地的直接指控。",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "lean": "中",
+          "angle": "聚焦美国瘫痪船只与伊朗誓言抵抗封锁。",
+          "url": "https://www.channelnewsasia.com/world/us-disable-ship-iran-blockade-hormuz-6588546"
+        },
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "引述抗议者死刑与国际特赦组织审判批评。",
+          "url": "https://www.france24.com/en/from-bad-to-catastrophic-iran-s-justice-system-was-already-unfair-for-many-decades"
+        },
+        {
+          "name": "Deutsche Welle",
+          "lean": "中",
+          "angle": "关注战争贫困下伊朗女童童婚风险上升。",
+          "url": "https://www.dw.com/en/in-iran-child-marriage-risks-complicated-by-war/a-80075473?maca=en-rss-en-world-4025-rdf"
+        }
+      ],
+      "framing": "四家来源角度差异明显：半岛聚焦无人机产地指控，CNA聚焦美伊海上行动，法国24与德国之声侧重伊朗内部人权与社会风险；单一来源细节有限。",
+      "items": [
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+          "summary": "Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran.",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss"
+        },
+        {
+          "outlet": "Channel NewsAsia",
+          "lean": "中",
+          "title": "US disables ship trying to leave Iran, as Tehran vows to confront blockade",
+          "summary": "The US said the ship’s crew was unharmed, while Iran insisted its ports remained active and vowed to resist the blockade.",
+          "url": "https://www.channelnewsasia.com/world/us-disable-ship-iran-blockade-hormuz-6588546"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "'From bad to catastrophic: Iran's justice system was already unfair for many decades'",
+          "summary": "Amid war with the US and Israel, Iranian protesters continue to face death sentences following what Amnesty International describes as grossly unfair, torture-tainted trials. “The situation has changed from bad to catastrophic,” says Raha Bahreini, Iranian-Canadian human rights lawyer and Amnesty International's researcher on Iran. Bahreini discusses the aftermath of the January 2026 protests, the authorities' efforts to equate peaceful dissent with treason and espionage, and the extrajudicial killings of peaceful ",
+          "url": "https://www.france24.com/en/from-bad-to-catastrophic-iran-s-justice-system-was-already-unfair-for-many-decades"
+        },
+        {
+          "outlet": "Deutsche Welle",
+          "lean": "中",
+          "title": "In Iran, child marriage risks complicated by war",
+          "summary": "War, poverty and disrupted schooling could put more girls in Iran at risk of child marriage, rights advocates have warned.",
+          "url": "https://www.dw.com/en/in-iran-child-marriage-risks-complicated-by-war/a-80075473?maca=en-rss-en-world-4025-rdf"
+        }
+      ],
+      "_score": 63.52
+    },
+    {
+      "id": "P2",
+      "category": "政治",
+      "title": "乌克兰提出黑海停火方案，等待俄方回应",
+      "facts": [
+        "乌克兰外长瑟比加称，乌方已向国际伙伴提交黑海停火“实际方案”，目标是恢复航行自由与粮食出口，目前等待俄方回应。",
+        "方案公布前一天，俄罗斯攻击了两艘外国粮船；乌方称黑海已重新成为战场，粮食出口较上一季明显下降。",
+        "泽连斯基批评特朗普与普京的“友谊”未带来停火；普京则主持新核潜艇入列，显示俄方仍在强化海上力量。"
+      ],
+      "sources": [
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "报道乌方提交方案、等待莫斯科回应，并提及此前粮船遇袭。",
+          "url": "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response"
+        },
+        {
+          "name": "Al Jazeera",
+          "lean": "中左",
+          "angle": "聚焦黑海粮食出口与泽连斯基对特朗普-普京关系的批评。",
+          "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy"
+        }
+      ],
+      "framing": "两家来源均确认乌方已提交方案且俄方未回应；法国24 侧重方案内容与粮船遇袭，半岛电视台侧重泽连斯基的外交批评与俄海军动作。",
+      "items": [
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "Ukraine submits Black Sea ceasefire offer, awaits Russian response",
+          "summary": "Kyiv has handed partners practical proposals for a Black Sea ceasefire meant to restore navigation and food exports; Moscow has not replied.",
+          "url": "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "lean": "中左",
+          "title": "Kyiv offers Black Sea ceasefire as Putin expands Russia's navy",
+          "summary": "Ukraine wants a ceasefire to protect grain exports; Zelensky criticises Trump's friendship with Putin as Russia adds a new submarine.",
+          "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy"
+        }
+      ]
+    },
+    {
+      "id": "P3",
+      "category": "政治",
+      "title": "西班牙选前最后拉票：桑切斯欲逆民调，对手指其不实",
+      "facts": [
+        "BBC称首相桑切斯欲 defy 民调，主要对手指其不说真话并称“背叛”。",
+        "卫报称西班牙受气候危机冲击严重，但选前辩论对气候议题着墨很少，右翼联盟可能逆转现有环保政策。",
+        "法国24台称右翼选民高度动员，左翼选民动员不足，并分析费霍的竞选与政治生涯。"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "报道桑切斯与对手最后拉票，突出“背叛”指控。",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "追问气候危机为何在选前被淡化，关注右翼联盟可能逆转环保政策。",
+          "url": "https://www.theguardian.com/world/2026/nov/25/spain-election-climate-crisis"
+        },
+        {
+          "name": "France 24",
+          "lean": "中",
+          "angle": "分析右翼动员强、左翼动员不足及费霍竞选。",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20261127-spanish-elections-right-wing-voters-extremely-mobilised-left-wing-voters-not-mobilised-enough"
+        }
+      ],
+      "framing": "三家来源均围绕选前最后阶段：BBC 与法国24 聚焦桑切斯与右翼对手的攻防、选民动员；卫报从气候议题切入，指出该议题在选前被明显淡化。",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+          "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – as it happened",
+          "summary": "This blog is now closed Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war rhetoric towards the separatist Catalan “enemy within” threatened a return to the worst of Spain’s recent past. Continue reading...",
+          "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "中",
+          "title": "Spanish elections: 'Right-wing voters extremely mobilised, left-wing voters not mobilised enough'",
+          "summary": "“His main political platform is to say, I am not Sánchez, I am the opposite of Sánchez.” As Spain heads to the polls, what do Alberto Núñez Feijóo's campaign and political career tell us about the kind of prime minister he might become? Javier Carbonell, Policy Analyst at the European Politics and Institutions Programme and lecturer at Sciences Po in Paris, joins Gavin Lee to break down the Popular Party leader's efforts to avoid the mistakes of 2023 and keep right-wing voters mobilised without galvanising the left",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20261127-spanish-elections-right-wing-voters-extremely-mobilised-left-wing-voters-not-mobilised-enough"
+        }
+      ],
+      "_score": 53.18
+    },
+    {
+      "id": "P4",
+      "category": "政治",
+      "title": "加拿大最高法院大体维持魁北克世俗法案宗教标志禁令",
+      "facts": [
+        "德国之声称魁北克第21号法案禁止公务员佩戴宗教标志，政府称保护世俗社会。",
+        "卫报称加拿大最高法院大体维持该法，暴露少数权利与政府推翻权利权力间张力。",
+        "BBC称该法面临多团体法律挑战，包括穆斯林、锡克教与天主教女教师，称其侵犯基本权利。"
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "lean": "中",
+          "angle": "介绍法案内容与政府世俗主义理由。",
+          "url": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "突出少数权利与政府推翻权利权力的张力。",
+          "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "列举穆斯林、锡克教与天主教女教师等挑战者。",
+          "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "framing": "三家来源角度接近，均报道法院大体维持禁令；德国之声侧重政府理由，卫报强调权利张力，BBC突出挑战者身份。",
+      "items": [
+        {
+          "outlet": "Deutsche Welle",
+          "lean": "中",
+          "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
+          "summary": "Quebec's government passed Bill 21 to ban religious symbols for public servants, arguing it was necessary to protect its secularist society. Critics argue the bill weakens legal protections for fundamental rights.",
+          "url": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+          "summary": "Closely watched decision exposes tensions between minority rights and the power of government to override those rights Canada’s top court has largely upheld a controversial secularism law in the province of Quebec barring public sector workers from wearing conspicuous religious symbols, in a closely watched decision that exposes the tensions between minority rights and the power of government to override those rights. In a 6-1 ruling released on Friday morning , the supreme court found Quebec was permitted to shiel",
+          "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+          "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
+          "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 52.98
+    },
+    {
+      "id": "E1",
+      "category": "经济",
+      "title": "英伟达大涨与美对华新关税并行，投资者关注五大数字",
+      "facts": [
+        "南华早报称英伟达股价周一大涨31%，美股与亚洲市场经历波动一周，受AI交易担忧与新一轮美国关税影响。",
+        "CNBC称中国工厂利润恢复增长，但AI繁荣正在挑选赢家，消费与房地产投资滞后。",
+        "BBC称美国宣布对包括中国与欧盟在内的多国新关税，将打击美国主要贸易伙伴。"
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "lean": "中",
+          "angle": "以英伟达31%涨幅与20-40%关税等数字盘点。",
+          "url": "https://www.scmp.com/business/china-business/article/3375991/nvidias-31-surge-20-40-us-tariffs-china-5-figures-investors-are-watching-week"
+        },
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "分析中国工厂利润回升但AI繁荣分化赢家。",
+          "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "报道美国对华与欧盟等多国宣布新关税。",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox Business (via Yahoo Finance)",
+          "lean": "右",
+          "angle": "以“特朗普对市场影响力减弱”为框架评论黄仁勋复职与英伟达大涨。",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fox-host-reveals-sign-trump-234652391.html"
+        }
+      ],
+      "framing": "四家来源角度互补：南华早报以数字盘点市场波动，CNBC 聚焦中国工厂利润与 AI 分化，BBC 聚焦美国新关税范围，福克斯商业则从特朗普政治影响力角度评论英伟达大涨；前三家均未给出关税具体税率细节。",
+      "items": [
+        {
+          "outlet": "South China Morning Post",
+          "lean": "中",
+          "title": "Nvidia’s 31% surge, 20-40% US tariffs on China: 5 figures investors are watching this week",
+          "summary": "After Nvidia shares skyrocketed on Monday, capital markets across the United States and Asia experienced another volatile week, paring gains amid widespread concerns over the AI trade and a new round of US tariffs targeting major economies, including China. Below are five figures that captured market attention this week: Nvidia stock rallies 31 per cent Following Jensen Huang’s return to Nvidia as CEO on Monday, the chipmaker’s stock surged more than 31 per cent – its biggest one-day percentage...",
+          "url": "https://www.scmp.com/business/china-business/article/3375991/nvidias-31-surge-20-40-us-tariffs-china-5-figures-investors-are-watching-week"
+        },
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
+          "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while consumption, real estate investment lag.",
+          "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "US announces new tariffs on host of countries including China",
+          "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "_score": 44.69
+    },
+    {
+      "id": "E2",
+      "category": "经济",
+      "title": "英伟达周内飙升但月度仍跌，黄仁勋回归引发科技界分化",
+      "facts": [
+        "MarketWatch称英伟达股价本周飙升，但11月仍跌近28%，2026年跌21%。",
+        "卫报称部分科技领袖庆祝黄仁勋回归英伟达，马斯克与奥尔特曼在列，谷歌、Meta与苹果CEO未置评。"
+      ],
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "lean": "中",
+          "angle": "突出英伟达周内飙升但月度与年度仍下跌。",
+          "url": "https://www.marketwatch.com/story/the-return-of-jensen-huang-has-saved-the-u-s-stock-market-for-now-why-the-rebound-may-not-last-f72656ce"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "报道科技领袖对黄仁勋回归有人庆祝有人沉默。",
+          "url": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech"
+        }
+      ],
+      "framing": "两家来源角度不同：MarketWatch聚焦股价周度与月度表现，卫报聚焦科技界对黄仁勋回归的公开反应分化；单一来源细节有限。",
+      "items": [
+        {
+          "outlet": "MarketWatch",
+          "lean": "中",
+          "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+          "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+          "url": "https://www.marketwatch.com/story/the-return-of-jensen-huang-has-saved-the-u-s-stock-market-for-now-why-the-rebound-may-not-last-f72656ce"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
+          "summary": "Elon Musk and Sam Altman among those rejoicing but Google, Meta and Apple chiefs have declined to weigh in The phrase “return of the king” rippled across social media on Monday. A vocal subsection of the tech industry was celebrating the resurrection of Jensen Huang as Nvidia’s CEO. Some called him the “imperial and royal majesty”, others anointed him as “our Jesus” and several simply posted a crown emoji. “The mistake has been corrected,” said Elon Musk. “Jensen!” exclaimed OpenAI’s Sam Altman. Continue reading...",
+          "url": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech"
+        }
+      ],
+      "_score": 42.9
+    },
+    {
+      "id": "E3",
+      "category": "经济",
+      "title": "英央行行长警告银行或转嫁15亿英镑税负，并称AI须惠及人类",
+      "facts": [
+        "卫报称英央行行长贝利担心银行可能将15亿英镑公司税附加费成本转嫁客户。",
+        "Politico称贝利警告AI必须惠及人类，技术需要边界，“有点像养孩子”。"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "报道贝利担心银行转嫁15亿英镑税负成本。",
+          "url": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey"
+        },
+        {
+          "name": "Politico",
+          "lean": "中",
+          "angle": "突出贝利称AI需边界并应惠及人类。",
+          "url": "https://www.politico.eu/article/bank-of-england-boss-warns-ai-must-benefit-humans/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        }
+      ],
+      "framing": "两家来源角度不同：卫报聚焦银行税负转嫁风险，Politico聚焦贝利对AI边界的比喻；单一来源细节有限。",
+      "items": [
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Banks may pass on £1.5bn tax rise to customers, warns Bank of England chief",
+          "summary": "Big lenders will aim to ‘protect their earnings’ from temporary increase in corporation tax surcharge, says Andrew Bailey Business live – latest updates The governor of the Bank of England has said he fears banks could attempt to pass on the £1.5bn cost of Labour’s tax increase on their profits . The chancellor, John Healey, used his first budget last month to temporarily increase the bank corporation tax surcharge from 3% to 6% for a 15-month period from January, with the proceeds funding “breathing space” to reli",
+          "url": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey"
+        },
+        {
+          "outlet": "Politico",
+          "lean": "中",
+          "title": "Bank of England boss warns AI must benefit humans",
+          "summary": "Tech needs boundaries — \"a bit like rearing children,\" says Andrew Bailey.",
+          "url": "https://www.politico.eu/article/bank-of-england-boss-warns-ai-must-benefit-humans/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        }
+      ],
+      "_score": 41.22
+    },
+    {
+      "id": "E4",
+      "category": "经济",
+      "title": "Norse Atlantic 停飞：伊朗战争推高燃油成本，跨大西洋廉航走向破产",
+      "facts": [
+        "Norse Atlantic 暂停全部航班；BBC 称公司正寻求紧急融资，若无救助将申请破产。",
+        "卫报称公司已申请破产并取消所有未来航班，直接原因是伊朗战争推高航空燃油成本；公司要求旅客不要前往机场。",
+        "德国之声称这家成立仅数年的廉航长期难以盈利，燃油价格飙升成为最后一击。"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "称公司已申请破产、取消未来航班，归因于战争推高燃油成本。",
+          "url": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights"
+        },
+        {
+          "name": "Deutsche Welle",
+          "lean": "中",
+          "angle": "梳理公司短历史与盈利困境，强调燃油冲击是最后一击。",
+          "url": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "称公司暂停航班、寻求紧急融资，未排除破产。",
+          "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo"
+        }
+      ],
+      "framing": "三家来源对“已申请破产”还是“若无救助将申请破产”表述不一：卫报用已完成时，BBC 仍称寻求融资；可交叉确认的核心事实是停飞与燃油成本冲击。",
+      "items": [
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Norse Atlantic Airways files for bankruptcy and cancels all future flights",
+          "summary": "The budget transatlantic airline has filed for bankruptcy, cancelled all future flights and told customers not to travel to airports.",
+          "url": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights"
+        },
+        {
+          "outlet": "Deutsche Welle",
+          "lean": "中",
+          "title": "Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs",
+          "summary": "The young airline had struggled to turn a profit; the fuel-price spike caused by the Iran war delivered the final blow.",
+          "url": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Norse Atlantic suspends all flights and seeks urgent funding",
+          "summary": "The airline has suspended flights and is seeking a lifeline; without it, it will file for bankruptcy.",
+          "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo"
+        }
+      ]
+    },
+    {
+      "id": "F1",
+      "category": "F1",
+      "title": "F1卡塔尔站周五：梅赛德斯一二，轮胎磨损与红旗搅局",
+      "facts": [
+        "Motorsport.com称安东内利在周五长距离模拟中领先维斯塔潘近一秒，卫冕世界冠军在单圈与正赛模拟均占优。",
+        "ESPN称安东内利在首练领先拉塞尔，梅赛德斯一二。",
+        "The Race称卡塔尔轮胎问题恶化，15圈磨损达100%，倍耐力评估是否需额外预防措施。"
+      ],
+      "sources": [
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "突出安东内利长距离领先维斯塔潘近一秒。",
+          "url": "https://www.motorsport.com/f1/news/f1-qatar-gp-practice-analysis-antonelli-nearly-a-second-clear-of-verstappen-on-long-runs/10878464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "name": "ESPN",
+          "lean": "中",
+          "angle": "报道安东内利首练领先拉塞尔梅奔一二。",
+          "url": "https://www.espn.com/f1/story/_/id/50603958/kimi-antonelli-george-russell-qatar-grand-prix-formula-1"
+        },
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "汇总各队周五练习后的反馈与说法。",
+          "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-qatar-2026.4NjrvUy3Zc6X6YN4i896S6"
+        },
+        {
+          "name": "The Race",
+          "lean": "专业",
+          "angle": "聚焦15圈100%磨损的卡塔尔轮胎问题恶化。",
+          "url": "https://www.the-race.com/formula-1/100-wear-in-15-laps-qatar-tyre-issue-has-got-even-worse/"
+        }
+      ],
+      "framing": "多家来源角度接近，均聚焦梅赛德斯周五统治力；Motorsport.com强调安东内利对维斯塔潘优势，The Race突出轮胎磨损，BBC与ESPN侧重红旗与队内一二。",
+      "items": [
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "F1 Qatar GP long runs: Kimi Antonelli nearly a second clear of Max Verstappen on Friday",
+          "summary": "Kimi Antonelli heads into the penultimate race weekend of the 2026 Formula 1 season in Qatar as the early favourite. The reigning world champion dominated Friday practice at the Lusail International Circuit, both over a single lap and in the race simulations. His advantage on the long runs was particularly impressive: his closest challenger, Max Verstappen, was on average 0.83s per lap slower in ... Keep reading",
+          "url": "https://www.motorsport.com/f1/news/f1-qatar-gp-practice-analysis-antonelli-nearly-a-second-clear-of-verstappen-on-long-runs/10878464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+        },
+        {
+          "outlet": "ESPN",
+          "lean": "中",
+          "title": "Antonelli tops first practice ahead of Merc teammate Russell at Qatar GP",
+          "summary": "Kimi Antonelli led George Russell to a Mercedes one-two in the opening practice session at the Qatar Grand Prix.",
+          "url": "https://www.espn.com/f1/story/_/id/50603958/kimi-antonelli-george-russell-qatar-grand-prix-formula-1"
+        },
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "What the teams said – Friday in Qatar",
+          "summary": "The drivers and teams report back on all the action from Friday practice at the Lusail International Circuit, ahead of the 2026 Qatar Grand Prix.",
+          "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-qatar-2026.4NjrvUy3Zc6X6YN4i896S6"
+        },
+        {
+          "outlet": "The Race",
+          "lean": "专业",
+          "title": "100% wear in 15 laps - Qatar tyre issue has got even worse",
+          "summary": "Pirelli is evaluating if further precautions are needed for the Qatar Grand Prix after Friday practice.",
+          "url": "https://www.the-race.com/formula-1/100-wear-in-15-laps-qatar-tyre-issue-has-got-even-worse/"
+        }
+      ],
+      "_score": 69.22
+    },
+    {
+      "id": "F2",
+      "category": "F1",
+      "title": "法拉利内耗公开化：瓦塞尔称勒克莱尔与汉密尔顿“难以管理”",
+      "facts": [
+        "法拉利领队瓦塞尔承认勒克莱尔与汉密尔顿的关系“已难以管理”，并暗示后悔让两人成为队友。",
+        "两人本赛季多次在赛道上碰撞；勒克莱尔否认合同中有“一号车手条款”，称赛后已与汉密尔顿进行良好沟通。",
+        "汉密尔顿称法拉利正处于“非常非常困难的时期”；卫报称车队在卡塔尔站前进行了紧急会谈。"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "报道两人代价高昂的赛道冲突与卡塔尔站前的紧张气氛。",
+          "url": "https://www.theguardian.com/sport/2026/nov/27/ferrari-lewis-hamilton-charles-leclerc-qatar-grand-prix-f1"
+        },
+        {
+          "name": "ESPN",
+          "lean": "中",
+          "angle": "引瓦塞尔称局面“难以管理”，暗示后悔让两人搭档。",
+          "url": "https://www.espn.com/f1/story/_/id/50472137/f1-ferrari-charles-leclerc-lewis-hamilton-las-vegas-grand-prix-formula-1"
+        },
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "报道勒克莱尔否认“一号车手条款”，称碰撞后沟通良好。",
+          "url": "https://www.skysports.com/f1/news/12433/13616753/charles-leclerc-denies-presence-of-no-1-driver-clause-in-ferrari-contract-as-he-and-lewis-hamilton-hold-good-discussions-after-collision"
+        },
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "引汉密尔顿称法拉利处于“非常非常困难的时期”。",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mw2dkzrxo"
+        }
+      ],
+      "framing": "四家来源均确认车队内部紧张；ESPN 与 BBC 引瓦塞尔、汉密尔顿的强硬表述，天空体育与卫报补充勒克莱尔的降温表态，角度从“危机”到“试图修复”不等。",
+      "items": [
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Ferrari's Lewis Hamilton and Charles Leclerc tensions boil over before Qatar GP",
+          "summary": "Costly on-track clashes have left Ferrari managing a fragile relationship between its two drivers.",
+          "url": "https://www.theguardian.com/sport/2026/nov/27/ferrari-lewis-hamilton-charles-leclerc-qatar-grand-prix-f1"
+        },
+        {
+          "outlet": "ESPN",
+          "lean": "中",
+          "title": "Vasseur admits Ferrari driver situation 'unmanageable'",
+          "summary": "Ferrari team principal Fred Vasseur admitted the Leclerc-Hamilton pairing has been difficult to manage and hinted at regret.",
+          "url": "https://www.espn.com/f1/story/_/id/50472137/f1-ferrari-charles-leclerc-lewis-hamilton-las-vegas-grand-prix-formula-1"
+        },
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "Leclerc denies No.1 driver clause after collision with Hamilton",
+          "summary": "Leclerc said there is no number-one clause in his contract and that the pair had good discussions after their latest collision.",
+          "url": "https://www.skysports.com/f1/news/12433/13616753/charles-leclerc-denies-presence-of-no-1-driver-clause-in-ferrari-contract-as-he-and-lewis-hamilton-hold-good-discussions-after-collision"
+        },
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Hamilton: Ferrari in 'very, very challenging times'",
+          "summary": "Lewis Hamilton described Ferrari's season as a very difficult period after another troubled weekend.",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mw2dkzrxo"
+        }
+      ]
+    },
+    {
+      "id": "F3",
+      "category": "F1",
+      "title": "奥迪上诉被驳回：意大利站角田裕毅争议落幕",
+      "facts": [
+        "国际上诉法院驳回奥迪对意大利大奖赛“起步中止”事件中角田裕毅处罚的上诉，蒙扎站结果在事发两个多月后正式确认。",
+        "奥迪认为角田在重新起步时不应免于处罚；Motorsport.com 称听证会于 11 月 25 日举行。",
+        "F1.com 称裁决维持原判，奥迪的申诉未能改变比赛分类。"
+      ],
+      "sources": [
+        {
+          "name": "Formula1.com",
+          "lean": "一手",
+          "angle": "提供裁决结果与国际上诉法院听证程序。",
+          "url": "https://www.formula1.com/en/latest/article/audis-italian-grand-prix-appeal-over-tsunoda-restart-decision-is-dismissed.53YK6RxY4GWQ0WvgCUm3xh"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "解释奥迪的处罚主张与听证时间。",
+          "url": "https://www.motorsport.com/f1/news/audi-appeal-against-yuki-tsunoda-dismissed-heres-why/10878357/"
+        }
+      ],
+      "framing": "两家来源结论一致；F1.com 提供裁决与程序，Motorsport.com 解释奥迪为何认为角田应受罚。",
+      "items": [
+        {
+          "outlet": "Formula1.com",
+          "lean": "一手",
+          "title": "Audi's Italian Grand Prix appeal over Tsunoda restart decision is dismissed",
+          "summary": "The International Court of Appeal dismissed Audi's appeal; the Monza result stands.",
+          "url": "https://www.formula1.com/en/latest/article/audis-italian-grand-prix-appeal-over-tsunoda-restart-decision-is-dismissed.53YK6RxY4GWQ0WvgCUm3xh"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Audi appeal against Yuki Tsunoda dismissed - here's why",
+          "summary": "Audi believed Tsunoda deserved a time penalty for the aborted start; the hearing was held on November 25.",
+          "url": "https://www.motorsport.com/f1/news/audi-appeal-against-yuki-tsunoda-dismissed-heres-why/10878357/"
+        }
+      ]
+    },
+    {
+      "id": "F4",
+      "category": "F1",
+      "title": "贝尔曼与哈斯续约一年，2027 F1 车手阵容确定",
+      "facts": [
+        "哈斯车队宣布与贝尔曼续约一年，英国人将在 2027 赛季继续效力。",
+        "贝尔曼将搭档巴西新秀拉斐尔·卡马拉；Motorsport.com 称 2027 车手阵容由此全部确定。",
+        "天空体育称谈判持续较久，最终在卡塔尔站前敲定。"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "确认贝尔曼 2027 年继续效力哈斯。",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2wxyk7343o"
+        },
+        {
+          "name": "Motorsport.com",
+          "lean": "专业",
+          "angle": "称一年合约已定，2027 全部车手席位确定。",
+          "url": "https://www.motorsport.com/f1/news/oliver-bearman-locks-in-haas-f1-seat-as-2027-grid-officially-set/10877802/"
+        },
+        {
+          "name": "Sky Sports",
+          "lean": "中",
+          "angle": "称谈判持续较久，卡塔尔站前最终敲定。",
+          "url": "https://www.skysports.com/f1/news/12433/13610208/oliver-bearman-to-remain-with-haas-for-2027-f1-season-after-new-contract-finally-agreed-ahead-of-qatar-gp"
+        }
+      ],
+      "framing": "三家来源均确认续约；BBC 与天空体育侧重谈判过程，Motorsport.com 侧重 2027 阵容全局。",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Bearman continues with Haas in 2027",
+          "summary": "Oliver Bearman will remain with Haas for the 2027 season.",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2wxyk7343o"
+        },
+        {
+          "outlet": "Motorsport.com",
+          "lean": "专业",
+          "title": "Oliver Bearman locks in Haas F1 seat as 2027 grid officially set",
+          "summary": "Bearman signed a one-year deal and will partner Brazilian rookie Rafael Camara; the 2027 grid is complete.",
+          "url": "https://www.motorsport.com/f1/news/oliver-bearman-locks-in-haas-f1-seat-as-2027-grid-officially-set/10877802/"
+        },
+        {
+          "outlet": "Sky Sports",
+          "lean": "中",
+          "title": "Bearman to remain with Haas for 2027 after new contract agreed",
+          "summary": "The one-year extension was finally agreed ahead of the Qatar Grand Prix after protracted talks.",
+          "url": "https://www.skysports.com/f1/news/12433/13610208/oliver-bearman-to-remain-with-haas-for-2027-f1-season-after-new-contract-finally-agreed-ahead-of-qatar-gp"
+        }
+      ]
+    },
+    {
+      "id": "A1",
+      "category": "AI",
+      "title": "马斯克SpaceX卫星计划获批，并承诺向美国儿童捐股",
+      "facts": [
+        "BBC称马斯克将百万颗SpaceX数据卫星送入太空的计划获批，Starmind星座旨在满足AI算力需求。",
+        "卫报称马斯克承诺向每个美国儿童赠送两股SpaceX股票，总价值可能近180亿美元。",
+        "福克斯商业称SpaceX向每个活跃特朗普账户捐一股A类普通股，马斯克个人承诺匹配捐赠。"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "lean": "中",
+          "angle": "报道百万颗SpaceX数据卫星计划获批服务AI算力。",
+          "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "突出马斯克向每个美国儿童赠两股SpaceX。",
+          "url": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us"
+        },
+        {
+          "name": "Fox Business",
+          "lean": "右",
+          "angle": "报道SpaceX向活跃特朗普账户捐股马斯克匹配。",
+          "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts"
+        }
+      ],
+      "framing": "三家来源角度不同：BBC聚焦卫星计划获批与AI算力，卫报聚焦向儿童捐股及AI繁荣分配辩论，福克斯商业聚焦特朗普账户捐股；均未说明计划时间表细节。",
+      "items": [
+        {
+          "outlet": "BBC",
+          "lean": "中",
+          "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+          "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+          "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "Elon Musk pledges to give two SpaceX shares to every child in the US",
+          "summary": "The total value of the shares could reach almost $18bn and comes as tech companies debate how to share the spoils of the AI boom Elon Musk, the world’s richest person, has pledged to give every child in the US two shares in SpaceX, the space ⁠and AI company he ​runs, worth a total of almost $18bn. In a brief post on X, the social media platform that he owns, Musk said children will receive one share from the company itself, and one from him personally. SpaceX announced earlier on Wednesday that it would ​contribute",
+          "url": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us"
+        },
+        {
+          "outlet": "Fox Business",
+          "lean": "右",
+          "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
+          "summary": "SpaceX will give one share of its Class A common stock to every active Trump Account, with Elon Musk pledging to personally match the donation.",
+          "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts"
+        }
+      ],
+      "_score": 53.1
+    },
+    {
+      "id": "A2",
+      "category": "AI",
+      "title": "黄仁勋将赴国会作证：对华出口管制、复职争议与赦免言论交织",
+      "facts": [
+        "黄仁勋将于 12 月 3 日出席参议院银行委员会公开听证，主题为“保护美国 AI 优势：出口管制监督”；12 月 1 日起先接受众议院三个委员会闭门问询。",
+        "参议院民主党领袖舒默指控黄仁勋“向中国运送极先进芯片、违反出口管制”，并将其比作冷战时期向苏联出售火箭发动机。",
+        "特朗普表示若有必要会考虑赦免黄仁勋；MSNBC 称这使听证会同时成为对总统干预企业治理的检验。",
+        "英伟达股价在黄仁勋复职当日大涨 31%，市值增加约 9500 亿美元。"
+      ],
+      "sources": [
+        {
+          "name": "CP24 / AP",
+          "lean": "中",
+          "angle": "报道舒默的违法指控与黄仁勋国会作证安排。",
+          "url": "https://www.cp24.com/news/world/2026/11/24/democratic-senate-leader-accuses-nvidia-ceo-of-violating-us-export-control-law/"
+        },
+        {
+          "name": "MSNBC",
+          "lean": "左",
+          "angle": "聚焦特朗普赦免言论与总统干预企业治理的争议。",
+          "url": "https://www.ms.now/rachel-maddow-show/maddowblog/trump-jensen-huang-nvidia-pardon-congress-testimony-fifth-amendment"
+        },
+        {
+          "name": "Engadget",
+          "lean": "中",
+          "angle": "确认 12 月 3 日公开听证与 12 月 1 日闭门问询日程。",
+          "url": "https://www.engadget.com/2325655/nvidia-jensen-huang-will-testify-publlicly-before-senators-on-december-3/"
+        }
+      ],
+      "framing": "AP 与 Engadget 确认听证日程与指控，MSNBC 补充特朗普赦免言论；三家均未证实芯片流向的实质指控，听证会将成为关键节点。",
+      "items": [
+        {
+          "outlet": "CP24 / AP",
+          "lean": "中",
+          "title": "Democratic Senate leader accuses Nvidia CEO of violating U.S. export control law",
+          "summary": "Chuck Schumer accused Jensen Huang of violating export-control law, comparing the alleged chip shipments to selling rocket engines to the Soviets.",
+          "url": "https://www.cp24.com/news/world/2026/11/24/democratic-senate-leader-accuses-nvidia-ceo-of-violating-us-export-control-law/"
+        },
+        {
+          "outlet": "MSNBC",
+          "lean": "左",
+          "title": "Trump opens the door to a pardon for Nvidia's Huang ahead of congressional testimony",
+          "summary": "Huang is scheduled to testify publicly before the Senate Banking Committee on December 3 after closed-door House interviews.",
+          "url": "https://www.ms.now/rachel-maddow-show/maddowblog/trump-jensen-huang-nvidia-pardon-congress-testimony-fifth-amendment"
+        },
+        {
+          "outlet": "Engadget",
+          "lean": "中",
+          "title": "NVIDIA's Jensen Huang will testify publicly before senators on December 3",
+          "summary": "The Senate Banking Committee hearing will focus on export-control oversight; House panels interview Huang on December 1.",
+          "url": "https://www.engadget.com/2325655/nvidia-jensen-huang-will-testify-publlicly-before-senators-on-december-3/"
+        }
+      ]
+    },
+    {
+      "id": "A3",
+      "category": "AI",
+      "title": "AI 购物助手遭遇平台封堵：代理电商的开放性与责任之争",
+      "facts": [
+        "OpenAI、Meta、Google 等推出的 AI 购物助手在假日季快速普及，可代用户比价、找礼物。",
+        "亚马逊等零售商开始限制第三方 AI 代理抓取商品与下单，CNBC 称这可能抑制代理电商的增长。",
+        "卫报称零售商对 AI 助手出错时的责任归属没有答案；Meta Muse 等工具正在改变平台与商家的流量分配。"
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "聚焦亚马逊等平台对第三方 AI 购物代理的封堵。",
+          "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html"
+        },
+        {
+          "name": "The Guardian",
+          "lean": "左",
+          "angle": "聚焦 AI 助手出错时的责任归属与商家风险。",
+          "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse"
+        }
+      ],
+      "framing": "CNBC 聚焦平台封锁与商业摩擦，卫报聚焦责任与商家风险；两家均认为 AI 代理会改变电商入口，但监管与责任规则尚未跟上。",
+      "items": [
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "AI shopping agents are having a moment, but Amazon and other sites threaten to stunt their growth",
+          "summary": "Agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they are hitting roadblocks at Amazon and other retailers.",
+          "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html"
+        },
+        {
+          "outlet": "The Guardian",
+          "lean": "左",
+          "title": "'If the bot gets it wrong, who's liable?' Retailers enter the unknown with AI shopping assistants",
+          "summary": "Retailers are adopting tools such as Meta Muse but are unsure who bears responsibility when an agent makes a mistake.",
+          "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse"
+        }
+      ]
+    },
+    {
+      "id": "A4",
+      "category": "AI",
+      "title": "SAP 拟裁至少 1 万人：AI 重组波及 9% 全球员工",
+      "facts": [
+        "SAP 正考虑在 AI 驱动的重组中裁减至少 1 万个岗位，约占其 11 万全球员工的 9%。",
+        "SAP 对 CNBC 表示正在评估组织与岗位，但尚未就重组或裁员作出决定；路透称无法独立核实彭博报道，劳资委员会尚未听取简报。",
+        "路透社称德国员工就业保障承诺延续至 2028 年，最终裁员规模仍可能在劳资谈判后变化。"
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "lean": "中",
+          "angle": "报道 SAP 考虑至少 1 万个 AI 重组岗位削减。",
+          "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
+        },
+        {
+          "name": "Reuters",
+          "lean": "中",
+          "angle": "强调消息来自彭博社、路透社无法独立核实，并补充劳资与就业保障背景。",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/11/27/sap-considers-at-least-10000-job-cuts-in-ai-restructuring-bloomberg-reports"
+        }
+      ],
+      "framing": "两家来源均基于彭博社消息，CNBC 与路透社都未能独立证实；事实核心是“考虑中”的重组，不是已宣布的裁员。",
+      "items": [
+        {
+          "outlet": "CNBC",
+          "lean": "中",
+          "title": "SAP considering at least 10,000 job cuts in AI restructuring",
+          "summary": "SAP is considering cutting at least 10,000 jobs, about 9% of its 110,000-strong workforce, as part of an AI-driven restructuring.",
+          "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
+        },
+        {
+          "outlet": "Reuters",
+          "lean": "中",
+          "title": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports",
+          "summary": "Bloomberg reported the plan; Reuters could not independently verify it. The works council has not been briefed and Germany's employment guarantee runs through 2028.",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/11/27/sap-considers-at-least-10000-job-cuts-in-ai-restructuring-bloomberg-reports"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "feeds_ok": 42,
+    "feeds_failed": 2,
+    "items": 320,
+    "clusters": 218,
+    "stories": 16,
+    "feeds_total": 44,
+    "errors": 2,
+    "elapsed_sec": 15.7,
+    "curated": true,
+    "sources": 46
+  },
+  "errors": [
+    {
+      "source": "Arab News",
+      "feed": "arabnews",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "VentureBeat",
+      "feed": "venturebeat-ai",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "warnings": [],
+  "llm_used": true,
+  "llm_provider": "deepseek",
+  "lede": "今天的主线是“战争与规则的成本开始显性化”：黑海粮食通道与伊朗战事继续外溢，Norse Atlantic 成为燃油冲击下第一家倒下的跨大西洋廉航；AI 板块则在英伟达大涨、黄仁勋国会作证与 SAP 万人重组之间，同时接受市场、监管与就业三重检验。",
+  "takeaways": [
+    "政治：乌克兰把黑海停火与粮食出口绑定，俄方未回应；伊朗战事的无人机溯源、海上封锁与人权后果同时发酵。",
+    "经济：英伟达一日大涨 31% 与 20–40% 新关税并行，Norse Atlantic 破产显示战争成本正传导到航空业。",
+    "AI：黄仁勋 12 月 3 日国会作证、SAP 拟裁 1 万人、AI 购物代理遭平台封堵——治理与就业开始追赶估值。",
+    "F1：卡塔尔站梅赛德斯周五统治，但轮胎 15 圈 100% 磨损与法拉利内耗是更大的变量。"
+  ]
+}

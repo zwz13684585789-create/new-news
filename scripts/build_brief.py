@@ -39,6 +39,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--no-email", action="store_true", help="skip email delivery")
     p.add_argument("--email-dry-run", action="store_true", help="write .eml preview instead of sending")
     p.add_argument("--sample", action="store_true", help="use sample/sample.json (offline smoke test)")
+    p.add_argument("--dataset", default="", help="render an existing dataset JSON instead of fetching (curated override)")
     p.add_argument("--pages-url", default=os.getenv("PAGES_URL", ""), help="public URL for the email button")
     return p.parse_args()
 
@@ -59,7 +60,18 @@ def main() -> int:
         out_dir = ROOT / out_dir
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    if args.sample:
+    if args.dataset:
+        dataset_path = Path(args.dataset)
+        if not dataset_path.is_absolute():
+            dataset_path = ROOT / dataset_path
+        if not dataset_path.exists():
+            print(f"dataset not found: {dataset_path}", file=sys.stderr)
+            return 2
+        data = json.loads(dataset_path.read_text(encoding="utf-8"))
+        data["date"] = date_str
+        data.setdefault("stats", {})["curated"] = True
+        print(f"[build] curated dataset: {dataset_path} stories={len(data.get('stories', []))}", flush=True)
+    elif args.sample:
         sample_path = ROOT / "sample" / "sample.json"
         data = json.loads(sample_path.read_text(encoding="utf-8"))
         data["date"] = date_str
@@ -74,7 +86,7 @@ def main() -> int:
     data["date"] = date_str
     data["generated_at"] = now.astimezone(timezone.utc).isoformat(timespec="seconds")
 
-    if not args.no_llm and not args.sample:
+    if not args.no_llm and not args.sample and not args.dataset:
         print("[llm] summarizing...", flush=True)
         data = llm.summarize(data)
         if data.get("llm_used"):
@@ -82,7 +94,7 @@ def main() -> int:
         else:
             print(f"[llm] fallback: {data.get('llm_error')}", flush=True)
 
-    if not data.get("llm_used") and not args.no_translate:
+    if not data.get("llm_used") and not args.no_translate and not args.dataset:
         print("[translate] model unavailable; translating headlines/facts...", flush=True)
         data = translate.translate_dataset(data)
         if data.get("translation_used"):
